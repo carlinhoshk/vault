@@ -1,0 +1,18 @@
+{
+  "show-checkboxes": true,
+  "full-list-lane-width": true,
+  "tag-sort": [
+    {
+      "tag": "#bug"
+    }
+  ],
+  "tag-colors": [
+    {
+      "tagKey": "",
+      "color": "rgba(237, 237, 237, 1)",
+      "backgroundColor": "rgba(255, 25, 48, 0.1)"
+    }
+  ],
+  "move-dates": true,
+  "new-note-folder": "02 - Quadros-Kanban"
+}
