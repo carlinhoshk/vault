@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/05-03-2025.md",
+                "file": "01 - Daily/06-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "05-03-2025"
+              "title": "06-03-2025"
             }
           }
         ],
@@ -221,8 +221,9 @@
   },
   "active": "84ad6b2c920de243",
   "lastOpenFiles": [
-    "01 - Daily/04-03-2025.md",
     "01 - Daily/05-03-2025.md",
+    "01 - Daily/06-03-2025.md",
+    "01 - Daily/04-03-2025.md",
     "01 - Daily/03-03-2025.md",
     "03 - Estudos/Sem título.md",
     "00 - Index/README.md",
@@ -258,7 +259,6 @@
     "__data__/Media/README-28-02-2025.png",
     "__data__/Media/README-28022025.png",
     "04 - Projetos",
-    "01 - Daily",
-    "__data__/Templates/project.md"
+    "01 - Daily"
   ]
 }
