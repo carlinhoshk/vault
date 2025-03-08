@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/07-03-2025.md",
+                "file": "01 - Daily/08-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07-03-2025"
+              "title": "08-03-2025"
             }
           }
         ],
@@ -221,8 +221,9 @@
   },
   "active": "84ad6b2c920de243",
   "lastOpenFiles": [
-    "04 - Projetos/Projeto-LinuxDkIA.md",
     "01 - Daily/07-03-2025.md",
+    "01 - Daily/08-03-2025.md",
+    "04 - Projetos/Projeto-LinuxDkIA.md",
     "00 - Index/criação do template home.md",
     "01 - Daily/06-03-2025.md",
     "01 - Daily/28-02-2025.md",
@@ -252,7 +253,6 @@
     "__data__/Templates/Project boilerplate page.md",
     "__data__/Templates/Vertical Hydroponics.md",
     "Concept Board",
-    "01 - Daily/02-03-2025.md",
     "06 - Organização Linux",
     "__data__/Quadros/05 - Quadros-Canvas",
     "03 - Estudos",
