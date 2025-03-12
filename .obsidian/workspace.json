@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Organização Linux/Configurar fonte X11.md",
+                "file": "01 - Daily/12-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Configurar fonte X11"
+              "title": "12-03-2025"
             }
           }
         ],
@@ -221,8 +221,9 @@
   },
   "active": "84ad6b2c920de243",
   "lastOpenFiles": [
-    "01 - Daily/11-03-2025.md",
     "06 - Organização Linux/Configurar fonte X11.md",
+    "01 - Daily/12-03-2025.md",
+    "01 - Daily/11-03-2025.md",
     "01 - Daily/09-03-2025.md",
     "01 - Daily/08-03-2025.md",
     "01 - Daily/07-03-2025.md",
@@ -249,7 +250,6 @@
     "__data__/Quadros",
     "03 - Estudos/Estudos Sistemas Operacionais focado no projeto linux leve.md",
     "__data__/Quadros/02 - Quadros-Kanban/Kanban-EstudosLinux.md",
-    "Kanban sem título.md",
     "__data__/Quadros/02 - Quadros-Kanban",
     "03 - Estudos/Material de Estudos",
     "Concept Board",
