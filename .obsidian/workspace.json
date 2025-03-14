@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/13-03-2025.md",
+                "file": "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "13-03-2025"
+              "title": "SEMANA 1 - AULA 1"
             }
           }
         ],
@@ -219,11 +219,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0017a84ecfb56c15",
+  "active": "84ad6b2c920de243",
   "lastOpenFiles": [
+    "01 - Daily/13-03-2025.md",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS.md",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS",
     "03 - Estudos/Material da Faculdade",
     "01 - Daily/12-03-2025.md",
-    "01 - Daily/13-03-2025.md",
     "06 - Organização Linux/Configurar fonte X11.md",
     "01 - Daily/11-03-2025.md",
     "01 - Daily/09-03-2025.md",
@@ -247,7 +250,6 @@
     "03 - Estudos/Estudos OS linux.md",
     "03 - Estudos/Material de Estudos/material-estudos-linux.md",
     "__data__/Media/Pasted image 20250228042959.png",
-    "Concept Board/Concept Board.md",
     "__data__/Quadros/Quadros-Excalidraw",
     "__data__/Quadros",
     "__data__/Quadros/02 - Quadros-Kanban",
@@ -257,8 +259,6 @@
     "__data__/Quadros/05 - Quadros-Canvas",
     "03 - Estudos",
     "__data__/Media/README-28-02-2025.png",
-    "__data__/Media/README-28022025.png",
-    "04 - Projetos",
-    "01 - Daily"
+    "__data__/Media/README-28022025.png"
   ]
 }
