@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/15-03-2025.md",
+                "file": "01 - Daily/16-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15-03-2025"
+              "title": "16-03-2025"
             }
           }
         ],
@@ -221,8 +221,9 @@
   },
   "active": "84ad6b2c920de243",
   "lastOpenFiles": [
-    "01 - Daily/14-03-2025.md",
     "01 - Daily/15-03-2025.md",
+    "01 - Daily/16-03-2025.md",
+    "01 - Daily/14-03-2025.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
     "01 - Daily/13-03-2025.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS.md",
@@ -248,7 +249,6 @@
     "__data__/Templates/daily-note-template.md",
     "__data__/Templates/nota-diaria.md",
     "__data__/Templates/daily.md",
-    "__data__/Templates/book.md",
     "__data__/Media/Pasted image 20250228042959.png",
     "__data__/Quadros/Quadros-Excalidraw",
     "__data__/Quadros",
