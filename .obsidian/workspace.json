@@ -35,24 +35,12 @@
             "id": "84ad6b2c920de243",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "01 - Daily/16-03-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf"
               },
-              "icon": "lucide-file",
-              "title": "16-03-2025"
+              "icon": "lucide-file-text",
+              "title": "ProvaAnhanguera_250312_201941"
             }
           }
         ],
@@ -221,10 +209,13 @@
   },
   "active": "84ad6b2c920de243",
   "lastOpenFiles": [
-    "01 - Daily/15-03-2025.md",
-    "01 - Daily/16-03-2025.md",
-    "01 - Daily/14-03-2025.md",
+    "01 - Daily/05-03-2025.md",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas",
+    "01 - Daily/16-03-2025.md",
+    "01 - Daily/15-03-2025.md",
+    "01 - Daily/14-03-2025.md",
     "01 - Daily/13-03-2025.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS",
@@ -239,7 +230,6 @@
     "00 - Index/criação do template home.md",
     "01 - Daily/06-03-2025.md",
     "01 - Daily/28-02-2025.md",
-    "01 - Daily/05-03-2025.md",
     "01 - Daily/04-03-2025.md",
     "01 - Daily/03-03-2025.md",
     "03 - Estudos/Sem título.md",
@@ -248,7 +238,6 @@
     "01 - Daily/01-03-2025.md",
     "__data__/Templates/daily-note-template.md",
     "__data__/Templates/nota-diaria.md",
-    "__data__/Templates/daily.md",
     "__data__/Media/Pasted image 20250228042959.png",
     "__data__/Quadros/Quadros-Excalidraw",
     "__data__/Quadros",
@@ -256,8 +245,6 @@
     "03 - Estudos/Material de Estudos",
     "Concept Board",
     "06 - Organização Linux",
-    "__data__/Quadros/05 - Quadros-Canvas",
-    "03 - Estudos",
     "__data__/Media/README-28-02-2025.png",
     "__data__/Media/README-28022025.png"
   ]
