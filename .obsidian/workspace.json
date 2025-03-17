@@ -49,14 +49,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf"
+                "file": "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/LIVRO_UNICO-SIS.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "SIS_OP-A4"
+              "title": "LIVRO_UNICO-SIS"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,15 +219,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ecaf8613e6ecaa71",
+  "active": "84ad6b2c920de243",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/LIVRO_UNICO-SIS.pdf",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A1.pdf",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A2.pdf",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A3.pdf",
-    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A2.pdf",
-    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A1.pdf",
-    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
-    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/LIVRO_UNICO-SIS.pdf",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf",
     "01 - Daily/05-03-2025.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas",
     "01 - Daily/16-03-2025.md",
