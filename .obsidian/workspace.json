@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "16b38ad23eafa032",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Index/Instalar c-sharp no ArchLinux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Instalar c-sharp no ArchLinux"
+            }
+          },
+          {
             "id": "ecaf8613e6ecaa71",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,10 +267,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c55561e98e70d62c",
+  "active": "16b38ad23eafa032",
   "lastOpenFiles": [
-    "03 - Estudos/Sem título.md",
+    "__data__/Media/__data__Media17-03-2025.png",
+    "00 - Index/Instalar c-sharp no ArchLinux.md",
+    "__data__/Media/Pasted image 20250317235231.png",
     "03 - Estudos/Estudos C-sharp.md",
+    "03 - Estudos/Sem título.md",
     "03 - Estudos/Estudos Sistemas Operacionais focado no projeto linux leve.md",
     "03 - Estudos/Estudos OS linux.md",
     "03 - Estudos/Material de Estudos/material-estudos-linux.md",
@@ -278,8 +305,6 @@
     "01 - Daily/06-03-2025.md",
     "01 - Daily/28-02-2025.md",
     "01 - Daily/04-03-2025.md",
-    "01 - Daily/03-03-2025.md",
-    "00 - Index/README.md",
     "__data__/Media/Pasted image 20250228042959.png",
     "__data__/Quadros/Quadros-Excalidraw",
     "__data__/Media/README-28-02-2025.png",
