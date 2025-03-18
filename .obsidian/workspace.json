@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Estudos C-sharp.md",
+                "file": "04 - Projetos/Coxinha-Air-Portatil.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Estudos C-sharp"
+              "title": "Coxinha-Air-Portatil"
             }
           },
           {
@@ -269,10 +269,11 @@
   },
   "active": "c55561e98e70d62c",
   "lastOpenFiles": [
+    "03 - Estudos/Estudos C-sharp.md",
+    "04 - Projetos/Coxinha-Air-Portatil.md",
     "00 - Index/Instalar c-sharp no ArchLinux.md",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250317235231.png",
-    "03 - Estudos/Estudos C-sharp.md",
     "03 - Estudos/Sem título.md",
     "03 - Estudos/Estudos Sistemas Operacionais focado no projeto linux leve.md",
     "03 - Estudos/Estudos OS linux.md",
