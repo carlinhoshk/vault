@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/18-03-2025.md",
+                "file": "06 - Organização Linux/Configurações do Thema dracula do tmux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "18-03-2025"
+              "title": "Configurações do Thema dracula do tmux"
             }
           },
           {
@@ -269,8 +269,10 @@
   },
   "active": "c55561e98e70d62c",
   "lastOpenFiles": [
-    "04 - Projetos/Coxinha-Air-Portatil.md",
+    "__data__/Media/Pasted image 20250319042605.png",
+    "06 - Organização Linux/Configurações do Thema dracula do tmux.md",
     "01 - Daily/18-03-2025.md",
+    "04 - Projetos/Coxinha-Air-Portatil.md",
     "03 - Estudos/Estudos C-sharp.md",
     "00 - Index/Instalar c-sharp no ArchLinux.md",
     "__data__/Media/__data__Media17-03-2025.png",
@@ -304,8 +306,6 @@
     "01 - Daily/07-03-2025.md",
     "04 - Projetos/Projeto-LinuxDkIA.md",
     "00 - Index/criação do template home.md",
-    "01 - Daily/06-03-2025.md",
-    "01 - Daily/28-02-2025.md",
     "__data__/Media/Pasted image 20250228042959.png",
     "__data__/Quadros/Quadros-Excalidraw",
     "__data__/Media/README-28-02-2025.png",
