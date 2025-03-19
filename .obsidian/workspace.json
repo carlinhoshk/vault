@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Organização Linux/Configurações do Thema dracula do tmux.md",
+                "file": "06 - Organização Linux/Keybinds do tmux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Configurações do Thema dracula do tmux"
+              "title": "Keybinds do tmux"
             }
           },
           {
@@ -269,8 +269,9 @@
   },
   "active": "c55561e98e70d62c",
   "lastOpenFiles": [
-    "__data__/Media/Pasted image 20250319042605.png",
     "06 - Organização Linux/Configurações do Thema dracula do tmux.md",
+    "06 - Organização Linux/Keybinds do tmux.md",
+    "__data__/Media/Pasted image 20250319042605.png",
     "01 - Daily/18-03-2025.md",
     "04 - Projetos/Coxinha-Air-Portatil.md",
     "03 - Estudos/Estudos C-sharp.md",

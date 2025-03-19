@@ -105,3 +105,4 @@ Talvez porque esses foram os exemplos iniciais que você viu, mas o tmux é bem 
 Quer um exemplo prático?
 
 Se você me contar o que gostaria de mostrar na sua barra (ex.: diretório, hora, comando, etc.), posso te dar um código exato para o seu ~/.tmux.conf. O que acha?
+
