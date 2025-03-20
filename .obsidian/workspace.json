@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/20-03-2025.md",
+                "file": "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20-03-2025"
+              "title": "Proposta de projeto"
             }
           },
           {
@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,12 +270,12 @@
   },
   "active": "c55561e98e70d62c",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto.md",
+    "01 - Daily/19-03-2025.md",
+    "01 - Daily/18-03-2025.md",
     "01 - Daily/20-03-2025.md",
+    "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto.md",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO",
-    "01 - Daily/18-03-2025.md",
-    "01 - Daily/19-03-2025.md",
     "01 - Daily/02-03-2025.md",
     "01 - Daily/28-02-2025.md",
     "06 - Organização Linux/Keybinds do tmux.md",
