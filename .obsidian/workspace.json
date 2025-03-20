@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
+                "file": "01 - Daily/20-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Drawing 2025-03-20 17.47.09.excalidraw"
+              "title": "20-03-2025"
             }
           },
           {
@@ -66,9 +66,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-03-20 17.47.09.excalidraw"
             }
+          },
+          {
+            "id": "fc9abcf8d4d3cb3b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-20 19.28.28.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +244,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5b01fca3cfb2f0aa",
+  "active": "721678af99b0306b",
   "lastOpenFiles": [
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
     "01 - Daily/18-03-2025.md",
     "01 - Daily/19-03-2025.md",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto.md",
