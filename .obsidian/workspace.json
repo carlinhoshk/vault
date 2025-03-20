@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0cd1ead61b6d12bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/05-03-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "05-03-2025"
-            }
-          },
-          {
-            "id": "84ad6b2c920de243",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "SIS_OP-A4"
-            }
-          },
-          {
             "id": "c55561e98e70d62c",
             "type": "leaf",
             "state": {
@@ -66,45 +30,8 @@
               "icon": "lucide-file",
               "title": "Proposta de projeto"
             }
-          },
-          {
-            "id": "16b38ad23eafa032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Index/Instalar c-sharp no ArchLinux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Instalar c-sharp no ArchLinux"
-            }
-          },
-          {
-            "id": "ecaf8613e6ecaa71",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/LIVRO_UNICO-SIS.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "LIVRO_UNICO-SIS"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
