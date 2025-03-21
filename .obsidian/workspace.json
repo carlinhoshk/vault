@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "Drawing 2025-03-20 17.47.09.excalidraw"
             }
-          },
-          {
-            "id": "4c0c429a6b754a6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Index/War Games.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "War Games"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -292,10 +268,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c0c429a6b754a6f",
+  "active": "fc9abcf8d4d3cb3b",
   "lastOpenFiles": [
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
+    "00 - Index/LanHouse comunitaria.md",
     "00 - Index/War Games.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 00.55.23.excalidraw.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
@@ -334,7 +311,6 @@
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
     "01 - Daily/05-03-2025.md",
-    "01 - Daily/16-03-2025.md",
     "__data__/Media/Pasted image 20250228042959.png",
     "__data__/Media/README-28-02-2025.png",
     "__data__/Media/README-28022025.png"
