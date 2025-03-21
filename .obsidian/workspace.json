@@ -83,12 +83,24 @@
             "id": "fc9abcf8d4d3cb3b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md"
+                "file": "01 - Daily/21-03-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-20 17.47.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "21-03-2025"
             }
           }
         ],
@@ -256,9 +268,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d4129d0beb42e027",
+  "active": "fc9abcf8d4d3cb3b",
   "lastOpenFiles": [
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
+    "01 - Daily/21-03-2025.md",
     "00 - Index/LanHouse comunitaria.md",
     "00 - Index/War Games.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
@@ -298,7 +311,6 @@
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
-    "01 - Daily/05-03-2025.md",
     "__data__/Media/Pasted image 20250228042959.png",
     "__data__/Media/README-28-02-2025.png",
     "__data__/Media/README-28022025.png"
