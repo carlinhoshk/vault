@@ -59,12 +59,24 @@
             "id": "5b01fca3cfb2f0aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md"
+                "file": "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-20 17.47.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "OpenCV com plot dinamico de Resultado"
             }
           },
           {
@@ -246,8 +258,9 @@
   },
   "active": "5b01fca3cfb2f0aa",
   "lastOpenFiles": [
-    "01 - Daily/20-03-2025.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
+    "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
+    "01 - Daily/20-03-2025.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
     "01 - Daily/18-03-2025.md",
     "01 - Daily/19-03-2025.md",
@@ -286,7 +299,6 @@
     "01 - Daily/16-03-2025.md",
     "01 - Daily/15-03-2025.md",
     "01 - Daily/14-03-2025.md",
-    "01 - Daily/13-03-2025.md",
     "__data__/Media/Pasted image 20250228042959.png",
     "__data__/Media/README-28-02-2025.png",
     "__data__/Media/README-28022025.png"
