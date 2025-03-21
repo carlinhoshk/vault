@@ -83,6 +83,30 @@
             "id": "fc9abcf8d4d3cb3b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Drawing 2025-03-20 17.47.09.excalidraw"
+            }
+          },
+          {
+            "id": "4c0c429a6b754a6f",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md"
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 392.5026054382324
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -256,12 +280,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc9abcf8d4d3cb3b",
+  "active": "4c0c429a6b754a6f",
   "lastOpenFiles": [
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
-    "01 - Daily/20-03-2025.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 00.55.23.excalidraw.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
+    "01 - Daily/20-03-2025.md",
     "01 - Daily/18-03-2025.md",
     "01 - Daily/19-03-2025.md",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto.md",
@@ -298,7 +323,6 @@
     "01 - Daily/05-03-2025.md",
     "01 - Daily/16-03-2025.md",
     "01 - Daily/15-03-2025.md",
-    "01 - Daily/14-03-2025.md",
     "__data__/Media/Pasted image 20250228042959.png",
     "__data__/Media/README-28-02-2025.png",
     "__data__/Media/README-28022025.png"
