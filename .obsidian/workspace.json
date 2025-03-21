@@ -83,23 +83,11 @@
             "id": "fc9abcf8d4d3cb3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "Drawing 2025-03-20 17.47.09.excalidraw"
             }
           }
@@ -268,11 +256,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fc9abcf8d4d3cb3b",
+  "active": "d4129d0beb42e027",
   "lastOpenFiles": [
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
     "00 - Index/LanHouse comunitaria.md",
     "00 - Index/War Games.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 00.55.23.excalidraw.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
