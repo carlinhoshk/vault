@@ -83,12 +83,24 @@
             "id": "fc9abcf8d4d3cb3b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md"
+                "file": "00 - Index/War games 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-20 17.47.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "War games 2"
             }
           }
         ],
@@ -256,14 +268,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3f0962faf0d8d9a5",
+  "active": "fc9abcf8d4d3cb3b",
   "lastOpenFiles": [
+    "00 - Index/War Games.md",
+    "00 - Index/War games 2.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 00.55.23.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
     "01 - Daily/21-03-2025.md",
     "00 - Index/LanHouse comunitaria.md",
-    "00 - Index/War Games.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "01 - Daily/20-03-2025.md",
     "01 - Daily/18-03-2025.md",
@@ -298,7 +311,6 @@
     "01 - Daily/17-03-2025.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf",
-    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
     "__data__/Media/Pasted image 20250228042959.png",
     "__data__/Media/README-28-02-2025.png",
     "__data__/Media/README-28022025.png"
