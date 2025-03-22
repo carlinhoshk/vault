@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d59fd99f0bbc0db1",
+        "id": "83b9c846234d60f8",
         "type": "tabs",
         "children": [
           {
-            "id": "25403b45b1afa6b9",
+            "id": "7a60be5084ccbb42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5026054382324,
-    "collapsed": true
+    "width": 296.5026054382324
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -197,9 +196,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25403b45b1afa6b9",
+  "active": "7a60be5084ccbb42",
   "lastOpenFiles": [
     "04 - Projetos/Projeto automação presença CAP.md",
+    "04 - Projetos/Sus unificado em hardware.md",
+    "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
+    "04 - Projetos/Coxinha-Air-Portatil.md",
+    "04 - Projetos/Projeto-LinuxDkIA.md",
     "01 - Daily/20-03-2025.md",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
@@ -212,7 +215,6 @@
     "__data__/Media/Pasted Image 20250322002034_801.png",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 22.32.58.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 00.55.23.excalidraw.md",
-    "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "__data__/Quadros/02 - Quadros-Kanban/Kanban-EstudosLinux.md",
     "01 - Daily/18-03-2025.md",
     "01 - Daily/21-03-2025.md",
@@ -237,12 +239,9 @@
     "06 - Organização Linux/Keybinds do tmux.md",
     "06 - Organização Linux/Configurações do Thema dracula do tmux.md",
     "__data__/Media/Pasted image 20250319042605.png",
-    "04 - Projetos/Coxinha-Air-Portatil.md",
     "03 - Estudos/Estudos C-sharp.md",
     "00 - Index/Instalar c-sharp no ArchLinux.md",
     "__data__/Media/__data__Media17-03-2025.png",
-    "03 - Estudos/Sem título.md",
-    "03 - Estudos/Estudos Sistemas Operacionais focado no projeto linux leve.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf"
   ]
