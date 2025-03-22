@@ -1,5 +1,5 @@
 
-# **Carlos André       |           Projeto Integrado III           |     20/03/2025**
+# Carlos André       |           Projeto Integrado III           |     20/03/2025
 
 
 ## Sistema de Cadastro e Avaliação de Alunos e Professores com sistema para atribuir pontuação aos alunos.

@@ -35,9 +35,21 @@
             "id": "fc9abcf8d4d3cb3b",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-20 17.47.09.excalidraw"
+            }
+          },
+          {
+            "id": "1ffd90afa1273ce5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
+                "file": "04 - Projetos/Projeto automação presença CAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Drawing 2025-03-20 17.47.09.excalidraw"
-            }
-          },
-          {
-            "id": "1ffd90afa1273ce5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-20 17.47.09.excalidraw"
+              "title": "Projeto automação presença CAP"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,8 +233,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ffd90afa1273ce5",
+  "active": "fc9abcf8d4d3cb3b",
   "lastOpenFiles": [
+    "04 - Projetos/Projeto automação presença CAP.md",
+    "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
     "__data__/Media/Pasted Image 20250322003100_088.png",
     "__data__/Media/Pasted Image 20250322002837_024.png",
     "__data__/Media/Pasted Image 20250322002503_419.png",
@@ -242,13 +246,10 @@
     "__data__/Media/Pasted Image 20250322002201_550.png",
     "__data__/Media/Pasted Image 20250322002034_801.png",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 22.32.58.excalidraw.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 00.55.23.excalidraw.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
     "01 - Daily/20-03-2025.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "__data__/Quadros/02 - Quadros-Kanban/Kanban-EstudosLinux.md",
-    "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
     "01 - Daily/18-03-2025.md",
     "01 - Daily/21-03-2025.md",
     "00 - Index/War games 2.md",
@@ -276,7 +277,6 @@
     "03 - Estudos/Estudos C-sharp.md",
     "00 - Index/Instalar c-sharp no ArchLinux.md",
     "__data__/Media/__data__Media17-03-2025.png",
-    "__data__/Media/Pasted image 20250317235231.png",
     "03 - Estudos/Sem título.md",
     "03 - Estudos/Estudos Sistemas Operacionais focado no projeto linux leve.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf",
