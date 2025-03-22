@@ -1,4 +1,7 @@
 
+# **Carlos André       |           Projeto Integrado III           |     20/03/2025**
+
+
 ## Sistema de Cadastro e Avaliação de Alunos e Professores com sistema para atribuir pontuação aos alunos.
 
 ## Introdução
@@ -13,6 +16,7 @@ O sistema proposto visa gerenciar o cadastro de alunos e professores na Faculdad
 - [x] **Cadastro de Usuários**: Implementar o cadastro de alunos e professores, com autenticação para diferentes Usuários
 - [x] **Login de Usuários:** Implementar o login de alunos e professores e distinguir qual pagina e domínio ele vai ser redirecionado.
 - [x] **Atribuir pontos para Alunos:** Implementar a logica para professores autenticados poderem dar notas aos alunos.
+- [x] **Integrar comunicação**: e fazer Frontend e Backend comunicarem
 - [ ] **Logica para pontar presença:** Implementar uma regra ou sistema separado para dar presença se o aluno estiver na sala.
 - [ ] **Subir para VPS**: Builda as versoes compiladas .Jar e static files do react
 - [ ] **Integrar CD/CI** : em jenkins
@@ -24,5 +28,10 @@ O sistema proposto visa gerenciar o cadastro de alunos e professores na Faculdad
 ### Ferramentas e Tecnologias
 
 1. **Organização do Projeto:**  Obsidian, Trello, Git, Gitlab, Neovim, IntelliJ
-2. Stack: Java, Spring-Boot/Security/JWT, JS/TS React, Banco de dados Mysql com migrations flywayDB
-3. 
+2. **Stack**: Java, Spring-Boot/Security/JWT, JS/TS React, Banco de dados Mysql com migrations flywayDB
+3. **Integração Contínua**: Jenkins será utilizado para automatizar testes e integração de funcionalidades.
+
+### Conclusão e Futuro
+
+O sistema criado poderá criar uma nova maneira de integrar *Tecnologia* & *Pedagogia* trabalhando juntas analisando e pontuando alunos **Input** e entregando **output**  tabela sobre o desempenho de cada aluno e qual sua dificuldade em aula.
+Futuro do software ainda depende da melhor maneira de integrar um dispositivo do aluno com a real presença física dele em sala de aula. 
