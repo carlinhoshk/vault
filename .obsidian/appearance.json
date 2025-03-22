@@ -1,7 +1,8 @@
 {
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "",
   "baseFontSize": 20,
   "accentColor": "#57ff62",
   "nativeMenus": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "moonstone"
 }

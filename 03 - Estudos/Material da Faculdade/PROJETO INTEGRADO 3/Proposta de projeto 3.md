@@ -18,8 +18,7 @@ O sistema proposto visa gerenciar o cadastro de alunos e professores na Faculdad
 - [x] **Atribuir pontos para Alunos:** Implementar a logica para professores autenticados poderem dar notas aos alunos.
 - [x] **Integrar comunicação**: e fazer Frontend e Backend comunicarem
 - [ ] **Logica para pontar presença:** Implementar uma regra ou sistema separado para dar presença se o aluno estiver na sala.
-- [ ] **Subir para VPS**: Builda as versoes compiladas .Jar e static files do react
-- [ ] **Integrar CD/CI** : em jenkins
+- [ ] **Subir para VPS** ntegrar CD/CI**: Builda as versoes compiladas .Jar e static files do react e integrar CD/CI com Jenkins
 
 ### Metodologia
 
