@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dbbfac65af0ae532",
+        "id": "d59fd99f0bbc0db1",
         "type": "tabs",
         "children": [
           {
-            "id": "721678af99b0306b",
+            "id": "25403b45b1afa6b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/20-03-2025.md",
+                "file": "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20-03-2025"
-            }
-          },
-          {
-            "id": "fc9abcf8d4d3cb3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Proposta de projeto 3"
-            }
-          },
-          {
-            "id": "1ffd90afa1273ce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Projetos/Projeto automação presença CAP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Projeto automação presença CAP"
+              "title": "OpenCV com plot dinamico de Resultado"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5026054382324
+    "width": 296.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -245,12 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc9abcf8d4d3cb3b",
+  "active": "25403b45b1afa6b9",
   "lastOpenFiles": [
+    "04 - Projetos/Projeto automação presença CAP.md",
     "01 - Daily/20-03-2025.md",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
-    "04 - Projetos/Projeto automação presença CAP.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
     "__data__/Media/Pasted Image 20250322003100_088.png",
     "__data__/Media/Pasted Image 20250322002837_024.png",
