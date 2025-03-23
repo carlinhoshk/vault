@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "OpenCV com plot dinamico de Resultado"
             }
+          },
+          {
+            "id": "084a6357269ecb3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Algoritimo FACEBOOK para analisar com IA por caracteristica"
+            }
           }
         ]
       }
