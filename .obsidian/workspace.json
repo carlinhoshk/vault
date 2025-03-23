@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
+                "file": "00 - Index/curriculo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OpenCV com plot dinamico de Resultado"
+              "title": "curriculo"
             }
           },
           {
@@ -95,7 +95,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -222,8 +222,9 @@
   },
   "active": "97b44866956a9632",
   "lastOpenFiles": [
-    "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
+    "00 - Index/curriculo.md",
+    "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "00 - Index/Estrutura requisição web nas notas diarias.md",
     "01 - Daily/22-03-2025.md",
     "04 - Projetos/Projeto automação presença CAP.md",
@@ -265,7 +266,6 @@
     "_data_",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO",
-    "01 - Daily/02-03-2025.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf"
   ]
