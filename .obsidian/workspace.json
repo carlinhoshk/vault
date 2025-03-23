@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
+                "file": "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algoritimo FACEBOOK para analisar com IA por caracteristica"
+              "title": "OpenCV com plot dinamico de Resultado"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "97b44866956a9632",
   "lastOpenFiles": [
-    "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
+    "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "00 - Index/Estrutura requisição web nas notas diarias.md",
     "01 - Daily/22-03-2025.md",
     "04 - Projetos/Projeto automação presença CAP.md",
