@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/22-03-2025.md",
+                "file": "00 - Index/Estrutura requisição web nas notas diarias.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "22-03-2025"
+              "title": "Estrutura requisição web nas notas diarias"
             }
           }
         ]
@@ -198,13 +198,14 @@
   },
   "active": "97b44866956a9632",
   "lastOpenFiles": [
+    "01 - Daily/22-03-2025.md",
+    "00 - Index/Estrutura requisição web nas notas diarias.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "04 - Projetos/Projeto automação presença CAP.md",
     "00 - Index/Triade dos investimentos.md",
     "__data__/Media/Pasted image 20250322061004.png",
     "03 - Estudos/Material de Estudos/Sem título.md",
     "__data__/Media/Pasted image 20250322051955.png",
-    "01 - Daily/22-03-2025.md",
     "04 - Projetos/Sus unificado em hardware.md",
     "04 - Projetos/Coxinha-Air-Portatil.md",
     "04 - Projetos/Projeto-LinuxDkIA.md",
