@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/24-03-2025.md",
+                "file": "00 - Index/Streamar usando Discord compartilha tela + servidor VPS como hoster.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "24-03-2025"
+              "title": "Streamar usando Discord compartilha tela + servidor VPS como hoster"
             }
           },
           {
@@ -222,8 +222,9 @@
   },
   "active": "97b44866956a9632",
   "lastOpenFiles": [
-    "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "01 - Daily/24-03-2025.md",
+    "00 - Index/Streamar usando Discord compartilha tela + servidor VPS como hoster.md",
+    "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "00 - Index/curriculo.md",
     "00 - Index/Estrutura requisição web nas notas diarias.md",
@@ -256,7 +257,6 @@
     "00 - Index/LanHouse comunitaria.md",
     "01 - Daily/19-03-2025.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
