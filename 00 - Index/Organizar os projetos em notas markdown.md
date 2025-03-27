@@ -4,6 +4,8 @@ Pensar em 3 projetos Python-IA
 
 Web
 - Pensar 2 projetos Java
+	1. Java CRUD faculdade
+	2. [[estudo-Scala]] exemplo
 - Pensar 2 projetos C#
 
 Pensar 2 projetos C 
