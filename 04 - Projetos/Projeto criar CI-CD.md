@@ -36,3 +36,10 @@ sudo systemctl enable docker jenkins
 - Gratuito e compatível com ferramentas empresariais.
     
 - Bom para aprender (já que o RHEL é amplamente usado em empresas).
+
+### Erro # ['xterm-new': unknown terminal type](https://stackoverflow.com/questions/27052587/xterm-new-unknown-terminal-type)
+```
+# Run the following commands on the local machine's bash prompt
+echo "export TERM=xterm-256color" >> ~/.bashrc
+source ~/.bashrc
+```
