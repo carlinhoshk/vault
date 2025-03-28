@@ -1,4 +1,6 @@
 ## [Link da vaga](https://www.infojobs.com.br/vaga-de-bolsista-graduado-analise-desenv-sistemas,-ciencia-em-sao-paulo__10400685.aspx)
+## [Link Simens](https://www.siemens.com/br/pt/produtos/software/industria/comos.html)
+
 
  A arquitetura MES na plataforma COMOS utilizada na Siemens Energy integra os processos de execução da manufatura (MES) com o ambiente centralizado de dados e engenharia do COMOS, possibilitando o gerenciamento em tempo real das operações da planta. Com sua base em uma estrutura modular, essa solução permite a comunicação entre os níveis de produção, ERP e outros sistemas de controle, utilizando o VBA como ferramenta de customização e automação.
 
