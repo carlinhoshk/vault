@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Index/aplicacao mobile da lista de mercado. T-mercado.md",
+                "file": "04 - Projetos/Projeto criar CI-CD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aplicacao mobile da lista de mercado. T-mercado"
+              "title": "Projeto criar CI-CD"
             }
           }
         ],
@@ -223,8 +223,10 @@
   },
   "active": "084a6357269ecb3c",
   "lastOpenFiles": [
-    "00 - Index/criação do template home.md",
     "00 - Index/aplicacao mobile da lista de mercado. T-mercado.md",
+    "04 - Projetos/Projeto criar CI-CD.md",
+    "04 - Projetos/Sem título",
+    "00 - Index/criação do template home.md",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "01 - Daily/228-02-2025.md",
     "01 - Daily/27-03-2025.md",
@@ -256,7 +258,6 @@
     "__data__/Media/Pasted Image 20250322002238_130.png",
     "__data__/Media/Pasted Image 20250322002201_550.png",
     "__data__/Media/Pasted Image 20250322002034_801.png",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 22.32.58.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded",
@@ -267,7 +268,6 @@
     "_data_",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO",
-    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf",
-    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf"
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/Tarefas/ProvaAnhanguera_250312_201941.pdf"
   ]
 }
