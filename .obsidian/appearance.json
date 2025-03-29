@@ -4,5 +4,9 @@
   "accentColor": "#57ff62",
   "nativeMenus": true,
   "baseFontSizeAction": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Hack Nerd Font Mono",
+  "showRibbon": true,
+  "showViewHeader": true
 }
