@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Organização Linux/Keybinds.md",
-                "mode": "source",
+                "file": "06 - Organização Linux/Tmux keybinds.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keybinds"
+              "title": "Tmux keybinds"
             }
           }
         ],
@@ -223,8 +223,9 @@
   },
   "active": "ffd25fa03beae8a1",
   "lastOpenFiles": [
-    "00 - Index/ProcessosXMenssageria.md",
     "06 - Organização Linux/Keybinds.md",
+    "06 - Organização Linux/Tmux keybinds.md",
+    "00 - Index/ProcessosXMenssageria.md",
     "00 - Index/estudo-v2.md",
     "00 - Index/estudo-Scala.md",
     "00 - Index/Triade dos investimentos.md",
@@ -252,7 +253,6 @@
     "04 - Projetos/Projeto automação presença CAP.md",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
-    "04 - Projetos/Sus unificado em hardware.md",
     "__data__/Media/Pasted Image 20250322003100_088.png",
     "__data__/Media/Pasted Image 20250322002837_024.png",
     "__data__/Media/Pasted Image 20250322002503_419.png",

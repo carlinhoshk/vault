@@ -3,17 +3,17 @@
 ------------------------------------------------
 #### 1. **Keybindings Gerais**
 
-|Atalho|Comando|Descrição|
-|---|---|---|
-|**Ctrl+X**|`lock-server`|Bloqueia o servidor tmux|
-|**Ctrl+C**|`new-window -c "$HOME"`|Cria nova janela iniciada no diretório HOME|
-|**Ctrl+D**|`detach`|Desconecta a sessão atual|
-|**C**|`list-clients`|Lista clientes conectados (substitui o "*" para evitar conflitos)|
-|**Ctrl+A**|`last-window`|Alterna para a última janela ativa|
-|**Ctrl+W**|`list-windows`|Lista as janelas (com Ctrl+W)|
-|**w**|`list-windows`|Lista as janelas|
-|**:**|`command-prompt`|Abre o prompt de comando|
-|**S**|`choose-session`|Abre interface para escolher sessão|
+| Atalho     | Comando                 | Descrição                                                         |
+| ---------- | ----------------------- | ----------------------------------------------------------------- |
+| **Ctrl+X** | `lock-server`           | Bloqueia o servidor tmux                                          |
+| **Ctrl+C** | `new-window -c "$HOME"` | Cria nova janela iniciada no diretório HOME                       |
+| **Ctrl+D** | `detach`                | Desconecta a sessão atual                                         |
+| **C**      | `list-clients`          | Lista clientes conectados (substitui o "*" para evitar conflitos) |
+| **Ctrl+A** | `last-window`           | Alterna para a última janela ativa                                |
+| **Ctrl+W** | `list-windows`          | Lista as janelas (com Ctrl+W)                                     |
+| **w**      | `list-windows`          | Lista as janelas                                                  |
+| **:**      | `command-prompt`        | Abre o prompt de comando                                          |
+| **S**      | `choose-session`        | Abre interface para escolher sessão                               |
 
 ---
 
