@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Index/ProcessosXMenssageria.md",
+                "file": "01 - Daily/28-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ProcessosXMenssageria"
+              "title": "28-03-2025"
             }
           }
         ]
@@ -167,6 +167,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3cc623a40ebb43e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
           }
         ],
         "currentTab": 4
@@ -193,12 +207,14 @@
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "markdown-importer:Abrir importador Markdown": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "random-note:Abrir nota aleatória": false
     }
   },
   "active": "084a6357269ecb3c",
   "lastOpenFiles": [
     "01 - Daily/29-03-2025.md",
+    "00 - Index/ProcessosXMenssageria.md",
     "01 - Daily/28-03-2025.md",
     "01 - Daily/09-03-2025.md",
     "03 - Estudos/Estudos Sistemas Operacionais focado no projeto linux e-leve.md",
@@ -215,7 +231,6 @@
     "06 - Organização Linux/Tmux-Keybinds.md",
     "06 - Organização Linux/Tmux keybinds.md",
     "06 - Organização Linux/Keybinds.md",
-    "00 - Index/ProcessosXMenssageria.md",
     "00 - Index/estudo-v2.md",
     "00 - Index/estudo-Scala.md",
     "00 - Index/Triade dos investimentos.md",
