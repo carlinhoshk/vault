@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Index/ProcessosXMenssageria.md",
+                "file": "06 - Organização Linux/Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ProcessosXMenssageria"
+              "title": "Keybinds"
             }
           }
         ],
@@ -223,12 +223,13 @@
   },
   "active": "ffd25fa03beae8a1",
   "lastOpenFiles": [
+    "00 - Index/ProcessosXMenssageria.md",
+    "06 - Organização Linux/Keybinds.md",
     "00 - Index/estudo-v2.md",
     "00 - Index/estudo-Scala.md",
     "00 - Index/Triade dos investimentos.md",
     "00 - Index/Estrutura requisição web nas notas diarias.md",
     "01 - Daily/28-03-2025.md",
-    "00 - Index/ProcessosXMenssageria.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "00 - Index/aplicacao mobile da lista de mercado. T-mercado.md",
@@ -252,7 +253,6 @@
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
     "04 - Projetos/Sus unificado em hardware.md",
-    "04 - Projetos/Coxinha-Air-Portatil.md",
     "__data__/Media/Pasted Image 20250322003100_088.png",
     "__data__/Media/Pasted Image 20250322002837_024.png",
     "__data__/Media/Pasted Image 20250322002503_419.png",
