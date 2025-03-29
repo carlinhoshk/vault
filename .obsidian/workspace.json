@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "28-03-2025"
             }
+          },
+          {
+            "id": "ffd25fa03beae8a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Index/estudo-Scala.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "estudo-Scala"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,25 +221,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "084a6357269ecb3c",
+  "active": "ffd25fa03beae8a1",
   "lastOpenFiles": [
+    "00 - Index/estudo-v2.md",
+    "00 - Index/estudo-Scala.md",
+    "00 - Index/Triade dos investimentos.md",
+    "00 - Index/Estrutura requisição web nas notas diarias.md",
+    "01 - Daily/28-03-2025.md",
     "00 - Index/ProcessosXMenssageria.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "00 - Index/aplicacao mobile da lista de mercado. T-mercado.md",
     "00 - Index/curriculo.md",
     "00 - Index/criação do template home.md",
-    "00 - Index/Estrutura requisição web nas notas diarias.md",
     "03 - Estudos/Material de Estudos/material-estudos-linux.md",
     "03 - Estudos/Material de Estudos/Sem título.md",
-    "01 - Daily/28-03-2025.md",
     "01 - Daily/27-03-2025.md",
     "00 - Index/Vaga SIEMENS ENERGY.md",
     "04 - Projetos/Projeto criar CI-CD.md",
     "04 - Projetos/Sem título",
     "01 - Daily/228-02-2025.md",
     "00 - Index/Organizar os projetos em notas markdown.md",
-    "00 - Index/estudo-Scala.md",
     "01 - Daily/26-03-2025.md",
     "01 - Daily/25-03-2025.md",
     "01 - Daily/24-03-2025.md",
@@ -222,7 +249,6 @@
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "01 - Daily/22-03-2025.md",
     "04 - Projetos/Projeto automação presença CAP.md",
-    "00 - Index/Triade dos investimentos.md",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
     "04 - Projetos/Sus unificado em hardware.md",
