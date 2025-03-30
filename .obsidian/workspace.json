@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9782ebebfa99d457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Daily/30-03-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30-03-2025"
+            }
+          },
+          {
             "id": "63ecae141cb2d7c2",
             "type": "leaf",
             "state": {
@@ -37,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/30-03-2025.md",
+                "file": "01 - Daily/18-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "30-03-2025"
+              "title": "18-03-2025"
             }
           },
           {
@@ -79,8 +103,7 @@
               "title": "PROCESSO DE SOFTWARE"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,10 +282,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26e0b76053fc5dde",
+  "active": "9782ebebfa99d457",
   "lastOpenFiles": [
-    "06 - Organização Linux/Keybinds-Vimium.md",
+    "01 - Daily/18-03-2025.md",
+    "06 - Organização Linux/Keybinds-Obsidian.md",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "01 - Daily/30-03-2025.md",
+    "06 - Organização Linux/Keybinds-Vimium.md",
     "00 - Index/Sem título.md",
     "Sem título",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate.csh",
@@ -274,11 +300,9 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/INSTALLER",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/INSTALLERkwu0v07b.tmp",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/pip3.13",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250330000648.png",
-    "06 - Organização Linux/Keybinds-Obsidian.md",
     "01 - Daily/29-03-2025.md",
     "06 - Organização Linux/Configurações do Thema dracula do tmux.md",
     "06 - Organização Linux/Keybinds.md",
@@ -299,7 +323,6 @@
     "__data__/Templates/daily.md",
     "__data__/Templates/meeting.md",
     "01 - Daily/228-02-2025.md",
-    "06 - Organização Linux/Tmux-Keybinds.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
