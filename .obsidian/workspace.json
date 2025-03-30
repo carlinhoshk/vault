@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Organização Linux/Keybinds-Vimium.md",
+                "file": "01 - Daily/30-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keybinds-Vimium"
+              "title": "30-03-2025"
             }
           },
           {
@@ -256,14 +256,14 @@
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "markdown-importer:Abrir importador Markdown": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "random-note:Abrir nota aleatória": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0017a84ecfb56c15",
+  "active": "26e0b76053fc5dde",
   "lastOpenFiles": [
-    "00 - Index/Sem título.md",
     "06 - Organização Linux/Keybinds-Vimium.md",
+    "01 - Daily/30-03-2025.md",
+    "00 - Index/Sem título.md",
     "Sem título",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate.csh",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/Activate.ps1",
@@ -300,7 +300,6 @@
     "__data__/Templates/meeting.md",
     "01 - Daily/228-02-2025.md",
     "06 - Organização Linux/Tmux-Keybinds.md",
-    "06 - Organização Linux/Tmux keybinds.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
