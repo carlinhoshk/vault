@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "focusNewTab": true,
+  "focusNewTab": false,
   "showLineNumber": false,
   "vimMode": false,
   "trashOption": "local",
