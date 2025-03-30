@@ -56,6 +56,42 @@
             }
           },
           {
+            "id": "c7ac0c2b9b8bf076",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "engenharia-software01-05"
+            }
+          },
+          {
+            "id": "aa994e254824fe13",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-03.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "engenharia-software01-03"
+            }
+          },
+          {
+            "id": "af7cb7f668539e38",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "engenharia-software01-02"
+            }
+          },
+          {
             "id": "63ecae141cb2d7c2",
             "type": "leaf",
             "state": {
@@ -102,33 +138,9 @@
               "icon": "lucide-file",
               "title": "18-03-2025"
             }
-          },
-          {
-            "id": "4005cfe3f703057d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PROCESSO DE SOFTWARE"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50260543823242
+    "width": 308.5
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -307,12 +319,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "712eb81f2b55f4c3",
+  "active": "0017a84ecfb56c15",
   "lastOpenFiles": [
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-04.pdf",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "01 - Daily/30-03-2025.md",
     "01 - Daily/18-03-2025.md",
     "06 - Organização Linux/Keybinds-Obsidian.md",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "06 - Organização Linux/Keybinds-Vimium.md",
     "00 - Index/Sem título.md",
     "Sem título",
@@ -324,7 +338,6 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/REQUESTED",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/INSTALLER",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/INSTALLERkwu0v07b.tmp",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/pip3.13",
     "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250330000648.png",
@@ -347,7 +360,6 @@
     "__data__/Templates/daily-note-template.md",
     "__data__/Templates/daily.md",
     "__data__/Templates/meeting.md",
-    "01 - Daily/228-02-2025.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
