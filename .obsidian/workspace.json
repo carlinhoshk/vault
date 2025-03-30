@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "084a6357269ecb3c",
+            "id": "63ecae141cb2d7c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e88a55dd4bbe41ad",
+            "id": "03d4b5cec3f6f233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Organização Linux/Keybinds.md",
+                "file": "01 - Daily/29-03-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keybinds"
+              "title": "29-03-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,12 +236,14 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "084a6357269ecb3c",
+  "active": "03d4b5cec3f6f233",
   "lastOpenFiles": [
-    "06 - Organização Linux/Keybinds.md",
     "06 - Organização Linux/Keybinds-Obsidian.md",
-    "06 - Organização Linux/Keybinds do tmux.md",
+    "06 - Organização Linux/Configurações do Thema dracula do tmux.md",
+    "06 - Organização Linux/Keybinds.md",
     "01 - Daily/27-03-2025.md",
+    "06 - Organização Linux/Configurar fonte X11.md",
+    "06 - Organização Linux/Keybinds do tmux.md",
     "01 - Daily/28-03-2025.md",
     "01 - Daily/29-03-2025.md",
     "00 - Index/ProcessosXMenssageria.md",
@@ -261,9 +264,7 @@
     "00 - Index/estudo-v2.md",
     "00 - Index/estudo-Scala.md",
     "00 - Index/Triade dos investimentos.md",
-    "00 - Index/Estrutura requisição web nas notas diarias.md",
     "__data__/Media/Pasted image 20250328184438.png",
-    "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "04 - Projetos/Sem título",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
