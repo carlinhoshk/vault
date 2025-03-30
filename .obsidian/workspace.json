@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "712eb81f2b55f4c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PROCESSO DE SOFTWARE"
+            }
+          },
+          {
             "id": "63ecae141cb2d7c2",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "PROCESSO DE SOFTWARE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,12 +307,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9782ebebfa99d457",
+  "active": "712eb81f2b55f4c3",
   "lastOpenFiles": [
+    "01 - Daily/30-03-2025.md",
     "01 - Daily/18-03-2025.md",
     "06 - Organização Linux/Keybinds-Obsidian.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
-    "01 - Daily/30-03-2025.md",
     "06 - Organização Linux/Keybinds-Vimium.md",
     "00 - Index/Sem título.md",
     "Sem título",
