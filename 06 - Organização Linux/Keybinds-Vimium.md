@@ -104,7 +104,7 @@
 ---
 
 ## Miscellaneous
-| Key   | Description                                      | Command                               |
-|-------|--------------------------------------------------|---------------------------------------|
-| `?`   | Show help                                        | `showHelp`                            |
-| `gs`  | View page source                                 | `toggleViewSource`                    |
+| Key  | Description      | Command            |
+| ---- | ---------------- | ------------------ |
+| `?`  | Show help        | `showHelp`         |
+| `gs` | View page source | `toggleViewSource` |
