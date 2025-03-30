@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "06 - Organização Linux/Keybinds-vimium.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Keybinds-vimium"
+            }
+          },
+          {
+            "id": "4005cfe3f703057d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
                 "mode": "source",
                 "source": false,
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,13 +260,14 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "26e0b76053fc5dde",
+  "active": "4005cfe3f703057d",
   "lastOpenFiles": [
-    "__data__/Media/Pasted image 20250330000428.png",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
+    "06 - Organização Linux/Keybinds-vimium.md",
+    "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250330000648.png",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
     "06 - Organização Linux/Keybinds-Obsidian.md",
     "01 - Daily/29-03-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf.crdownload",
@@ -268,7 +293,6 @@
     "01 - Daily/228-02-2025.md",
     "06 - Organização Linux/Tmux-Keybinds.md",
     "06 - Organização Linux/Tmux keybinds.md",
-    "00 - Index/estudo-v2.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "04 - Projetos/Sem título",
     "__data__/Media/Pasted image 20250322061004.png",
