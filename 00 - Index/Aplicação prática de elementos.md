@@ -1,0 +1,1 @@
+### Algum tipo de plastico que cubra o terreno para criar um padrão em cima do terreno abaixo.( borracha, plastico )

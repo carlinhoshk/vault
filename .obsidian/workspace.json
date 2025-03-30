@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Organização Linux/Keybinds-Vimium.md",
+                "file": "00 - Index/Aplicação prática de elementos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keybinds-Vimium"
+              "title": "Aplicação prática de elementos"
             }
           },
           {
@@ -345,6 +345,8 @@
   },
   "active": "a6278baa2b3d9a66",
   "lastOpenFiles": [
+    "06 - Organização Linux/Keybinds-Vimium.md",
+    "00 - Index/Aplicação prática de elementos.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-03.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-04.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
@@ -352,7 +354,6 @@
     "01 - Daily/30-03-2025.md",
     "01 - Daily/18-03-2025.md",
     "06 - Organização Linux/Keybinds-Obsidian.md",
-    "06 - Organização Linux/Keybinds-Vimium.md",
     "00 - Index/Sem título.md",
     "Sem título",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate.csh",
@@ -361,7 +362,6 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate.fish",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/RECORD1lwpjsca.tmp",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/REQUESTED",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/INSTALLER",
     "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250330000648.png",
