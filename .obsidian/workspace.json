@@ -137,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50260543823242,
-    "collapsed": true
+    "width": 255.50260543823242
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -261,21 +260,21 @@
       "random-note:Abrir nota aleatória": false
     }
   },
-  "active": "26e0b76053fc5dde",
+  "active": "0017a84ecfb56c15",
   "lastOpenFiles": [
-    "New Empty File",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/extract-pdf.py",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf.crdownload",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-04.pdf",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-04.pdf.crdownload",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-03.pdf",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-03.pdf.crdownload",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf.crdownload",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
+    "00 - Index/Sem título.md",
     "06 - Organização Linux/Keybinds-Vimium.md",
+    "Sem título",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate.csh",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/Activate.ps1",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate.fish",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/RECORD1lwpjsca.tmp",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/REQUESTED",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/INSTALLER",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/INSTALLERkwu0v07b.tmp",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/pip3.13",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250330000648.png",
