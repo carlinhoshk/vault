@@ -83,12 +83,24 @@
             "id": "78cecfbbbed00b69",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-04.pdf"
+                "file": "01 - Daily/31-03-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "engenharia-software01-04"
+              "icon": "lucide-file",
+              "title": "31-03-2025"
             }
           },
           {
@@ -381,6 +393,8 @@
   },
   "active": "78cecfbbbed00b69",
   "lastOpenFiles": [
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-04.pdf",
+    "01 - Daily/31-03-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-03.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
     "00 - Index/Aplicação prática de elementos.md",
@@ -388,7 +402,6 @@
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-30 21.03.59.excalidraw.md",
     "__data__/Media/Pasted Image 20250330210601_539.png",
     "06 - Organização Linux/Keybinds-Vimium.md",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-04.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "01 - Daily/30-03-2025.md",
@@ -401,7 +414,6 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate.fish",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/RECORD1lwpjsca.tmp",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/REQUESTED",
     "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250330000648.png",
@@ -420,7 +432,6 @@
     "01 - Daily/03-03-2025.md",
     "01 - Daily/02-03-2025.md",
     "01 - Daily/01-03-2025.md",
-    "01 - Daily/08-03-2025.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
