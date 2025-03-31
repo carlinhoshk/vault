@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "838038dbe59919ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Index/Usar IA-google lens para usar desktop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Usar IA-google lens para usar desktop"
+            }
+          },
+          {
             "id": "af7cb7f668539e38",
             "type": "leaf",
             "state": {
@@ -164,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -343,10 +367,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a6278baa2b3d9a66",
+  "active": "838038dbe59919ce",
   "lastOpenFiles": [
-    "06 - Organização Linux/Keybinds-Vimium.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-30 21.03.59.excalidraw.md",
+    "00 - Index/Usar IA-google lens para usar desktop.md",
+    "__data__/Media/Pasted Image 20250330210601_539.png",
     "00 - Index/Aplicação prática de elementos.md",
+    "06 - Organização Linux/Keybinds-Vimium.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-03.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-04.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
@@ -382,14 +409,11 @@
     "01 - Daily/01-03-2025.md",
     "01 - Daily/08-03-2025.md",
     "__data__/Templates/daily-note-template.md",
-    "__data__/Templates/daily.md",
-    "__data__/Templates/meeting.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
     "__data__/Media/Pasted Image 20250322003100_088.png",
     "__data__/Media/Pasted Image 20250322002837_024.png",
-    "__data__/Media/Pasted Image 20250322002503_419.png",
-    "__data__/Media/Pasted Image 20250322002238_130.png"
+    "__data__/Media/Pasted Image 20250322002503_419.png"
   ]
 }
