@@ -11,12 +11,24 @@
             "id": "67eb365e631314b0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf"
+                "file": "01 - Daily/01-04-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "engenharia-software01-01"
+              "icon": "lucide-file",
+              "title": "01-04-2025"
             }
           }
         ]
@@ -200,6 +212,8 @@
   },
   "active": "67eb365e631314b0",
   "lastOpenFiles": [
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
+    "01 - Daily/01-04-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
     "01 - Daily/31-03-2025.md",
@@ -238,7 +252,6 @@
     "01 - Daily/04-03-2025.md",
     "01 - Daily/03-03-2025.md",
     "01 - Daily/02-03-2025.md",
-    "01 - Daily/01-03-2025.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png",
