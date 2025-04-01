@@ -130,3 +130,42 @@ mas software 32 funciona em 64
 
 
 
+*Barramento tem suas limitações por arquitetura de CPU 32bits = 4GB*
+
+### Arquiteturas de Processadores
+ Quantidade de instruções de maquina define o projeto 
+ CICS = Industria 
+ RISC = Domestico
+ Instruções aritméticas endereçamento de memoria e controle de dispositivos.
+### Hierarquia de memoria
+
+ 1. Registrador
+ 2. Memoria cache
+ 3. Memoria principal ( RAM E ROM )
+ 4. Memoria Secundaria ( SSD, HD CD/DVD, Pen-drive)
+
+### Registradores
+ Localizado na CPU
+ Memoria volatil
+ Armazenamento bem limitado
+ Alta velocidade 
+ *O que eles armazena*
+	 
+### Memoria Cache
+Armazena copias de dados e instruções frequentemente usadas
+Memoria volatil ou não
+Reduz o tempo de acesso a memoria principal melhorando o desempenho
+*Cache Hit* o acesso é mais rapido se tiver
+*Cache Miss* o CPU busca o dado na memoria principal e os armazena se nao tiver
+
+Cache L1 Menor capacidade maior velocidade integrada com nucleo da CPU
+Cache L2 Capacidade intermediaria velocidade intermediaria nucleo ou proximo a ele
+Cache L3 Maior capacidade 
+
+*O que ela armazena*
+
+Memoria statica SRAM mais rapida que a DRAM da memoria principal
+Volatil
+Capacidade intermediaria
+Custo elevado por bit mas menor que os registradores
+
