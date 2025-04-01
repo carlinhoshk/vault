@@ -59,4 +59,26 @@ Flash:
 
 Cache -> Memoria Ram -> SSD/HD
 
-### Modelo Tecnologio Atual
+### Modelo Tecnologia Atual
+
+*Microprocessadores*
+	processadores multi-core com alta capacidade de processamento, cache e tecnologia que aumentao o desempenho e eficiencia
+	
+*Computação na Nuvem*
+	Recursos de computadores sob demanda através da internet 
+
+Inteligencia Artificial e Aprendizado de Maquina
+	Desenvolvimento de algoritimos complexos de uso de grandes volumes de dados BIG-DATA para criar sistemas inteligentes baseados e massiva quantidade da dados
+Internet das Coisas IoT
+	Conexões de dispositivos do dia a dia a internet, permitindo a coleta e troca de dados.
+
+### Topic Avançados
+
+*Computação Paralela e Distribuida*
+	Utiliza de multiplos processadores para resolver problemas complexos de forma mais rapida. Computdores paralelos compartilham a mesma memoria enquanto comunicam por uma rede.
+*Computação Quantica*
+	Novo paradigma de computação utiliza o principio da fisica quantica para relizar calculos que são impossiveis para os computadores classicos.
+Segurança da Informação
+	Proteção de dados e sistemas contra ameaçãs ciberneticas. Criptografia, firewalls e deteccção de intrusão
+Sistemas Embarcados e Computação Movel
+	Sistemas computacionais integrados em dispositivos menores, como celulares, tablets e dispositivos de IoT
