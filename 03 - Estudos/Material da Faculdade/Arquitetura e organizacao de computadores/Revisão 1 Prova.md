@@ -22,9 +22,10 @@ Modelo fundamental para maioria dos computadores modernos proposto por John von 
 4. Barramento(USB) entrada SATA, Placa de video. Onde eu encaixo o drive
 
 ### Componentes da CPU 
+Unidade Central de Processamento
 *Unidade de Controle UC*  --- Fluxo 
 Gerencia o fluxo de dados e instruções dentro da CPU
-responsavel por buscar instruções na memoria, decodificalas e enviar sinais para as outras unidades
+responsável por buscar instruções na memoria, decodificalas e enviar sinais para as outras unidades
 
 *ULA* --- Operações
 Executa operações matemáticas.
@@ -99,5 +100,33 @@ Menor unidade de programação
 Capacidade muito maior de RAM que 4GB
 Multitarefa aprimorada
 Crucial para virtualização 
+
+software 64 nao funciona em 32
+mas software 32 funciona em 64
+
+### Multi-core 
+ Integra vários cores para o processador
+ Limitações aumento da velocidade do clock
+ Muito consumo de energia
+ Foco no paralelismo executar varias tarefas simultaneamente 
+
+*Como funciona* 
+	Divisão de tarefas entre os nucleos
+	Cada nucleo executa sua tarefa
+	Compartilhamento de recursos: Memoria cache, barramento de dados.
+
+*Vantagens do Multi-core*
+	Melhor desempenho em multitarefas
+	Aumento da eficiência
+
+*Tipos de Processadores Multicore*
+	Dual-core, Quad-core, Hexa-core, Octa-core
+	Processadores com dezenas de nucleos para servidores
+
+*O Futuro do Multicore*
+	Aumento do numero de nucleos
+	Especialização dos nucleos
+	Integração com outras tecnologias como nuvem, IA e IoT
+
 
 
