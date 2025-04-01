@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/01-04-2025.md",
+                "file": "00 - Index/IA para criar playlists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01-04-2025"
+              "title": "IA para criar playlists"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "67eb365e631314b0",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
     "01 - Daily/01-04-2025.md",
+    "00 - Index/IA para criar playlists.md",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
     "01 - Daily/31-03-2025.md",
@@ -234,7 +235,6 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/Activate.ps1",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/bin/activate.fish",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/env/lib/python3.13/site-packages/pip-24.3.1.dist-info/RECORD1lwpjsca.tmp",
     "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250330000648.png",
