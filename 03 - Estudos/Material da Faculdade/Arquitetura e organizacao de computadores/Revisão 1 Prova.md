@@ -74,11 +74,30 @@ Internet das Coisas IoT
 
 ### Topic Avançados
 
-*Computação Paralela e Distribuida*
-	Utiliza de multiplos processadores para resolver problemas complexos de forma mais rapida. Computdores paralelos compartilham a mesma memoria enquanto comunicam por uma rede.
-*Computação Quantica*
-	Novo paradigma de computação utiliza o principio da fisica quantica para relizar calculos que são impossiveis para os computadores classicos.
-Segurança da Informação
-	Proteção de dados e sistemas contra ameaçãs ciberneticas. Criptografia, firewalls e deteccção de intrusão
-Sistemas Embarcados e Computação Movel
+*Computação Paralela e Distribuída*
+	Utiliza de múltiplos processadores para resolver problemas complexos de forma mais rapida. Computadores paralelos compartilham a mesma memoria enquanto comunicam por uma rede.
+*Computação Quântica*
+	Novo paradigma de computação utiliza o principio da física quântica para realizar cálculos que são impossíveis para os computadores clássicos.
+*Segurança da Informação*
+	Proteção de dados e sistemas contra ameaças cibernéticas. Criptografia, firewalls e detecção de intrusão
+*Sistemas Embarcados e Computação Movel*
 	Sistemas computacionais integrados em dispositivos menores, como celulares, tablets e dispositivos de IoT
+
+### O que é BIT
+Menor unidade de programação
+	Agrupando Bits formam Bytes(8 Bits) 
+	Permimem representar numeros em 
+
+### Memoria 32
+ Cada byte de RAM precisa de um endereço unico
+ Processador de 32 bits para endereços 
+ 2³² = 4 Bilhoes de bites 
+ Não tem 4 gigas exatos porque alguns ponteiros sao reservados
+### Memoria 64
+
+2x 64 = 18 quintilhoes de endereços para usar
+Capacidade muito maior de RAM que 4GB
+Multitarefa aprimorada
+Crucial para virtualização 
+
+
