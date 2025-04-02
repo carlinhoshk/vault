@@ -169,3 +169,11 @@ Volatil
 Capacidade intermediaria
 Custo elevado por bit mas menor que os registradores
 
+## Buscar exercicio chamado Analise de Desempenho
+
+Calculo se basea por quantidade de nucleos se o nucleo for maior 
+
+SIngle-Core --->> 1 Processador soma tudo 6+8+4 = 18
+Doual-Core ---->> 1 Processador 6 + 8   |||  Ao mesmo tempo 2 Processador 4 = 10
+
+
