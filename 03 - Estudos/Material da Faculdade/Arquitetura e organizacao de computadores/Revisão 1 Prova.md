@@ -176,4 +176,41 @@ Calculo se basea por quantidade de nucleos se o nucleo for maior
 SIngle-Core --->> 1 Processador soma tudo 6+8+4 = 18
 Doual-Core ---->> 1 Processador 6 + 8   |||  Ao mesmo tempo 2 Processador 4 = 10
 
+### Memoria statica
+Por pilha
+bits x tamanho do array 4bits x 10 tamanho = 40 bits
 
+### Memoria dinamica
+Por pilha de bagunça *HEAP*
+tamanho definido dinamicamente por execução
+
+
+### Bibliotecas
+ *STDLIB.H*
+  Caixa de ferramentas para organizar a bagunça *HEAP*
+  Contem as funcoes malloc() alocar o numero e pode trazer lixo, calloc() inicia todos espaços com ZERO, realloc()
+*STDIO.H*
+ A caixa de ferramenta para mostras informaçoes e pegar printf() e scanf()
+
+### MALOC
+
+
+### CALOC
+
+
+### REALOC 
+
+
+### Garbage collector
+ Rastreia os objetos em memoria
+ Objetos sem refencias sao marcados como lixo
+ o GC libera memoria ocupada por esses objetos
+### Heap em Java
+Maior parte dos objetos Java é alocada no heap
+O heap em java é manipulado pelo GC
+
+### Ciclo de vida em Objeto em Java
+1. Alocação. Objeto é criado com new
+2. Uso. Objeto é usado pelo programa
+3. Inacessibilidade. O objeto nao tem mais referencias
+4. Coleta. O GC libera a memoria do objeto
