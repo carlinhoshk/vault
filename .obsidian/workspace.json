@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
+                "file": "01 - Daily/01-04-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Revisão 1 Prova"
+              "title": "01-04-2025"
+            }
+          },
+          {
+            "id": "625bbfce5d1b321d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Arq_S1A3"
             }
           },
           {
@@ -249,10 +261,10 @@
   },
   "active": "5db70da0954673c2",
   "lastOpenFiles": [
-    "01 - Daily/01-04-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A1.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A3.pdf",
+    "01 - Daily/01-04-2025.md",
+    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A1.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A3.pdf.crdownload",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/arq_S1A2.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG.pdf.crdownload",

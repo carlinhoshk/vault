@@ -193,9 +193,11 @@ tamanho definido dinamicamente por execução
  A caixa de ferramenta para mostras informaçoes e pegar printf() e scanf()
 
 ### MALOC
+ malloc(tamanho * sizeof(int))
 
 
 ### CALOC
+ calloc(tamanho * sizeof(int))
 
 
 ### REALOC 
