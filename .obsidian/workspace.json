@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "8fb92d26cf6cc534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Proposta de projeto 3"
+            }
+          },
+          {
             "id": "67eb365e631314b0",
             "type": "leaf",
             "state": {
@@ -271,7 +295,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "625bbfce5d1b321d",
+  "active": "0017a84ecfb56c15",
   "lastOpenFiles": [
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "01 - Daily/04-04-2025.md",
