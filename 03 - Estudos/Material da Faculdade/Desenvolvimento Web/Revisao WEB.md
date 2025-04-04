@@ -1,3 +1,4 @@
+#### *Vai cair CSS e seus métodos!!!!*
 
 ### Evolução da internet
 
@@ -121,3 +122,60 @@ O esquema de cores em um website se encaixa naquilo que Hartson e Pyla (2012) de
 Bleicher (2012) explica que as respostas psicológicas às cores são de duas naturezas: 
 - Respostas Inatas – São efeitos da evolução e da seleção natural. Por exemplo, a combinação de amarelo e preto sinaliza perigo e nos põe em alerta. 
 - Respostas Aprendidas – São dependentes da cultura em que nos inserimos. Por exemplo, na cultura ocidental, azul é uma cor ligada ao gênero masculino, enquanto rosa é ligada ao gênero feminino.
+### Classificação de Fontes
+As fontes tipográficas diferem enormemente umas das outras. Santa Maria (2014) sugere a classificação mais utilizada entre os tipógrafos:
+- Sem Serifa (ou fontes não serifadas) – fontes sem apêndices nas extremidades dos caracteres; 
+- ■ Com Serifa (ou serifadas) – fontes com apêndices levemente curvos ou angulados nas extremidades dos caracteres; 
+- ■ Com Serifa Reta ou Retangular (do inglês slab serif) – fontes com apêndices retos nas extremidades dos caracteres;
+- ■ Cursivas (do inglês script) – fontes que imitam a escrita à mão; 
+- ■ Letras Negras (do inglês Blackletter) – fontes em estilo gótico antigo, incidentalmente, as mais antigas fontes tipográficas de que se tem notícia.
+![[../../../__data__/Media/Pasted image 20250404195717.png]]
+
+### Regras de Utilização de Fontes
+Quando um designer se depara com essa imensidão de opções, é natural que pergunte "Quais são as regras de uso de fontes?". Santa Maria (2014) responde: “não existem regras em tipografia.” Há princípios, melhores práticas e métodos que funcionam na maior parte do tempo, mas não existe algo que funcione o tempo todo.
+
+### Indicações de Uso
+
+A professora Denise Aristimunha de Lima (2012) oferece algumas regras de utilização para sua classificação de fontes:
+Sem Serifa
+Indicadas para textos curtos, frases isoladas e títulos.
+```
+```
+Com Serifa Reta
+Indicadas para textos casuais, textos curtos e títulos.
+```
+```
+Cursivas
+Textos estilizados, curtos e convites.
+
+### Uso de Imagens e VIdeo
+Miller (2011) afirma que os usuários não leem detalhadamente uma página, mas sim dão uma “passada d’olhos” pelas páginas. Vale a máxima de que “uma imagem bem escolhida e usada no contexto correto vale mais do que mil palavras”.
+
+### Considerações sobre Imagens e Vídeos
+- ■ Escala – A variação de tamanho dos elementos gráficos é uma forma de adicionar “dramaticidade” às páginas. 
+- ■ Profundidade – Imagens em perspectiva dão a impressão de que a página parece ter profundidade, parecendo ser um elemento tridimensional. 
+- ■ Animação – Elementos gráficos animados podem criar uma dimensão extra de informações.
+- ■ Som – O som acompanhando as imagens caiu em desuso, e usar este artifício automaticamente na carga da página é um erro grave. 
+- ■ Variabilidade – A variação de elementos gráficos pode adicionar ou confundir a experiência do usuário.
+### Importância das Cores
+Alguns aspectos de usabilidade levantados por Hartson e Pyla (2012) são objetivamente mensuráveis, enquanto outros são mais subjetivos. Miller (2011) cita as cores como sendo o elemento mais poderoso para “guiar, direcionar e persuadir o usuário”.
+### Perspectiva Emocional do Design
+O esquema de cores em um website se encaixa naquilo que Hartson e Pyla (2012) definem como “a perspectiva emocional do design”. Esta se refere ao impacto emocional do design, bem como aos aspectos que dependem dos valores pessoais, culturais e sociais
+### Respostas Psicológicas às Cores
+Bleicher (2012) explica que as respostas psicológicas às cores são de duas naturezas: 
+- ■ Respostas Inatas – São efeitos da evolução e da seleção natural. Por exemplo, a combinação de amarelo e preto sinaliza perigo e nos põe em alerta. 
+- ■ Respostas Aprendidas – São dependentes da cultura em que nos inserimos. Por exemplo, na cultura ocidental, azul é uma cor ligada ao gênero masculino, enquanto rosa é ligada ao gênero feminino.
+
+### O que é Responsividade
+Segundo Sharkie e Fisher (2013), responsividade é a capacidade de um website de se adaptar a qualquer dispositivo, em qualquer dimensão de tela e resolução, com qualquer tipo de interface de interação, apresentando as informações de forma coerente e agradável.
+### Desafios da Responsividade
+A variedade de dispositivos no mercado com tamanhos de tela, resoluções e tipos de interface diferentes impõe dificuldades aos desenvolvedores de websites. Comparações entre computadores desktop, laptops, tablets e smartphones ilustram essas variações.
+### Caracteristicas Necessarias
+Para que um website tenha responsividade, algumas características devem estar presentes:
+- ■ Identificação do Dispositivo e do Navegador – O servidor deve identificar todas as características relevantes de hardware e software do dispositivo.
+- ■ Formatos de Página Flexíveis – Devem ser adaptáveis a qualquer dimensão e resolução de tela, dispondo os elementos da forma mais racional para cada dispositivo. 
+- ■ Tamanhos Alternativos para Elementos Gráficos – Tamanhos diferentes podem afetar os tempos de carga da página.
+
+### Características Necessárias
+
+
