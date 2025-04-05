@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07a01fa33550e454",
+            "id": "161726f253e090d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Index/Usar IA-google lens para usar desktop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Usar IA-google lens para usar desktop"
+            }
+          },
+          {
+            "id": "02808057d44cedbb",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "00 - Index/Kanban sem título.md",
+                "file": "00 - Index/GoogleLens-API.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -22,7 +46,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Kanban sem título"
+              "title": "GoogleLens-API"
             }
           }
         ]
@@ -205,10 +229,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07a01fa33550e454",
+  "active": "161726f253e090d8",
   "lastOpenFiles": [
+    "00 - Index/GoogleLens-API.md",
     "00 - Index/Usar IA-google lens para usar desktop.md",
-    "00 - Index/Kanban sem título.md",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "03 - Estudos/Material de Estudos/material-estudos-linux.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
