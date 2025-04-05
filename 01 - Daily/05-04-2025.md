@@ -1,5 +1,5 @@
 ---
-creation date: "{{date.time}}"
+creation date: date.time
 tipo: Log/Daily
 ---
 
