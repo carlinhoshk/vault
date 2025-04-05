@@ -66,12 +66,24 @@
             "id": "8fc056cc1cbd91a8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf"
+                "file": "01 - Daily/04-04-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "WEB1"
+              "icon": "lucide-file",
+              "title": "04-04-2025"
             }
           }
         ]
@@ -254,7 +266,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f5185599b4f1795",
+  "active": "8fc056cc1cbd91a8",
   "lastOpenFiles": [
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",

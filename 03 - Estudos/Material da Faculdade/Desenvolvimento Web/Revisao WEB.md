@@ -177,5 +177,8 @@ Para que um website tenha responsividade, algumas características devem estar p
 - ■ Tamanhos Alternativos para Elementos Gráficos – Tamanhos diferentes podem afetar os tempos de carga da página.
 
 ### Características Necessárias
+Para que um website tenha responsividade, algumas características devem estar presentes:
+- ■ Formulários Flexíveis – Formulários estáticos geram dificuldades de leitura em telas pequenas. 
+- ■ Elementos Textuais Flexíveis – Tamanhos de fonte devem variar de acordo com o tamanho da tela.
 
 
