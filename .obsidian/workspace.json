@@ -54,9 +54,81 @@
               "icon": "lucide-file",
               "title": "05-04-2025"
             }
+          },
+          {
+            "id": "71c0d52184cbc552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material de Estudos/material-estudos-linux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "material-estudos-linux"
+            }
+          },
+          {
+            "id": "efd09daecc9b9c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Estudos OS linux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Estudos OS linux"
+            }
+          },
+          {
+            "id": "420836dc730bfc9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OpenCV com plot dinamico de Resultado"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rag",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,11 +181,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 571.5026054382324
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -235,10 +308,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f5185599b4f1795",
+  "active": "238595896fe355cd",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
+    "03 - Estudos/Sem título.md",
+    "03 - Estudos/Estudos OS linux.md",
+    "03 - Estudos/Material de Estudos/material-estudos-linux.md",
     "01 - Daily/05-04-2025.md",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "01 - Daily/04-04-2025.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "__data__/Media/Pasted image 20250404195717.png",
@@ -277,9 +353,6 @@
     "06 - Organização Linux/Configurações do Thema dracula do tmux.md",
     "06 - Organização Linux/Keybinds.md",
     "01 - Daily/27-03-2025.md",
-    "06 - Organização Linux/Configurar fonte X11.md",
-    "06 - Organização Linux/Keybinds do tmux.md",
-    "01 - Daily/28-03-2025.md",
     "__data__/Media/Pasted image 20250328184438.png",
     "__data__/Media/Pasted image 20250322061004.png",
     "__data__/Media/Pasted image 20250322051955.png"
