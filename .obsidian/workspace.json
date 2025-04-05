@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Index/Usar IA-google lens para usar desktop.md",
+                "file": "01 - Daily/05-04-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Usar IA-google lens para usar desktop"
+              "title": "05-04-2025"
             }
           },
           {
@@ -231,8 +231,8 @@
   },
   "active": "161726f253e090d8",
   "lastOpenFiles": [
-    "00 - Index/GoogleLens-API.md",
     "00 - Index/Usar IA-google lens para usar desktop.md",
+    "00 - Index/GoogleLens-API.md",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "03 - Estudos/Material de Estudos/material-estudos-linux.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
