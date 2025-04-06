@@ -1,4 +1,6 @@
 1. Primeiro execício [[WEB1-1.pdf]] 
-	- [ ] • Instalar o ~~VSCode~~ Neovim
-	- [ ] • Criar arquivos HTML, CSS e JavaScript 
-	- [ ] • Visualizar seu site no navegador
+	- [x] • Instalar o ~~VSCode~~ Neovim
+	- [x] • Criar arquivos HTML, CSS e JavaScript 
+	- [x] • Visualizar seu site no navegador
+
+	2. 
