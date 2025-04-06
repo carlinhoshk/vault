@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "9521d00eb226b9c0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "WEB1-1"
-            }
-          },
-          {
-            "id": "196975e2b8e75f68",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "WEB1"
-            }
-          },
-          {
             "id": "5abf61894ddad52b",
             "type": "leaf",
             "state": {
@@ -279,14 +255,16 @@
   },
   "active": "161726f253e090d8",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf.crdownload",
+    "00 - Index/GoogleLens-API.md",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE.md",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
     "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
     "06 - Organização Linux/virtualizacao-qemu-libvirt",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf.crdownload",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
-    "00 - Index/GoogleLens-API.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
     "01 - Daily/05-04-2025.md",
     "00 - Index/Usar IA-google lens para usar desktop.md",
@@ -308,7 +286,6 @@
     "01 - Daily/01-04-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A3.pdf.crdownload",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/arq_S1A2.pdf",
     "00 - Index/IA para criar playlists.md",
     "01 - Daily/31-03-2025.md",
     "00 - Index/Aplicação prática de elementos.md",
