@@ -32,27 +32,15 @@
             }
           },
           {
-            "id": "8291a6d407c7a07e",
+            "id": "9521d00eb226b9c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "QEMU Comandos e Virtual Manager"
+              "icon": "lucide-file-text",
+              "title": "WEB1-1"
             }
           },
           {
@@ -167,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5026054382324
+    "width": 571.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -289,13 +278,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0017a84ecfb56c15",
+  "active": "9521d00eb226b9c0",
   "lastOpenFiles": [
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE.md",
+    "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
     "06 - Organização Linux/virtualizacao-qemu-libvirt",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
-    "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf.crdownload",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "00 - Index/GoogleLens-API.md",
@@ -321,7 +310,6 @@
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A3.pdf.crdownload",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/arq_S1A2.pdf",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG.pdf.crdownload",
     "00 - Index/IA para criar playlists.md",
     "01 - Daily/31-03-2025.md",
     "00 - Index/Aplicação prática de elementos.md",
