@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Organização Linux/qemu-commands.md",
+                "file": "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "qemu-commands"
+              "title": "QEMU Comandos e Virtual Manager"
             }
           },
           {
@@ -289,10 +289,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8291a6d407c7a07e",
+  "active": "0017a84ecfb56c15",
   "lastOpenFiles": [
+    "06 - Organização Linux/virtualizacao-qemu-libvirt",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
-    "06 - Organização Linux/qemu-commands.md",
+    "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf.crdownload",
