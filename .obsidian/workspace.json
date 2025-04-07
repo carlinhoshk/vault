@@ -43,7 +43,8 @@
               "title": "engenharia-software01-02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,8 +224,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff472a5185bfc731",
+  "active": "2eb1a26a7f99e709",
   "lastOpenFiles": [
+    "01 - Daily/07-04-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão Prova 2.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão prova.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
@@ -236,7 +238,6 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "00 - Index/ProcessosXMenssageria.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
-    "01 - Daily/07-04-2025.md",
     "01 - Daily/30-03-2025.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/LIVRO_UNICO-SIS.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
