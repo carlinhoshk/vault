@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao2.md",
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão Prova 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Revisao2"
+              "title": "Revisão Prova 2"
             }
           },
           {
@@ -42,33 +42,8 @@
               "icon": "lucide-file-text",
               "title": "engenharia-software01-02"
             }
-          },
-          {
-            "id": "3aedcaa9d6f1cfcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Index/engenharia-software01-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "engenharia-software01-02"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5026054382324
+    "width": 350.5026054382324
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -247,11 +222,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aedcaa9d6f1cfcb",
+  "active": "ff472a5185bfc731",
   "lastOpenFiles": [
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão prova.md",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão Prova 2.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
     "00 - Index/engenharia-software01-02.md",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao2.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao engenharia de software.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
