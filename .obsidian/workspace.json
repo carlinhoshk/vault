@@ -8,85 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "161726f253e090d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/07-04-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "07-04-2025"
-            }
-          },
-          {
-            "id": "57b8e82d8d4a81e2",
+            "id": "ff472a5185bfc731",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf"
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "WEB1-4"
-            }
-          },
-          {
-            "id": "5abf61894ddad52b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Revisao WEB"
-            }
-          },
-          {
-            "id": "02808057d44cedbb",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "00 - Index/GoogleLens-API.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "GoogleLens-API"
+              "title": "engenharia-software01-01"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "Processos de sof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +72,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,22 +199,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5abf61894ddad52b",
+  "active": "ff472a5185bfc731",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
+    "01 - Daily/24-03-2025.md",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
+    "00 - Index/ProcessosXMenssageria.md",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
     "01 - Daily/07-04-2025.md",
+    "01 - Daily/30-03-2025.md",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/LIVRO_UNICO-SIS.pdf",
+    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
+    "00 - Index/GoogleLens-API.md",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE 1 1.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE 1.md",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf.crdownload",
-    "00 - Index/GoogleLens-API.md",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
     "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
     "06 - Organização Linux/virtualizacao-qemu-libvirt",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf.crdownload",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
     "01 - Daily/05-04-2025.md",
     "00 - Index/Usar IA-google lens para usar desktop.md",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
@@ -294,18 +236,11 @@
     "__data__/Media/Pasted image 20250404195127.png",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf.crdownload",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A1.pdf",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web",
     "01 - Daily/03-04-2025.md",
     "01 - Daily/02-04-2025.md",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A3.pdf",
     "01 - Daily/01-04-2025.md",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
     "00 - Index/IA para criar playlists.md",
-    "01 - Daily/31-03-2025.md",
-    "00 - Index/Aplicação prática de elementos.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-30 21.03.59.excalidraw.md",
     "__data__/Media/Pasted Image 20250330210601_539.png",
-    "06 - Organização Linux/Keybinds-Vimium.md",
     "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250330000648.png",
