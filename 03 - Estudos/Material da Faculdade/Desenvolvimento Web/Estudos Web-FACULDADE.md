@@ -5,6 +5,6 @@
 	- [x] • Criar arquivos HTML, CSS e JavaScript 
 	- [x] • Visualizar seu site no navegador
 2. Segundo exercício [[WEB1-4.pdf]]
-	- [ ] 1.Estrutura HTML (index.html)
-	- [ ] 2. Estilos CSS (style.css)
-	- [ ] 3. Lógica JavaScript (script.js)
+	- [x] 1.Estrutura HTML (index.html)
+	- [x] 2. Estilos CSS (style.css)
+	- [x] 3. Lógica JavaScript (script.js)
