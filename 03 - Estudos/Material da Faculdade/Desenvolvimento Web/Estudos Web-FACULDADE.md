@@ -8,3 +8,5 @@
 	- [x] 1.Estrutura HTML (index.html)
 	- [x] 2. Estilos CSS (style.css)
 	- [x] 3. Lógica JavaScript (script.js)
+3. Terceiro exercício 
+	
