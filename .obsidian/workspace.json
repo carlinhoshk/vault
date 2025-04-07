@@ -42,9 +42,81 @@
               "icon": "lucide-file-text",
               "title": "engenharia-software01-02"
             }
+          },
+          {
+            "id": "79b2a5ba6e1d123c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PROCESSO DE SOFTWARE"
+            }
+          },
+          {
+            "id": "fa2b1902497184b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão Prova 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Revisão Prova 2"
+            }
+          },
+          {
+            "id": "258a08be2f25a772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao engenharia de software.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Revisao engenharia de software"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5026054382324,
-    "collapsed": true
+    "width": 350.5026054382324
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -224,18 +295,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2eb1a26a7f99e709",
+  "active": "258a08be2f25a772",
   "lastOpenFiles": [
-    "01 - Daily/07-04-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão Prova 2.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão prova.md",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
+    "01 - Daily/07-04-2025.md",
     "00 - Index/engenharia-software01-02.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao engenharia de software.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
     "01 - Daily/24-03-2025.md",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "00 - Index/ProcessosXMenssageria.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
     "01 - Daily/30-03-2025.md",
@@ -260,7 +331,6 @@
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "03 - Estudos/Sem título.md",
     "03 - Estudos/Estudos OS linux.md",
-    "01 - Daily/04-04-2025.md",
     "__data__/Media/Pasted image 20250404195717.png",
     "__data__/Media/Pasted image 20250404195129.png",
     "__data__/Media/Pasted image 20250404195127.png",
