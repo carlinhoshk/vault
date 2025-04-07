@@ -11,12 +11,24 @@
             "id": "ff472a5185bfc731",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf"
+                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao engenharia de software.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "engenharia-software01-01"
+              "icon": "lucide-file",
+              "title": "Revisao engenharia de software"
             }
           }
         ]
@@ -72,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 571.5026054382324
+    "width": 286.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -201,11 +213,12 @@
   },
   "active": "ff472a5185bfc731",
   "lastOpenFiles": [
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao engenharia de software.md",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
     "01 - Daily/24-03-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "00 - Index/ProcessosXMenssageria.md",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
     "01 - Daily/07-04-2025.md",
     "01 - Daily/30-03-2025.md",
@@ -238,8 +251,6 @@
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A1.pdf",
     "01 - Daily/03-04-2025.md",
     "01 - Daily/02-04-2025.md",
-    "01 - Daily/01-04-2025.md",
-    "00 - Index/IA para criar playlists.md",
     "__data__/Media/Pasted Image 20250330210601_539.png",
     "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
