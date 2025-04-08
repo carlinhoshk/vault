@@ -47,12 +47,24 @@
             "id": "4eb6308db37a20d3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/arq_S1A2.pdf"
+                "file": "01 - Daily/08-04-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "arq_S1A2"
+              "icon": "lucide-file",
+              "title": "08-04-2025"
             }
           }
         ],
@@ -237,6 +249,8 @@
   },
   "active": "4eb6308db37a20d3",
   "lastOpenFiles": [
+    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/arq_S1A2.pdf",
+    "01 - Daily/08-04-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A1.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao engenharia de software.md",
@@ -271,11 +285,9 @@
     "03 - Estudos/Material de Estudos/material-estudos-linux.md",
     "04 - Projetos/OpenCV com plot dinamico de Resultado.md",
     "03 - Estudos/Sem título.md",
-    "03 - Estudos/Estudos OS linux.md",
     "__data__/Media/Pasted image 20250404195717.png",
     "__data__/Media/Pasted image 20250404195129.png",
     "__data__/Media/Pasted image 20250404195127.png",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf.crdownload",
     "__data__/Media/Pasted Image 20250330210601_539.png",
     "__data__/Media/Pasted image 20250330000428.png",
     "__data__/Media/__data__Media17-03-2025.png",
