@@ -32,6 +32,42 @@
             }
           },
           {
+            "id": "fcab74126832b80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SEMANA 1 - AULA 1"
+            }
+          },
+          {
+            "id": "8fedb1e2e6979700",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/LIVRO_UNICO-SIS.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "LIVRO_UNICO-SIS"
+            }
+          },
+          {
             "id": "bf86e1a6d3e75781",
             "type": "leaf",
             "state": {
@@ -67,7 +103,8 @@
               "title": "08-04-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -246,12 +283,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c40f236b105a396",
+  "active": "4eb6308db37a20d3",
   "lastOpenFiles": [
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
+    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
     "01 - Daily/08-04-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/arq_S1A2.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Arq_S1A1.pdf",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao engenharia de software.md",
     "01 - Daily/07-04-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão Prova 2.md",
@@ -260,7 +298,6 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
     "00 - Index/engenharia-software01-02.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-01.pdf",
-    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SEMANA 1 - AULA 1.md",
     "01 - Daily/24-03-2025.md",
     "00 - Index/ProcessosXMenssageria.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
