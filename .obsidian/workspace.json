@@ -4,95 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "6c52cb1c93300891",
+        "id": "aa1bcf3a198d8c3a",
         "type": "tabs",
         "children": [
           {
-            "id": "c3cbdaff2d02d50f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Estudos/Material da Faculdade/Programação em banco de dados/Revisão prova.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Revisão prova"
-            }
-          },
-          {
-            "id": "dc1904dac96afa6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/11-04-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "11-04-2025"
-            }
-          },
-          {
-            "id": "35e4b2a6f5e502fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/09-04-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "09-04-2025"
-            }
-          },
-          {
-            "id": "2d3387355a6712ef",
+            "id": "68d53a4bbaae507e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/Programação em banco de dados/BD_RESTRICOES.pdf"
+                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "BD_RESTRICOES"
+              "title": "WEB1"
+            }
+          },
+          {
+            "id": "91b8fadafb851f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Revisao WEB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,10 +222,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc1904dac96afa6c",
+  "active": "68d53a4bbaae507e",
   "lastOpenFiles": [
-    "01 - Daily/10-04-2025.md",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf",
     "01 - Daily/11-04-2025.md",
+    "01 - Daily/10-04-2025.md",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/lista_revisao_bd_1bim.pdf",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/Revisão prova.md",
     "01 - Daily/09-04-2025.md",
@@ -284,9 +239,6 @@
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/BD_RESTRICOES.pdf.crdownload",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/Banco Dados - Alteração de Tabelas.pdf",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/Banco Dados - Alteração de Tabelas.pdf.crdownload",
-    "03 - Estudos/Material da Faculdade/Programação em banco de dados/Linguagem de Manipulacao de Dados.pdf",
-    "03 - Estudos/Material da Faculdade/Programação em banco de dados/Linguagem de Manipulacao de Dados.pdf.crdownload",
-    "03 - Estudos/Material da Faculdade/Programação em banco de dados/Linguagem de Definição de Dados.pdf",
     "__data__/Media/Pasted image 20250409021423.png",
     "__data__/Media/Pasted image 20250409021350.png",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
@@ -303,14 +255,12 @@
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
     "01 - Daily/30-03-2025.md",
     "00 - Index/GoogleLens-API.md",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE 1 1.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE 1.md",
     "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
     "01 - Daily/05-04-2025.md",
     "00 - Index/Usar IA-google lens para usar desktop.md",
-    "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
     "__data__/Media/Pasted image 20250404195717.png",
     "__data__/Media/Pasted image 20250404195129.png",
     "__data__/Media/Pasted image 20250404195127.png",
