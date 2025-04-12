@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Definir a arquitetura
 - [ ] Definir o design
 - [ ] Definir a stack
 - [ ] Criar um prototipo de vibialidade
@@ -14,6 +13,7 @@ kanban-plugin: board
 
 ## A fazer
 
+- [ ] [[../Definir a arquitetura]]
 
 
 ## Em andamento
