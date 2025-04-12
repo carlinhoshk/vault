@@ -12,5 +12,19 @@
       ],
       "key": "C"
     }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "AltGraph"
+    }
   ]
 }

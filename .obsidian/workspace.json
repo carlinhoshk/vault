@@ -76,8 +76,7 @@
               "title": "Revisao WEB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "62af457a19a71420",
@@ -164,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5026054382324,
-    "collapsed": true
+    "width": 382.5026054382324
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -289,9 +287,9 @@
   },
   "active": "a353deed1b17f206",
   "lastOpenFiles": [
-    "00 - Index/GoogleLens-API.md",
-    "Definir a arquitetura.md",
     "01 - Daily/12-04-2025.md",
+    "Definir a arquitetura.md",
+    "00 - Index/GoogleLens-API.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
