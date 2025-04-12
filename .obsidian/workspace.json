@@ -32,6 +32,27 @@
             }
           },
           {
+            "id": "4aa76bb87c3e3377",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00 - Index/GoogleLens-API.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "GoogleLens-API"
+            }
+          },
+          {
             "id": "91b8fadafb851f41",
             "type": "leaf",
             "state": {
@@ -55,7 +76,8 @@
               "title": "Revisao WEB"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,10 +256,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68d53a4bbaae507e",
+  "active": "4aa76bb87c3e3377",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "01 - Daily/12-04-2025.md",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf",
