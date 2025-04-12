@@ -11,12 +11,24 @@
             "id": "68d53a4bbaae507e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf"
+                "file": "01 - Daily/12-04-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "WEB1"
+              "icon": "lucide-file",
+              "title": "12-04-2025"
             }
           },
           {
@@ -224,8 +236,9 @@
   },
   "active": "68d53a4bbaae507e",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
+    "01 - Daily/12-04-2025.md",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf",
     "01 - Daily/11-04-2025.md",
@@ -260,7 +273,6 @@
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE 1.md",
     "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
     "01 - Daily/05-04-2025.md",
-    "00 - Index/Usar IA-google lens para usar desktop.md",
     "__data__/Media/Pasted image 20250404195717.png",
     "__data__/Media/Pasted image 20250404195129.png",
     "__data__/Media/Pasted image 20250404195127.png",
