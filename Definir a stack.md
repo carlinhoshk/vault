@@ -1,0 +1,1 @@
+Com esse pensamento sobre desenvolver um protótipo para validar a idéia concluo a Inicialização de [[Prototipo em Python]]

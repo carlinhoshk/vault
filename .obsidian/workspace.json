@@ -76,19 +76,20 @@
               "title": "Revisao WEB"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "62af457a19a71420",
+        "id": "cd5c76a19dac7f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "a353deed1b17f206",
+            "id": "45376bf1ea706b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definir a arquitetura.md",
+                "file": "00 - Index/Prototipo em Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -103,7 +104,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Definir a arquitetura"
+              "title": "Prototipo em Python"
             }
           }
         ]
@@ -163,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5026054382324
+    "width": 382.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -285,11 +287,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a353deed1b17f206",
+  "active": "45376bf1ea706b82",
   "lastOpenFiles": [
-    "01 - Daily/12-04-2025.md",
-    "Definir a arquitetura.md",
+    "Definir a stack.md",
     "00 - Index/GoogleLens-API.md",
+    "Definir a arquitetura.md",
+    "00 - Index/Prototipo em Python.md",
+    "01 - Daily/12-04-2025.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
@@ -323,8 +327,6 @@
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE 1 1.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE 1.md",
-    "06 - Organização Linux/QEMU Comandos e Virtual Manager.md",
-    "01 - Daily/05-04-2025.md",
     "__data__/Media/Pasted image 20250404195717.png",
     "__data__/Media/Pasted image 20250404195129.png",
     "__data__/Media/Pasted image 20250404195127.png",
