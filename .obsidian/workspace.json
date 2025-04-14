@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68d53a4bbaae507e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/12-04-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "12-04-2025"
-            }
-          },
-          {
             "id": "4aa76bb87c3e3377",
             "type": "leaf",
             "state": {
@@ -53,12 +29,12 @@
             }
           },
           {
-            "id": "91b8fadafb851f41",
+            "id": "c257dd48d2d2405d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
+                "file": "00 - Index/Prototipo em Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -73,41 +49,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Revisao WEB"
+              "title": "Prototipo em Python"
+            }
+          },
+          {
+            "id": "da3bee7542f8ae1f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-13 21.55.38.excalidraw"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "cd5c76a19dac7f2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45376bf1ea706b82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/13-04-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "13-04-2025"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,13 +245,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45376bf1ea706b82",
+  "active": "da3bee7542f8ae1f",
   "lastOpenFiles": [
-    "01 - Daily/12-04-2025.md",
-    "01 - Daily/13-04-2025.md",
     "00 - Index/Prototipo em Python.md",
-    "Definir a stack.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
     "00 - Index/GoogleLens-API.md",
+    "Definir a stack.md",
+    "01 - Daily/13-04-2025.md",
+    "01 - Daily/12-04-2025.md",
     "Definir a arquitetura.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao WEB.md",
@@ -326,7 +285,6 @@
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
     "01 - Daily/30-03-2025.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE.md",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Estudos Web-FACULDADE 1 1.md",
     "__data__/Media/Pasted image 20250404195717.png",
     "__data__/Media/Pasted image 20250404195129.png",
     "__data__/Media/Pasted image 20250404195127.png",
