@@ -29,6 +29,30 @@
             }
           },
           {
+            "id": "2aefedca6a1ef119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definir a stack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Definir a stack"
+            }
+          },
+          {
             "id": "c257dd48d2d2405d",
             "type": "leaf",
             "state": {
@@ -50,6 +74,18 @@
               },
               "icon": "lucide-file",
               "title": "Prototipo em Python"
+            }
+          },
+          {
+            "id": "be458b1561323fd3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-13 21.55.38.excalidraw"
             }
           },
           {
@@ -77,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,13 +292,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da3bee7542f8ae1f",
+  "active": "be458b1561323fd3",
   "lastOpenFiles": [
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
-    "01 - Daily/14-04-2025.md",
     "00 - Index/Prototipo em Python.md",
-    "00 - Index/GoogleLens-API.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-14 03.26.26.excalidraw.md",
     "Definir a stack.md",
+    "00 - Index/GoogleLens-API.md",
+    "01 - Daily/14-04-2025.md",
     "01 - Daily/13-04-2025.md",
     "01 - Daily/12-04-2025.md",
     "Definir a arquitetura.md",
@@ -295,7 +332,6 @@
     "01 - Daily/24-03-2025.md",
     "00 - Index/ProcessosXMenssageria.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/Revisao 2.md",
-    "01 - Daily/30-03-2025.md",
     "__data__/Media/Pasted image 20250404195717.png",
     "__data__/Media/Pasted image 20250404195129.png",
     "__data__/Media/Pasted image 20250404195127.png",
