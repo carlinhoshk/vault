@@ -11,21 +11,24 @@
             "id": "4aa76bb87c3e3377",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00 - Index/GoogleLens-API.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "01 - Daily/15-04-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "GoogleLens-API"
+              "icon": "lucide-file",
+              "title": "15-04-2025"
             }
           },
           {
@@ -268,7 +271,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82ebfdd2e8feabd4",
+  "active": "4aa76bb87c3e3377",
   "lastOpenFiles": [
     "00 - Index/GoogleLens-API.md",
     "01 - Daily/15-04-2025.md",
