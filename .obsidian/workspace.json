@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "869b10006ff43940",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-13 21.55.38.excalidraw"
+            }
+          },
+          {
             "id": "2aefedca6a1ef119",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,8 +169,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,15 +295,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be458b1561323fd3",
+  "active": "869b10006ff43940",
   "lastOpenFiles": [
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-14 03.26.26.excalidraw.md",
+    "01 - Daily/15-04-2025.md",
+    "Definir a stack.md",
+    "00 - Index/Prototipo em Python.md",
+    "06 - Organização Linux/Keybinds-Vimium.md",
     "01 - Daily/16-04-2025.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
-    "00 - Index/Prototipo em Python.md",
-    "01 - Daily/15-04-2025.md",
     "00 - Index/GoogleLens-API.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-14 03.26.26.excalidraw.md",
-    "Definir a stack.md",
     "01 - Daily/14-04-2025.md",
     "01 - Daily/13-04-2025.md",
     "01 - Daily/12-04-2025.md",
@@ -323,7 +335,6 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão prova.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "00 - Index/engenharia-software01-02.md",
-    "01 - Daily/24-03-2025.md",
     "__data__/Media/Pasted image 20250404195717.png",
     "__data__/Media/Pasted image 20250404195129.png",
     "__data__/Media/Pasted image 20250404195127.png",
