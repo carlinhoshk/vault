@@ -83,12 +83,24 @@
             "id": "be458b1561323fd3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md"
+                "file": "01 - Daily/16-04-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-13 21.55.38.excalidraw"
+              "icon": "lucide-file",
+              "title": "16-04-2025"
             }
           }
         ],
@@ -274,10 +286,11 @@
   },
   "active": "be458b1561323fd3",
   "lastOpenFiles": [
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
+    "01 - Daily/16-04-2025.md",
     "00 - Index/Prototipo em Python.md",
     "01 - Daily/15-04-2025.md",
     "00 - Index/GoogleLens-API.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-14 03.26.26.excalidraw.md",
     "Definir a stack.md",
     "01 - Daily/14-04-2025.md",
@@ -311,7 +324,6 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "00 - Index/engenharia-software01-02.md",
     "01 - Daily/24-03-2025.md",
-    "00 - Index/ProcessosXMenssageria.md",
     "__data__/Media/Pasted image 20250404195717.png",
     "__data__/Media/Pasted image 20250404195129.png",
     "__data__/Media/Pasted image 20250404195127.png",
