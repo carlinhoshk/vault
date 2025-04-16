@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/16-04-2025.md",
+                "file": "06 - Organização Linux/Keybinds-Vimium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "16-04-2025"
+              "title": "Keybinds-Vimium"
             }
           }
         ],
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Processos de sof",
+                "query": "vimium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,12 +157,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 382.5026054382324,
-    "collapsed": true
+    "width": 382.5026054382324
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -286,8 +286,8 @@
   },
   "active": "be458b1561323fd3",
   "lastOpenFiles": [
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
     "01 - Daily/16-04-2025.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
     "00 - Index/Prototipo em Python.md",
     "01 - Daily/15-04-2025.md",
     "00 - Index/GoogleLens-API.md",
