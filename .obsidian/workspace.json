@@ -91,7 +91,8 @@
               "title": "Drawing 2025-04-13 21.55.38.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,12 +272,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4aa76bb87c3e3377",
+  "active": "be458b1561323fd3",
   "lastOpenFiles": [
-    "00 - Index/GoogleLens-API.md",
-    "01 - Daily/15-04-2025.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
     "00 - Index/Prototipo em Python.md",
+    "01 - Daily/15-04-2025.md",
+    "00 - Index/GoogleLens-API.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-14 03.26.26.excalidraw.md",
     "Definir a stack.md",
     "01 - Daily/14-04-2025.md",
