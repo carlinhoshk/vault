@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "7bb71cc963b9355e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Daily/25-04-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "25-04-2025"
+            }
+          },
+          {
             "id": "8a001e93065b1ade",
             "type": "leaf",
             "state": {
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -355,8 +379,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "869b10006ff43940",
+  "active": "7bb71cc963b9355e",
   "lastOpenFiles": [
+    "01 - Daily/25-04-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/aula-2-semestre.md",
     "01 - Daily/24-04-2025.md",
     "01 - Daily/22-04-2025.md",
@@ -386,7 +411,6 @@
     "01 - Daily/10-04-2025.md",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/lista_revisao_bd_1bim.pdf",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/Revisão prova.md",
-    "01 - Daily/09-04-2025.md",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/BD_FK.pdf",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/BD_FK.pdf.crdownload",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/BD_RESTRICOES.pdf",
