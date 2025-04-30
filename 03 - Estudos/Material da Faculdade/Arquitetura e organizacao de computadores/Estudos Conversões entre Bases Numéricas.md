@@ -9,7 +9,7 @@ Multiplique cada bit pela potência de 2 correspondente à sua posição (da dir
 ```
 
 (binário) = (bₙ × 2ⁿ) + (bₙ₋₁ × 2ⁿ⁻¹) + ... + (b₁ × 2¹) + (b₀ × 2⁰)
-
+ 
 ```
 
 ### 📍 Exemplo:
