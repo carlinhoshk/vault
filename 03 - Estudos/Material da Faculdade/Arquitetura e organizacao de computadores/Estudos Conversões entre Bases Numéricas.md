@@ -1,5 +1,7 @@
-
-
+# FOTO BINARIO > DECIMAL
+![[../../../__data__/Media/Pasted image 20250430014221.png]]
+# FOTO DECIMAL > BINARIO
+![[../../../__data__/Media/Pasted image 20250430014419.png]]
 ## 🔢 Parte 1: Binário → Decimal
 
 **Como converter?**  
