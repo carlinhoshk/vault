@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "d2dc61a4e1e37019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Estudos Conversões entre Bases Numéricas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Estudos Conversões entre Bases Numéricas"
+            }
+          },
+          {
             "id": "2182d25800ac6664",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               "title": "ARQUITETURAeORG-15"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,13 +247,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aea8792903bf0f95",
+  "active": "d2dc61a4e1e37019",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Estudos Conversões entre Bases Numéricas.md",
     "03 - Estudos/Divisão Euclidiana.md",
+    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf",
+    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Estudos Conversões entre Bases Numéricas.md",
     "__data__/Media/Pasted image 20250430014419.png",
     "__data__/Media/Pasted image 20250430014221.png",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf.crdownload",
     "01 - Daily/30-04-2025.md",
     "01 - Daily/29-04-2025.md",
@@ -253,7 +278,6 @@
     "01 - Daily/16-04-2025.md",
     "00 - Index/GoogleLens-API.md",
     "01 - Daily/14-04-2025.md",
-    "01 - Daily/13-04-2025.md",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf",
