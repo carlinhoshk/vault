@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Estudos Conversões entre Bases Numéricas.md",
+                "file": "03 - Estudos/Divisão Euclidiana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Estudos Conversões entre Bases Numéricas"
+              "title": "Divisão Euclidiana"
             }
           },
           {
@@ -224,10 +224,11 @@
   },
   "active": "aea8792903bf0f95",
   "lastOpenFiles": [
+    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Estudos Conversões entre Bases Numéricas.md",
+    "03 - Estudos/Divisão Euclidiana.md",
     "__data__/Media/Pasted image 20250430014419.png",
     "__data__/Media/Pasted image 20250430014221.png",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Estudos Conversões entre Bases Numéricas.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf.crdownload",
     "01 - Daily/30-04-2025.md",
     "01 - Daily/29-04-2025.md",
@@ -268,7 +269,6 @@
     "__data__/Media/Pasted image 20250404195127.png",
     "__data__/Media/Pasted Image 20250330210601_539.png",
     "__data__/Media/Pasted image 20250330000428.png",
-    "__data__/Media/__data__Media17-03-2025.png",
-    "__data__/Media/Pasted image 20250330000648.png"
+    "__data__/Media/__data__Media17-03-2025.png"
   ]
 }
