@@ -82,3 +82,149 @@ Decimal: `13`
   - \( 99^0 = 1 \)
 
 ⚠️ Isso **não é multiplicação por zero**, é **potência com expoente zero**!
+
+
+---
+
+# 📘 Conversões entre Binário, Decimal, Octal e Hexadecimal
+
+---
+
+## 🔢 Binário → Decimal
+
+**Regra:**  
+Multiplica cada bit pela potência de 2 correspondente, da direita para a esquerda.
+
+**Exemplo:** `10111`
+
+```
+
+1×2⁴ + 0×2³ + 1×2² + 1×2¹ + 1×2⁰  
+= 16 + 0 + 4 + 2 + 1 = ✅ 23
+
+```
+
+---
+
+## 🔁 Decimal → Binário
+
+**Regra:**  
+Divide o número sucessivamente por 2, anotando os restos.
+
+**Exemplo:** `23`
+
+```
+
+23 ÷ 2 = 11 → resto 1  
+11 ÷ 2 = 5 → resto 1  
+5 ÷ 2 = 2 → resto 1  
+2 ÷ 2 = 1 → resto 0  
+1 ÷ 2 = 0 → resto 1
+
+Binário: ✅ 10111
+
+```
+
+---
+
+## 〰️ Binário ↔ Octal
+
+### 🔄 Binário → Octal
+
+**Regra:**  
+Agrupar de 3 em 3 bits da **direita para a esquerda**, e converter cada grupo para decimal.
+
+**Exemplo:** `10111`  
+Agrupar: `010 111`  
+→ `2` e `7` → ✅ Octal: `27₈`
+
+---
+
+### 🔄 Octal → Binário
+
+**Regra:**  
+Cada dígito octal vira **3 bits binários**.
+
+**Exemplo:** `23₈`  
+→ `2` → `010`  
+→ `3` → `011`  
+✅ Binário: `010011`
+
+---
+
+## 🔷 Binário ↔ Hexadecimal
+
+### 🔄 Binário → Hexadecimal
+
+**Regra:**  
+Agrupar de 4 em 4 bits da **direita para a esquerda**, e converter cada grupo para hexadecimal.
+
+**Exemplo:** `00011111`  
+Grupos: `0001` `1111`  
+→ `1` e `F` → ✅ Hex: `1F`
+
+---
+
+### 🔄 Hexadecimal → Binário
+
+**Regra:**  
+Cada dígito hexadecimal vira **4 bits binários**.
+
+**Exemplo:** `1F`  
+→ `1` → `0001`  
+→ `F` → `1111`  
+✅ Binário: `00011111`
+
+---
+
+## 🔬 Potências de 2 usadas nas conversões
+
+| Posição | Potência | Valor |
+|---------|----------|-------|
+| 4ª      | 2⁴       | 16    |
+| 3ª      | 2³       | 8     |
+| 2ª      | 2²       | 4     |
+| 1ª      | 2¹       | 2     |
+| 0ª      | 2⁰       | 1     |
+
+---
+
+## 🔠 Tabela rápida de conversão
+
+### Octal ↔ Binário
+
+| Octal | Binário |
+|-------|---------|
+| 0     | 000     |
+| 1     | 001     |
+| 2     | 010     |
+| 3     | 011     |
+| 4     | 100     |
+| 5     | 101     |
+| 6     | 110     |
+| 7     | 111     |
+
+---
+
+### Hexadecimal ↔ Binário
+
+| Hex | Binário |
+|-----|---------|
+| 0   | 0000    |
+| 1   | 0001    |
+| 2   | 0010    |
+| 3   | 0011    |
+| 4   | 0100    |
+| 5   | 0101    |
+| 6   | 0110    |
+| 7   | 0111    |
+| 8   | 1000    |
+| 9   | 1001    |
+| A   | 1010    |
+| B   | 1011    |
+| C   | 1100    |
+| D   | 1101    |
+| E   | 1110    |
+| F   | 1111    |
+
+---
