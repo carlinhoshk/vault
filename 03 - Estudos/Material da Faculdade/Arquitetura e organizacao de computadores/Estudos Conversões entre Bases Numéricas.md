@@ -1,3 +1,10 @@
+
+|Origem|Destino|O que você faz?|
+|---|---|---|
+|Decimal|Base 7|Divide por **7**|
+|Decimal|Binário (base 2)|Divide por **2**|
+|Decimal|Octal (base 8)|Divide por **8**|
+|Decimal|Hexa (base 16)|Divide por **16**|
 # FOTO BINARIO > DECIMAL
 ![[../../../__data__/Media/Pasted image 20250430014221.png]]
 # FOTO DECIMAL > BINARIO
