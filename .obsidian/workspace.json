@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Index/Nota entrevista 15-05.md",
+                "file": "01 - Daily/15-05-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nota entrevista 15-05"
+              "title": "15-05-2025"
             }
           },
           {
@@ -369,8 +369,8 @@
   },
   "active": "e014da953a881d70",
   "lastOpenFiles": [
-    "01 - Daily/15-05-2025.md",
     "00 - Index/Nota entrevista 15-05.md",
+    "01 - Daily/15-05-2025.md",
     "01 - Daily/14-05-2025.md",
     "01 - Daily/13-05-2025.md",
     "01 - Daily/12-05-2025.md",
