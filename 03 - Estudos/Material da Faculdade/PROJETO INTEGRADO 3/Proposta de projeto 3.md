@@ -30,8 +30,9 @@ Futuro do software ainda depende da melhor maneira de integrar um dispositivo do
 
 
 
-## Assets p/ slides.
+## Assets & Explicações p/ slides.
 
+Baseado na arquitetura e Arquitetura e organização de computadores limitamos para 512M de ram na maquina de CD
+aplicando uma arquitetura mais *limpa/organizada* manipulando **HEAP** da JVM dentro do container que 
+o docker-compose manipula.
 
-
-![[../../../__data__/Media/Pasted image 20250517181351.png]]
