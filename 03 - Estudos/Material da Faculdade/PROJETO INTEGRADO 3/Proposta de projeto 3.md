@@ -32,7 +32,27 @@ Futuro do software ainda depende da melhor maneira de integrar um dispositivo do
 
 ## Assets & Explicações p/ slides.
 
-Baseado na arquitetura e Arquitetura e organização de computadores limitamos para 512M de ram na maquina de CD
+## Aplicando Arquitetura e organização usando DDD e Arquitetura limpa.
+
+
+
+
+
+
+
+
+
+
+
+## Aplicando desenvolvimento Sistemas Operacionais & arquitetura e Arquitetura e organização de computadores 
+
+limitamos para 512M de ram na maquina de CD
 aplicando uma arquitetura mais *limpa/organizada* manipulando **HEAP** da JVM dentro do container que 
 o docker-compose manipula.
 
+1. Configuração com parametros para JVM iniciar com 521 o HEAP da jvm e o comando XmX libera consumo se estiver disponível
+2. Configurações para lançar na maquina de prod-BACKEND consumindo: 1 CPU/CORE, 1.5G RAM e reservar metade disso em cache.
+3. Configuração para lançar na maquina de prod-FRONTEND consumido metade dos recursos da prod-backend
+4. Configura para lançar o BANCO DE DADOS de produção com 512M de ram.
+
+![[../../../__data__/Media/Pasted image 20250517183145.png]]
