@@ -52,7 +52,14 @@ Claro! Aqui está a versão revisada para ficar mais fluida tanto para **leitura
 ![[../../../__data__/Media/Pasted image 20250517225234.png]]
 
 ### Aplicando Engenharia de software com teste unitários na CI
+Tela de Actions do github aonde controlamos a integração continua do nosso repositório.
+Aqui vemos todos os testes executados aonde teve falhas, sucessos, data e o tempo de execução.
+O ultimo exemplo é perfeito para explicar CI aonde um outro usuário commita em uma outra branch e nós testamos ela se vai quebrar nosso projeto da produção na branch main. Na foto abaixo vemos todos os paços para implementação.
 
+![[../../../__data__/Media/Pasted image 20250519021318.png]]
+
+![[../../../__data__/Media/Pasted image 20250519021958.png]]![[../../../__data__/Media/Pasted image 20250519022036.png]]
+![[../../../__data__/Media/Pasted image 20250519021427.png]]
 
 
 
