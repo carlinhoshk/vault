@@ -34,7 +34,7 @@ Futuro do software ainda depende da melhor maneira de integrar um dispositivo do
 
 ## Aplicando Arquitetura e organização usando DDD e Arquitetura limpa.
 
-
+Diferente do MVC divdimos 
 ![[../../../__data__/Media/Pasted image 20250517225234.png]]
 
 
