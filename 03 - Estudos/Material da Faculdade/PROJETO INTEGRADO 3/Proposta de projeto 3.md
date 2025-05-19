@@ -33,10 +33,25 @@ Futuro do software ainda depende da melhor maneira de integrar um dispositivo do
 ## Assets & Explicações p/ slides.
 
 ## Aplicando Arquitetura e organização usando DDD e Arquitetura limpa.
+Claro! Aqui está a versão revisada para ficar mais fluida tanto para **leitura em slide** quanto para **apresentação oral**:
 
-Diferente do MVC divdimos 
+### Estrutura por Camadas (DDD)
+**Diferente do padrão MVC**, onde controller e model acumulam várias responsabilidades, o DDD separa cada função em sua camada específica, deixando o sistema mais limpo, testável e preparado para crescer.
+
+1. **Apresentação**  
+    `interfaces.controllers` — Responsável por receber requisições da API e repassar para a aplicação.
+    
+2. **Aplicação**  
+    `application.services`, `application.dto`, `application.mappers`, `application.exceptions` — Coordena os casos de uso, faz a transformação de dados e trata exceções.
+    
+3. **Domínio**  
+    `domain.entities`, `domain.enums`, `domain.repositories` — Contém as regras de negócio, entidades e contratos de persistência.
+    
+4. **Infraestrutura**  
+    `security`, `resources` — Implementa autenticação (JWT), configurações e migrações de banco de dados.
 ![[../../../__data__/Media/Pasted image 20250517225234.png]]
 
+### Aplicando Engenharia de software com teste unitários na CI
 
 
 
@@ -54,3 +69,6 @@ o docker-compose manipula.
 4. Configura para lançar o BANCO DE DADOS de produção com 512M de ram.
 
 ![[../../../__data__/Media/Pasted image 20250517183145.png]]
+
+
+

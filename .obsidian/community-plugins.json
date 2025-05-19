@@ -2,11 +2,11 @@
   "templater-obsidian",
   "obsidian-paste-image-rename",
   "obsidian-kanban",
-  "darlal-switcher-plus",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "table-editor-obsidian",
   "editing-toolbar",
   "open-in-new-tab",
-  "text-extractor"
+  "text-extractor",
+  "new-tab-default-page"
 ]
