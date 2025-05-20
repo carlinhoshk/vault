@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "20-05-2025"
             }
+          },
+          {
+            "id": "7dbe58ed4ace3e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Proposta de projeto 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +233,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d92b78f8586dd0c",
+  "active": "7dbe58ed4ace3e36",
   "lastOpenFiles": [
-    "01 - Daily/19-05-2025.md",
     "01 - Daily/20-05-2025.md",
+    "01 - Daily/19-05-2025.md",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
     "__data__/Media/Pasted image 20250519021318.png",
     "__data__/Media/Pasted image 20250519021427.png",
