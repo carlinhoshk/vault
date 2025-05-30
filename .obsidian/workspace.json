@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/26-05-2025.md",
+                "file": "01 - Daily/30-05-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "26-05-2025"
+              "title": "30-05-2025"
             }
           }
         ],
@@ -79,7 +79,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -189,8 +189,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -217,26 +217,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Criar um novo quadro": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
-      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "7dbe58ed4ace3e36",
   "lastOpenFiles": [
-    "01 - Daily/25-05-2025.md",
     "01 - Daily/26-05-2025.md",
+    "01 - Daily/30-05-2025.md",
+    "01 - Daily/25-05-2025.md",
     "01 - Daily/24-05-2025.md",
     "01 - Daily/22-05-2025.md",
     "01 - Daily/21-05-2025.md",
@@ -273,7 +274,6 @@
     "01 - Daily/10-05-2025.md",
     "01 - Daily/09-05-2025.md",
     "01 - Daily/08-05-2025.md",
-    "01 - Daily/07-05-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf.crdownload",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
