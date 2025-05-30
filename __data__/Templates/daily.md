@@ -6,9 +6,10 @@ tipo: Log/Daily
 # 📅 Registro Diário {{date: DD-MM-YYYY}}
 
 ## 🎯 Objetivos do Dia
-- [ ] 
+- [ ]
 
 ## 📝 Notas do Dia
+1. 
 
 
 ## ✅ Tarefas
