@@ -1,7 +1,24 @@
 ![[../../../__data__/Media/Pasted image 20250531151153.jpg]]
 ### 1. **Comandos Básicos de Consulta**
 
-- **SELECT**
+Usa o *JOIN* para combinar os dados de mais de uma tabela.
+INNER JOIN Retorna só se as linhas tiverem correspondências em ambas.
+
+`sql
+
+SELECT
+    c.nome,
+    p.total_pedido
+FROM
+    Clientes c
+INNER JOIN
+    Pedidos p ON c.id = p.id_cliente;
+    
+```
+
+
+
+- **SELECT COM JOINS** 
     
     - Seleção de colunas (`SELECT nome, idade FROM pessoas`)
         
@@ -24,10 +41,6 @@
     - `CROSS JOIN`
         
     - Condições de junção (`ON`, `USING`)
-        
-- **COM** _(provavelmente abreviação de comandos gerais, como `COMMAND` ou erro de OCR)_
-    
-    - Pode revisar comandos como: `INSERT`, `UPDATE`, `DELETE`
         
 
 ---
