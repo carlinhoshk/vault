@@ -4,7 +4,7 @@
 Usa o *JOIN* para combinar os dados de mais de uma tabela.
 INNER JOIN Retorna só se as linhas tiverem correspondências em ambas.
 
-`sql
+```sql
 
 SELECT
     c.nome,
@@ -13,7 +13,6 @@ FROM
     Clientes c
 INNER JOIN
     Pedidos p ON c.id = p.id_cliente;
-    
 ```
 
 
