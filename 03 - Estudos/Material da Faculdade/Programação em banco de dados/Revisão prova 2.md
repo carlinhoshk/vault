@@ -1,8 +1,9 @@
 ![[../../../__data__/Media/Pasted image 20250531151153.jpg]]
 ### 1. **Comandos Básicos de Consulta**
 
-Usa o *JOIN* para combinar os dados de mais de uma tabela.
-INNER JOIN Retorna só se as linhas tiverem correspondências em ambas.
+## Usando INNER *JOIN*
+para combinar os dados de mais de uma tabela.
+INNER JOIN Retorna só se as linhas tiverem correspondências em ambas.( Não retorna NULL)
 
 ```sql
 
@@ -15,7 +16,8 @@ INNER JOIN
     Pedidos p ON c.id = p.id_cliente;
 ```
 
-
+## Usando LEFT *JOIN*
+Retorna valor 
 
 - **SELECT COM JOINS** 
     
@@ -24,22 +26,7 @@ INNER JOIN
     - Seleção com condições (`WHERE`, `BETWEEN`, `IN`, `LIKE`)
         
     - Ordenação (`ORDER BY`)
-        
-    - Limitação de resultados (`LIMIT`, `OFFSET`)
-        
-- **JOINs**
     
-    - `INNER JOIN`
-        
-    - `LEFT JOIN`
-        
-    - `RIGHT JOIN`
-        
-    - `FULL OUTER JOIN`
-        
-    - `CROSS JOIN`
-        
-    - Condições de junção (`ON`, `USING`)
         
 
 ---
