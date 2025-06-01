@@ -11,24 +11,10 @@
             "id": "07e339d7658a9d77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/01-06-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "01-06-2025"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -258,8 +244,8 @@
   },
   "active": "07e339d7658a9d77",
   "lastOpenFiles": [
-    "03 - Estudos/Material da Faculdade/Programação em banco de dados/Revisão prova 2.md",
     "01 - Daily/01-06-2025.md",
+    "03 - Estudos/Material da Faculdade/Programação em banco de dados/Revisão prova 2.md",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/Revisão prova.md",
     "__data__/Media/Pasted image 20250531151153.jpg",
     "01 - Daily/31-05-2025.md",
