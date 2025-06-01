@@ -35,9 +35,19 @@
             "id": "7dbe58ed4ace3e36",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "ac4704ff4504a811",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/31-05-2025.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "31-05-2025"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -212,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,10 +242,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7dbe58ed4ace3e36",
+  "active": "ca5f44c3159b5a24",
   "lastOpenFiles": [
-    "01 - Daily/26-05-2025.md",
+    "conflict-files-obsidian-git.md",
+    "01 - Daily/01-06-2025.md",
     "01 - Daily/31-05-2025.md",
+    "__data__/Media/Pasted image 20250531151153.jpg",
+    "03 - Estudos/Material da Faculdade/Programação em banco de dados/Revisão prova 2.md",
+    "03 - Estudos/Estudos-Index/Sem título.md",
+    "03 - Estudos/Estudos-Index/Estudos Sistemas Operacionais focado no projeto linux e-leve.md",
+    "03 - Estudos/Estudos-Index/Estudos OS linux.md",
+    "03 - Estudos/Estudos-Index/Estudos C-sharp.md",
+    "03 - Estudos/Estudos-Index/Divisão Euclidiana.md",
+    "03 - Estudos/Estudos-Index",
+    "01 - Daily/30-05-2025.md",
+    "00 - Index/Estudos-OSDK.md",
+    "01 - Daily/26-05-2025.md",
     "01 - Daily/25-05-2025.md",
     "01 - Daily/24-05-2025.md",
     "01 - Daily/22-05-2025.md",
@@ -254,7 +275,6 @@
     "__data__/Media/Pasted image 20250518224049.png",
     "__data__/Media/Pasted image 20250518224046.png",
     "__data__/Media/Pasted image 20250518224030.png",
-    "__data__/Media/Pasted image 20250518224009.png",
     "01 - Daily/18-05-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/PROCESSO DE SOFTWARE.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisão 1 Prova.md",
@@ -264,22 +284,11 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
     "01 - Daily/17-05-2025.md",
     "00 - Index/Centralizar decisões familiares para os dados.md",
-    "01 - Daily/16-05-2025.md",
-    "01 - Daily/15-05-2025.md",
-    "00 - Index/Nota entrevista 15-05.md",
-    "01 - Daily/14-05-2025.md",
-    "01 - Daily/13-05-2025.md",
-    "01 - Daily/12-05-2025.md",
-    "00 - Index/Sem título 1.md",
-    "01 - Daily/10-05-2025.md",
-    "01 - Daily/09-05-2025.md",
-    "01 - Daily/08-05-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf.crdownload",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf",
-    "03 - Estudos/Material da Faculdade/Programação em banco de dados/lista_revisao_bd_1bim.pdf",
-    "03 - Estudos/Material da Faculdade/Programação em banco de dados/BD_FK.pdf"
+    "03 - Estudos/Material da Faculdade/Programação em banco de dados/lista_revisao_bd_1bim.pdf"
   ]
 }
