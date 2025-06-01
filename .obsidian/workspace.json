@@ -4,45 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d11c3b091d5a319",
+        "id": "afd3223a01605c53",
         "type": "tabs",
         "children": [
           {
-            "id": "0d92b78f8586dd0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/20-05-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20-05-2025"
-            }
-          },
-          {
-            "id": "7dbe58ed4ace3e36",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "ac4704ff4504a811",
+            "id": "c8c52e50b320f527",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,8 +31,7 @@
               "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,12 +209,13 @@
   },
   "active": "ca5f44c3159b5a24",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "01 - Daily/31-05-2025.md",
+    "01 - Daily/20-05-2025.md",
     "03 - Estudos/Estudos OS linux.md",
     "03 - Estudos/Estudos C-sharp.md",
     "03 - Estudos/Divisão Euclidiana.md",
-    "conflict-files-obsidian-git.md",
     "01 - Daily/01-06-2025.md",
-    "01 - Daily/31-05-2025.md",
     "__data__/Media/Pasted image 20250531151153.jpg",
     "03 - Estudos/Material da Faculdade/Programação em banco de dados/Revisão prova 2.md",
     "03 - Estudos/Estudos-Index/Sem título.md",
@@ -265,7 +231,6 @@
     "01 - Daily/24-05-2025.md",
     "01 - Daily/22-05-2025.md",
     "01 - Daily/21-05-2025.md",
-    "01 - Daily/20-05-2025.md",
     "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
     "01 - Daily/19-05-2025.md",
     "__data__/Media/Pasted image 20250519021318.png",
