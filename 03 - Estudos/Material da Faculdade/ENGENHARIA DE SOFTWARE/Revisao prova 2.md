@@ -1,9 +1,3 @@
-# 🧪 Engenharia de Software – Revisão para Prova
-
-> Baseado no conteúdo elaborado por Gilberto Falco Netto (Faculdade Anhanguera - Jundiaí/SP)
-
----
-
 ## 1. Qualidade de Software
 
 - Qualidade é essencial no mercado competitivo.
