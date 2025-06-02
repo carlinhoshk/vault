@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao prova 2.md",
+                "file": "01 - Daily/02-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Revisao prova 2"
+              "title": "02-06-2025"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao prova 2.md",
+                "file": "01 - Daily/02-06-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Revisao prova 2"
+              "title": "Sumário de 02-06-2025"
             }
           },
           {
@@ -204,13 +204,13 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "markdown-importer:Abrir importador Markdown": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0017a84ecfb56c15",
+  "active": "7311ff675f95eebb",
   "lastOpenFiles": [
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao prova 2.md",
+    "01 - Daily/02-06-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão Prova_dois.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisão prova.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
@@ -240,7 +240,6 @@
     "01 - Daily/24-05-2025.md",
     "01 - Daily/22-05-2025.md",
     "01 - Daily/21-05-2025.md",
-    "03 - Estudos/Material da Faculdade/PROJETO INTEGRADO 3/Proposta de projeto 3.md",
     "__data__/Media/Pasted image 20250519021318.png",
     "__data__/Media/Pasted image 20250519021427.png",
     "__data__/Media/Pasted image 20250519021958.png",
