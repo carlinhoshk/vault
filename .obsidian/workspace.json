@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/03-06-2025.md",
+                "file": "00 - Index/Escrever um sistema em linguagem-funcional.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03-06-2025"
+              "title": "Escrever um sistema em linguagem-funcional"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Daily/03-06-2025.md",
+                "file": "00 - Index/Escrever um sistema em linguagem-funcional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 03-06-2025"
+              "title": "Sumário de Escrever um sistema em linguagem-funcional"
             }
           },
           {
@@ -209,8 +209,11 @@
   },
   "active": "7311ff675f95eebb",
   "lastOpenFiles": [
-    "01 - Daily/02-06-2025.md",
+    "00 - Index/Estudos-OSDK.md",
+    "00 - Index/Escrever um sistema em linguagem-funcional.md",
+    "00 - Index/Centralizar decisões familiares para os dados.md",
     "01 - Daily/03-06-2025.md",
+    "01 - Daily/02-06-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao prova 2.md",
     "03 - Estudos/Material de Estudos/Atividade Discursiva Analise OO.md",
     "__data__/Media/Pasted image 20250602161831.png",
@@ -237,10 +240,7 @@
     "03 - Estudos/Estudos-Index/Divisão Euclidiana.md",
     "03 - Estudos/Estudos-Index",
     "01 - Daily/30-05-2025.md",
-    "00 - Index/Estudos-OSDK.md",
     "01 - Daily/26-05-2025.md",
-    "01 - Daily/25-05-2025.md",
-    "01 - Daily/24-05-2025.md",
     "__data__/Media/Pasted image 20250519021318.png",
     "__data__/Media/Pasted image 20250519021427.png",
     "__data__/Media/Pasted image 20250519021958.png",
