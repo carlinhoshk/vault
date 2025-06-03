@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Estudos-Index/Setup Assembly no Arch Linux - Guia de Referência.md",
+                "file": "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisao prova 2.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Setup Assembly no Arch Linux - Guia de Referência"
+              "title": "Revisao prova 2"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Estudos/Estudos-Index/Setup Assembly no Arch Linux - Guia de Referência.md",
+                "file": "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisao prova 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Setup Assembly no Arch Linux - Guia de Referência"
+              "title": "Sumário de Revisao prova 2"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "7311ff675f95eebb",
   "lastOpenFiles": [
-    "01 - Daily/03-06-2025.md",
     "03 - Estudos/Estudos-Index/Setup Assembly no Arch Linux - Guia de Referência.md",
+    "01 - Daily/03-06-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisao prova 2.md",
     "00 - Index/Escrever um sistema em linguagem-funcional.md",
     "00 - Index/Estudos-OSDK.md",
