@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/03-06-2025.md",
+                "file": "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Nota para passar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03-06-2025"
+              "title": "Nota para passar"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Daily/03-06-2025.md",
+                "file": "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Nota para passar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 03-06-2025"
+              "title": "Sumário de Nota para passar"
             }
           },
           {
@@ -209,9 +209,11 @@
   },
   "active": "7311ff675f95eebb",
   "lastOpenFiles": [
+    "__data__/Media/Pasted image 20250603235134.png",
+    "01 - Daily/03-06-2025.md",
+    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Nota para passar.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisao prova 2.md",
     "03 - Estudos/Estudos-Index/Setup Assembly no Arch Linux - Guia de Referência.md",
-    "01 - Daily/03-06-2025.md",
     "00 - Index/Escrever um sistema em linguagem-funcional.md",
     "00 - Index/Estudos-OSDK.md",
     "00 - Index/Centralizar decisões familiares para os dados.md",
@@ -238,8 +240,6 @@
     "03 - Estudos/Estudos-Index/Sem título.md",
     "03 - Estudos/Estudos-Index/Estudos Sistemas Operacionais focado no projeto linux e-leve.md",
     "03 - Estudos/Estudos-Index/Estudos OS linux.md",
-    "03 - Estudos/Estudos-Index/Estudos C-sharp.md",
-    "03 - Estudos/Estudos-Index/Divisão Euclidiana.md",
     "03 - Estudos/Estudos-Index",
     "__data__/Media/Pasted image 20250519021318.png",
     "__data__/Media/Pasted image 20250519021427.png",
