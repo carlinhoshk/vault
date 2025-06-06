@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/05-06-2025.md",
+                "file": "01 - Daily/06-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "05-06-2025"
+              "title": "06-06-2025"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Daily/05-06-2025.md",
+                "file": "01 - Daily/06-06-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 05-06-2025"
+              "title": "Sumário de 06-06-2025"
             }
           },
           {
@@ -209,8 +209,9 @@
   },
   "active": "7311ff675f95eebb",
   "lastOpenFiles": [
-    "01 - Daily/04-06-2025.md",
     "01 - Daily/05-06-2025.md",
+    "01 - Daily/06-06-2025.md",
+    "01 - Daily/04-06-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Nota para passar.md",
     "__data__/Media/Pasted image 20250603235134.png",
     "01 - Daily/03-06-2025.md",
@@ -240,7 +241,6 @@
     "01 - Daily/01-06-2025.md",
     "__data__/Media/Pasted image 20250531151153.jpg",
     "03 - Estudos/Estudos-Index/Sem título.md",
-    "03 - Estudos/Estudos-Index/Estudos Sistemas Operacionais focado no projeto linux e-leve.md",
     "03 - Estudos/Estudos-Index",
     "__data__/Media/Pasted image 20250519021318.png",
     "__data__/Media/Pasted image 20250519021427.png",
