@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/07-06-2025.md",
+                "file": "03 - Estudos/Leitura-Livros/Livro HACKING The Art of Exploitation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07-06-2025"
+              "title": "Livro HACKING The Art of Exploitation"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Daily/07-06-2025.md",
+                "file": "03 - Estudos/Leitura-Livros/Livro HACKING The Art of Exploitation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 07-06-2025"
+              "title": "Sumário de Livro HACKING The Art of Exploitation"
             }
           },
           {
@@ -209,8 +209,10 @@
   },
   "active": "7311ff675f95eebb",
   "lastOpenFiles": [
-    "01 - Daily/06-06-2025.md",
     "01 - Daily/07-06-2025.md",
+    "03 - Estudos/Leitura-Livros/Livro HACKING The Art of Exploitation.md",
+    "03 - Estudos/Leitura-Livros",
+    "01 - Daily/06-06-2025.md",
     "01 - Daily/05-06-2025.md",
     "01 - Daily/04-06-2025.md",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Nota para passar.md",
@@ -239,7 +241,6 @@
     "03 - Estudos/Estudos OS linux.md",
     "03 - Estudos/Estudos C-sharp.md",
     "03 - Estudos/Divisão Euclidiana.md",
-    "01 - Daily/01-06-2025.md",
     "__data__/Media/Pasted image 20250531151153.jpg",
     "03 - Estudos/Estudos-Index",
     "__data__/Media/Pasted image 20250519021318.png",
@@ -253,7 +254,6 @@
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf",
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/ARQUITETURAeORG-15.pdf.crdownload",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-4.pdf"
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf"
   ]
 }
