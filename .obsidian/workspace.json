@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/08-06-2025.md",
+                "file": "01 - Daily/09-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "08-06-2025"
+              "title": "09-06-2025"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Daily/08-06-2025.md",
+                "file": "01 - Daily/09-06-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 08-06-2025"
+              "title": "Sumário de 09-06-2025"
             }
           },
           {
@@ -209,8 +209,9 @@
   },
   "active": "7311ff675f95eebb",
   "lastOpenFiles": [
-    "03 - Estudos/Leitura-Livros/Livro HACKING The Art of Exploitation.md",
     "01 - Daily/08-06-2025.md",
+    "01 - Daily/09-06-2025.md",
+    "03 - Estudos/Leitura-Livros/Livro HACKING The Art of Exploitation.md",
     "01 - Daily/07-06-2025.md",
     "03 - Estudos/Leitura-Livros",
     "01 - Daily/06-06-2025.md",
@@ -240,7 +241,6 @@
     "01 - Daily/31-05-2025.md",
     "01 - Daily/20-05-2025.md",
     "03 - Estudos/Estudos OS linux.md",
-    "03 - Estudos/Estudos C-sharp.md",
     "__data__/Media/Pasted image 20250531151153.jpg",
     "03 - Estudos/Estudos-Index",
     "__data__/Media/Pasted image 20250519021318.png",
