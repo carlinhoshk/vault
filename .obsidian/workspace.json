@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/09-06-2025.md",
+                "file": "01 - Daily/10-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "09-06-2025"
+              "title": "10-06-2025"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Daily/09-06-2025.md",
+                "file": "01 - Daily/10-06-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 09-06-2025"
+              "title": "Sumário de 10-06-2025"
             }
           },
           {
@@ -210,6 +210,7 @@
   "active": "6b31a9e85f7dcf24",
   "lastOpenFiles": [
     "01 - Daily/09-06-2025.md",
+    "01 - Daily/10-06-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation",
     "01 - Daily/08-06-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Livro HACKING The Art of Exploitation.md",
