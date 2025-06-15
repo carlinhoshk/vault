@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/15-06-2025.md",
+                "file": "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Livro HACKING The Art of Exploitation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15-06-2025"
+              "title": "Livro HACKING The Art of Exploitation"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "40bd77142f8b7d2c",
   "lastOpenFiles": [
-    "01 - Daily/14-06-2025.md",
     "01 - Daily/15-06-2025.md",
+    "01 - Daily/14-06-2025.md",
     "06 - Organização Linux/Configurar Keyboard Bluetooth.md",
     "01 - Daily/13-06-2025.md",
     "01 - Daily/12-06-2025.md",
