@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/30-04-2025.md",
+                "file": "01 - Daily/16-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "30-04-2025"
+              "title": "16-06-2025"
             }
           }
         ]
@@ -160,8 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a43b4efad10486f",
+  "active": "d41960e31338577e",
   "lastOpenFiles": [
+    "00 - Index/Hello-World-C-ASM.sync-conflict-20250616-055626-22YIR45.md",
+    "links-receita.md",
+    "vida-publica",
+    "00 - Index/Hello-World-C-ASM.md",
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
+    "03 - Estudos/Material de Estudos/Atividade Discursiva Analise OO.md",
+    "01 - Daily/16-06-2025.md",
+    "01 - Daily/30-04-2025.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-30 21.03.59.excalidraw.md",
     "00 - Index/Estrutura requisição web nas notas diarias.md",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
@@ -181,15 +189,8 @@
     "00 - Index/Streamar usando Discord compartilha tela + servidor VPS como hoster.md",
     "00 - Index/estudo-Scala.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
-    "00 - Index/Hello-World-C-ASM.md",
     "00 - Index/Prototipo em Python.md",
     "00 - Index/Instalar c-sharp no ArchLinux.md",
-    "00 - Index/Vaga SIEMENS ENERGY.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 22.32.58.excalidraw.md",
-    "00 - Index/IA para criar playlists.md",
-    "00 - Index/ProcessosXMenssageria.md",
-    "00 - Index/Escrever um sistema em linguagem-funcional.md",
-    "00 - Index/Organizar os projetos em notas markdown.md",
     "__data__/Media/Pasted image 20250430014419.png",
     "__data__/Media/Pasted image 20250518224049.png",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
@@ -206,7 +207,6 @@
     "__data__/Media/Pasted image 20250518224009.png",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/extract-pdf.py",
-    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf"
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/extract-pdf.py"
   ]
 }
