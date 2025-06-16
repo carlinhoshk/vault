@@ -1,11 +1,10 @@
-- [ ] preparar ambiente para C/asm
+- [x] preparar ambiente para C/asm
 - [ ] escrever o hello world em C
 - [ ] rodar o hello world
 - [ ] 
 ## 1º Ambiente
 ---
-
-
+Já configurado.
 
 
 ---
@@ -43,11 +42,17 @@ int main()
 ---
 ## 3º Rodar código
 Comando para compilar e o comando 
-```bash objdump -d a.out ```
+```bash 
+objdump -d a.out
+```
+
 para mostra o codigo ASM
 
 ![[Pasted image 20250616025220.png]]
 
-saida do comando objdump -d 
+saida do comando
+```bash
+objdump -d
+```
 
 ![[Pasted image 20250616025400.png]]
