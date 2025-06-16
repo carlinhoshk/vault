@@ -1,6 +1,6 @@
 - [ ] preparar ambiente para C/asm
 - [x] escrever o hello world em C
-- [x] rodar o hello world x86
+- [x] rodar o hello world x862
 - [ ] rodar o hello-world asm
 ## 1º Ambiente
 ---
