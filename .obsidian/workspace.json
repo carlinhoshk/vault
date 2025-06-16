@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links-receita.md",
+                "file": "01 - Daily/16-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "links-receita"
+              "title": "16-06-2025"
             }
           },
           {
@@ -239,8 +239,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "Todas as propriedades"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           }
         ],
@@ -259,9 +259,6 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
-      "markdown-importer:Abrir importador Markdown": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -270,10 +267,10 @@
   },
   "active": "fb70f880bbe4e4d6",
   "lastOpenFiles": [
+    "links-receita.md",
     "00 - Index/Hello-World-C-ASM.sync-conflict-20250616-055626-22YIR45.md",
     "01 - Daily/16-06-2025.md",
     "00 - Index/Hello-World-C-ASM.md",
-    "links-receita.md",
     "Sem título",
     "vida-publica",
     "Pasted image 20250616025400.png",
