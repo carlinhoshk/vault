@@ -43,8 +43,7 @@
               "title": "hacking_artofexploitation_2ndedition"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c564ed021821421b",
+  "active": "f8cadd57cf921b6d",
   "lastOpenFiles": [
-    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
+    "__data__/Media/Pasted image 20250615212829.png",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "01 - Daily/15-06-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Livro HACKING The Art of Exploitation.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf.crdownload",
