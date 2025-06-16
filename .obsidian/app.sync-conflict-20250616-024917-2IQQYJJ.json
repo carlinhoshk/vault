@@ -1,0 +1,26 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "focusNewTab": true,
+  "showLineNumber": false,
+  "vimMode": false,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Index",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "__data__/Media",
+  "foldIndent": false,
+  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "rightToLeft": false,
+  "newLinkFormat": "relative",
+  "uriCallbacks": true,
+  "showInlineTitle": true
+}

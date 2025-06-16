@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "00 - Index/Hello-World-C-ASM.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,12 +244,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c564ed021821421b",
+  "active": "4b8824b901b64cd5",
   "lastOpenFiles": [
+    "Pasted image 20250616025400.png",
+    "Pasted image 20250616025220.png",
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "00 - Index/Hello-World-C-ASM.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "__data__/Media/Pasted image 20250615212829.png",
-    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "01 - Daily/15-06-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Livro HACKING The Art of Exploitation.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf.crdownload",
@@ -278,7 +280,6 @@
     "00 - Index/Centralizar decisões familiares para os dados.md",
     "01 - Daily/02-06-2025.md",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/Revisao prova 2.md",
-    "03 - Estudos/Material de Estudos/Atividade Discursiva Analise OO.md",
     "__data__/Media/Pasted image 20250602161831.png",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
@@ -290,7 +291,6 @@
     "__data__/Media/Pasted image 20250519021958.png",
     "__data__/Media/Pasted image 20250519022036.png",
     "__data__/Media/Pasted image 20250517225234.png",
-    "__data__/Media/Pasted image 20250518224221.png",
     "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf"
   ]
 }

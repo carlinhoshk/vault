@@ -41,5 +41,13 @@ int main()
 ```
 
 ---
-## 3º Rodar codigo
----
+## 3º Rodar código
+Comando para compilar e o comando 
+```bash objdump -d a.out ```
+para mostra o codigo ASM
+
+![[Pasted image 20250616025220.png]]
+
+saida do comando objdump -d 
+
+![[Pasted image 20250616025400.png]]

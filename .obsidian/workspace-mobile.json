@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "d9cc36b14fe4a4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d436d673e8b581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a43b4efad10486f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Daily/30-04-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30-04-2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0b3f8a2c6af59ec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d41960e31338577e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d183e380126364f7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "2b33059d5f2c5ea4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4e73e38cd1ae3808",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "667a5d76227bdb74",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d7cbb3c2b17f4b0e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "364347bd4a291326",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "6bd0e2abfc06b355",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2a43b4efad10486f",
+  "lastOpenFiles": [
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-30 21.03.59.excalidraw.md",
+    "00 - Index/Estrutura requisição web nas notas diarias.md",
+    "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
+    "00 - Index/Usar IA-google lens para usar desktop.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-13 21.55.38.excalidraw.md",
+    "00 - Index/engenharia-software01-02.md",
+    "00 - Index/LanHouse comunitaria.md",
+    "00 - Index/GoogleLens-API.md",
+    "00 - Index/README.md",
+    "00 - Index/aplicação mobile da lista de mercado. CONLOGCASA.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-04-14 03.26.26.excalidraw.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 17.47.09.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "00 - Index/Estudos-OSDK.md",
+    "00 - Index/Agente por fala.md",
+    "00 - Index/Streamar usando Discord compartilha tela + servidor VPS como hoster.md",
+    "00 - Index/estudo-Scala.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
+    "00 - Index/Hello-World-C-ASM.md",
+    "00 - Index/Prototipo em Python.md",
+    "00 - Index/Instalar c-sharp no ArchLinux.md",
+    "00 - Index/Vaga SIEMENS ENERGY.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-21 22.32.58.excalidraw.md",
+    "00 - Index/IA para criar playlists.md",
+    "00 - Index/ProcessosXMenssageria.md",
+    "00 - Index/Escrever um sistema em linguagem-funcional.md",
+    "00 - Index/Organizar os projetos em notas markdown.md",
+    "__data__/Media/Pasted image 20250430014419.png",
+    "__data__/Media/Pasted image 20250518224049.png",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
+    "__data__/Media/Pasted image 20250518223224.png",
+    "__data__/Media/Pasted image 20250518223624.png",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/ENGENHARIADESOFTWARE-2.pdf",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-04.pdf",
+    "03 - Estudos/Material da Faculdade/Programação em banco de dados/BD_RESTRICOES.pdf",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A2.pdf",
+    "__data__/Media/Pasted image 20250518224030.png",
+    "__data__/Media/Pasted image 20250518224221.png",
+    "__data__/Media/Pasted Image 20250330210601_539.png",
+    "03 - Estudos/Material da Faculdade/SISTEMAS OPERACIONAIS/SIS_OP-A4.pdf",
+    "__data__/Media/Pasted image 20250518224009.png",
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1.pdf",
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/extract-pdf.py",
+    "03 - Estudos/Material da Faculdade/Desenvolvimento Web/WEB1-1.pdf"
+  ]
+}

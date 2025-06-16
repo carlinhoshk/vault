@@ -1,12 +1,4 @@
 {
-  "cssTheme": "GitHub Theme",
-  "baseFontSize": 23,
-  "accentColor": "#57ff62",
-  "nativeMenus": true,
-  "baseFontSizeAction": true,
-  "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
-  "showRibbon": true,
-  "showViewHeader": true
+  "cssTheme": "Terminal",
+  "theme": "obsidian"
 }
