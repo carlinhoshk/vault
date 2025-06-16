@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "00 - Index/Hello-World-C-ASM.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5026054382324,
-    "collapsed": true
+    "width": 382.5026054382324
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -245,10 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b8824b901b64cd5",
+  "active": "c564ed021821421b",
   "lastOpenFiles": [
-    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "00 - Index/Hello-World-C-ASM.md",
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "__data__/Media/Pasted image 20250615212829.png",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "01 - Daily/15-06-2025.md",
