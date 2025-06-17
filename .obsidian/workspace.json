@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/17-06-2025.md",
+                "file": "__data__/Templates/daily.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "17-06-2025"
+              "title": "daily"
             }
           },
           {
@@ -267,8 +267,10 @@
   },
   "active": "fb70f880bbe4e4d6",
   "lastOpenFiles": [
-    "01 - Daily/16-06-2025.md",
+    "__data__/Media/__data__Media17-03-2025.png",
+    "__data__/Media/Pasted image 20250518223831.png",
     "01 - Daily/17-06-2025.md",
+    "01 - Daily/16-06-2025.md",
     "links-receita.md",
     "00 - Index/Hello-World-C-ASM.sync-conflict-20250616-055626-22YIR45.md",
     "00 - Index/Hello-World-C-ASM.md",
@@ -303,7 +305,6 @@
     "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisao prova 2.md",
     "03 - Estudos/Estudos-Index/Setup Assembly no Arch Linux - Guia de Referência.md",
     "00 - Index/Escrever um sistema em linguagem-funcional.md",
-    "00 - Index/Estudos-OSDK.md",
     "__data__/Media/Pasted image 20250602161831.png",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
@@ -311,7 +312,6 @@
     "__data__/Media/Pasted image 20250531151153.jpg",
     "__data__/Media/Pasted image 20250519021318.png",
     "__data__/Media/Pasted image 20250519021427.png",
-    "__data__/Media/Pasted image 20250519021958.png",
-    "__data__/Media/Pasted image 20250519022036.png"
+    "__data__/Media/Pasted image 20250519021958.png"
   ]
 }
