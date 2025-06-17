@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__data__/Templates/daily.md",
+                "file": "01 - Daily/17-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "17-06-2025"
             }
           },
           {
@@ -267,6 +267,7 @@
   },
   "active": "fb70f880bbe4e4d6",
   "lastOpenFiles": [
+    "__data__/Templates/daily.md",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250518223831.png",
     "01 - Daily/17-06-2025.md",
@@ -311,7 +312,6 @@
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/ENGENHARIADESOFTWARE-2.pdf",
     "__data__/Media/Pasted image 20250531151153.jpg",
     "__data__/Media/Pasted image 20250519021318.png",
-    "__data__/Media/Pasted image 20250519021427.png",
-    "__data__/Media/Pasted image 20250519021958.png"
+    "__data__/Media/Pasted image 20250519021427.png"
   ]
 }
