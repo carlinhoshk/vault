@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14a1c68c9b667e08",
+        "id": "a52ad55d1db92f84",
         "type": "tabs",
         "children": [
           {
-            "id": "f8cadd57cf921b6d",
+            "id": "fb47c9a43f08e479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
+                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,71 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Capitulo-0x200"
-            }
-          },
-          {
-            "id": "4b8824b901b64cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Index/Hello-World-C-ASM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hello-World-C-ASM"
-            }
-          },
-          {
-            "id": "fb70f880bbe4e4d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/20-06-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20-06-2025"
-            }
-          },
-          {
-            "id": "c564ed021821421b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "hacking_artofexploitation_2ndedition"
+              "title": "Projeto-OpenSource-KDE_Connect"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,10 +204,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb70f880bbe4e4d6",
+  "active": "fb47c9a43f08e479",
   "lastOpenFiles": [
-    "01 - Daily/19-06-2025.md",
+    "04 - Projetos/Projeto-LinuxDkIA.md",
+    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
+    "00 - Index/aplicação mobile da lista de mercado. CONLOGCASA.md",
+    "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
+    "00 - Index/Agente por fala.md",
     "01 - Daily/20-06-2025.md",
+    "01 - Daily/19-06-2025.md",
     "01 - Daily/17-06-2025.md",
     "__data__/Templates/daily.md",
     "__data__/Media/__data__Media17-03-2025.png",
@@ -300,12 +244,7 @@
     "01 - Daily/07-06-2025.md",
     "03 - Estudos/Leitura-Livros",
     "01 - Daily/06-06-2025.md",
-    "01 - Daily/05-06-2025.md",
-    "01 - Daily/04-06-2025.md",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Nota para passar.md",
     "__data__/Media/Pasted image 20250603235134.png",
-    "01 - Daily/03-06-2025.md",
-    "03 - Estudos/Material da Faculdade/Arquitetura e organizacao de computadores/Revisao prova 2.md",
     "__data__/Media/Pasted image 20250602161831.png",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
