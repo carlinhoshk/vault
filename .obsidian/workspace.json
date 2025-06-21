@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/21-06-2025.md",
+                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "21-06-2025"
+              "title": "Projeto-OpenSource-KDE_Connect"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "connect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5026054382324
+    "width": 317.5
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -204,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb47c9a43f08e479",
+  "active": "0017a84ecfb56c15",
   "lastOpenFiles": [
-    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
+    "vida-publica/links-receita.md",
     "01 - Daily/21-06-2025.md",
+    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "04 - Projetos/Projeto-LinuxDkIA.md",
     "00 - Index/aplicação mobile da lista de mercado. CONLOGCASA.md",
     "00 - Index/Algoritimo FACEBOOK para analisar com IA por caracteristica.md",
@@ -219,7 +220,6 @@
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250518223831.png",
     "01 - Daily/16-06-2025.md",
-    "links-receita.md",
     "00 - Index/Hello-World-C-ASM.sync-conflict-20250616-055626-22YIR45.md",
     "00 - Index/Hello-World-C-ASM.md",
     "Sem título",
