@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/22-06-2025.md",
+                "file": "vida-publica/links-receita.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "22-06-2025"
+              "title": "links-receita"
             }
           }
         ]
@@ -206,8 +206,8 @@
   },
   "active": "fb47c9a43f08e479",
   "lastOpenFiles": [
-    "04 - Projetos/Sus unificado em hardware.md",
     "01 - Daily/22-06-2025.md",
+    "04 - Projetos/Sus unificado em hardware.md",
     "Pasted image 20250622020315.png",
     "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "01 - Daily/18-06-2025.md",
