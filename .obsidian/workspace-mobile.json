@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/16-06-2025.md",
+                "file": "vida-publica/links-receita.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "16-06-2025"
+              "title": "links-receita"
             }
           }
         ]
@@ -160,15 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d41960e31338577e",
+  "active": "2a43b4efad10486f",
   "lastOpenFiles": [
+    "01 - Daily/21-06-2025.md",
+    "01 - Daily/18-06-2025.md",
+    "01 - Daily/16-06-2025.md",
     "00 - Index/Hello-World-C-ASM.sync-conflict-20250616-055626-22YIR45.md",
     "links-receita.md",
     "vida-publica",
     "00 - Index/Hello-World-C-ASM.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "03 - Estudos/Material de Estudos/Atividade Discursiva Analise OO.md",
-    "01 - Daily/16-06-2025.md",
     "01 - Daily/30-04-2025.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-30 21.03.59.excalidraw.md",
     "00 - Index/Estrutura requisição web nas notas diarias.md",
@@ -189,8 +191,6 @@
     "00 - Index/Streamar usando Discord compartilha tela + servidor VPS como hoster.md",
     "00 - Index/estudo-Scala.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-03-20 19.28.28.excalidraw.md",
-    "00 - Index/Prototipo em Python.md",
-    "00 - Index/Instalar c-sharp no ArchLinux.md",
     "__data__/Media/Pasted image 20250430014419.png",
     "__data__/Media/Pasted image 20250518224049.png",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
