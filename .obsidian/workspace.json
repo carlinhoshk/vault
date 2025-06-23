@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a52ad55d1db92f84",
+        "id": "d23ce8b63cf87843",
         "type": "tabs",
         "children": [
           {
-            "id": "fb47c9a43f08e479",
+            "id": "388443d56dcb0b7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vida-publica/links-receita.md",
+                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "links-receita"
+              "title": "Projeto-OpenSource-KDE_Connect"
             }
           }
         ]
@@ -204,14 +204,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb47c9a43f08e479",
+  "active": "388443d56dcb0b7a",
   "lastOpenFiles": [
+    "vida-publica/links-receita.md",
     "01 - Daily/22-06-2025.md",
     "04 - Projetos/Sus unificado em hardware.md",
     "Pasted image 20250622020315.png",
     "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "01 - Daily/18-06-2025.md",
-    "vida-publica/links-receita.md",
     "01 - Daily/21-06-2025.md",
     "04 - Projetos/Projeto-LinuxDkIA.md",
     "00 - Index/aplicação mobile da lista de mercado. CONLOGCASA.md",
