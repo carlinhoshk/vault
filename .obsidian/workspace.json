@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -104,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Projeto-OpenSource-KDE_Connect"
             }
           },
           {
@@ -122,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Projeto-OpenSource-KDE_Connect"
             }
           },
           {
@@ -150,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Outline of Projeto-OpenSource-KDE_Connect"
             }
           },
           {
@@ -179,11 +183,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,25 +196,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "388443d56dcb0b7a",
   "lastOpenFiles": [
+    "01 - Daily/23-06-2025.md",
+    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "vida-publica/links-receita.md",
     "01 - Daily/22-06-2025.md",
     "04 - Projetos/Sus unificado em hardware.md",
     "Pasted image 20250622020315.png",
-    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "01 - Daily/18-06-2025.md",
     "01 - Daily/21-06-2025.md",
     "04 - Projetos/Projeto-LinuxDkIA.md",
@@ -242,7 +247,6 @@
     "01 - Daily/13-06-2025.md",
     "01 - Daily/12-06-2025.md",
     "01 - Daily/11-06-2025.md",
-    "01 - Daily/10-06-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation",
     "03 - Estudos/Leitura-Livros",
     "__data__/Media/Pasted image 20250603235134.png",

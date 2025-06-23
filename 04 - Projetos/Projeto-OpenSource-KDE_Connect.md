@@ -5,4 +5,8 @@
 - [x] Baixar repo source
 - [ ] Rodar o kde connect em source code como ambiente dev
 - [ ] Debugar o kde connect em ambiente dev
-- [ ] 
+
+---
+
+## Preparar ambiente para rodar source code 
+
