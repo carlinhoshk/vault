@@ -10,3 +10,8 @@
 
 ## Preparar ambiente para rodar source code 
 
+Baixar dependências 
+```bash
+sudo pacman -S base-devel cmake extra-cmake-modules qt5-base qt5-declarative qt5-tools qt5-connectivity qt5-multimedia qt5-svg qt5-x11extras qt5-wayland kconfig kcoreaddons ki18n kio kiconthemes kdbusaddons knotifications kcmutils kdeclarative kpeople kpulseaudio-qt qca-qt5
+```
+
