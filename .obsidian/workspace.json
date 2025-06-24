@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
+                "file": "01 - Daily/24-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projeto-OpenSource-KDE_Connect"
+              "title": "24-06-2025"
             }
           }
         ],
@@ -235,8 +235,9 @@
   },
   "active": "6f7b1fe065f4962f",
   "lastOpenFiles": [
-    "00 - Index/Hello-World-C-ASM.md",
     "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
+    "01 - Daily/24-06-2025.md",
+    "00 - Index/Hello-World-C-ASM.md",
     "03 - Estudos/Material de Estudos/Atividade Discursiva Analise OO.md",
     "03 - Estudos/Material de Estudos/material-estudos-linux.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
@@ -271,7 +272,6 @@
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200",
     "01 - Daily/14-06-2025.md",
     "06 - Organização Linux/Configurar Keyboard Bluetooth.md",
-    "01 - Daily/13-06-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation",
     "03 - Estudos/Leitura-Livros",
     "__data__/Media/Pasted image 20250603235134.png",
