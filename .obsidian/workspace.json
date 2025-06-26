@@ -55,8 +55,7 @@
               "title": "26-06-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -149,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
+                "file": "00 - Index/Hello-World-C-ASM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Projeto-OpenSource-KDE_Connect"
+              "title": "Outgoing links from Hello-World-C-ASM"
             }
           },
           {
@@ -233,10 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f7b1fe065f4962f",
+  "active": "59ed2165b36f6a05",
   "lastOpenFiles": [
-    "01 - Daily/24-06-2025.md",
     "01 - Daily/26-06-2025.md",
+    "01 - Daily/24-06-2025.md",
     "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "00 - Index/Hello-World-C-ASM.md",
     "03 - Estudos/Material de Estudos/Atividade Discursiva Analise OO.md",
