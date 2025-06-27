@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/26-06-2025.md",
+                "file": "vida-publica/links-receita.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "26-06-2025"
+              "title": "links-receita"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "6f7b1fe065f4962f",
   "lastOpenFiles": [
-    "00 - Index/Hello-World-C-ASM.md",
     "01 - Daily/26-06-2025.md",
+    "00 - Index/Hello-World-C-ASM.md",
     "01 - Daily/24-06-2025.md",
     "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "03 - Estudos/Material de Estudos/Atividade Discursiva Analise OO.md",
