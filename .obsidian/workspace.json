@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c6429d2af94fb769",
+        "id": "2d276dfdc385eb8a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f7b1fe065f4962f",
+            "id": "026ba6d8def85c28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/27-06-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "27-06-2025"
+              "title": "New tab"
             }
           }
         ]
@@ -207,10 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f7b1fe065f4962f",
+  "active": "026ba6d8def85c28",
   "lastOpenFiles": [
-    "vida-publica/links-receita.md",
+    "04 - Projetos/Sus unificado em hardware.md",
     "01 - Daily/27-06-2025.md",
+    "vida-publica/links-receita.md",
     "01 - Daily/26-06-2025.md",
     "00 - Index/Hello-World-C-ASM.md",
     "01 - Daily/24-06-2025.md",
@@ -222,7 +209,6 @@
     "04 - Projetos/Projeto-LinuxDkIA.md",
     "01 - Daily/23-06-2025.md",
     "01 - Daily/22-06-2025.md",
-    "04 - Projetos/Sus unificado em hardware.md",
     "Pasted image 20250622020315.png",
     "01 - Daily/18-06-2025.md",
     "01 - Daily/21-06-2025.md",
