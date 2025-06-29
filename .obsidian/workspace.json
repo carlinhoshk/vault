@@ -11,10 +11,24 @@
             "id": "f9838577ed55c374",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Daily/29-06-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "29-06-2025"
             }
           }
         ]
@@ -195,6 +209,7 @@
   },
   "active": "f9838577ed55c374",
   "lastOpenFiles": [
+    "01 - Daily/29-06-2025.md",
     "00 - Index/Streamar usando Discord compartilha tela + servidor VPS como hoster.md",
     "04 - Projetos/Sus unificado em hardware.md",
     "01 - Daily/27-06-2025.md",
@@ -229,7 +244,6 @@
     "Pasted image 20250616025400.png",
     "Pasted image 20250616025220.png",
     "__data__/Media/Pasted image 20250615212829.png",
-    "01 - Daily/15-06-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf.crdownload",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation",
