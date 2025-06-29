@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/29-06-2025.md",
-                "mode": "source",
+                "file": "06 - Organização Linux/Organizar WebAssembly.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "29-06-2025"
+              "title": "Organizar WebAssembly"
             }
           }
         ],
@@ -234,9 +234,11 @@
   },
   "active": "507d108cbb4df0c9",
   "lastOpenFiles": [
+    "01 - Daily/29-06-2025.md",
+    "06 - Organização Linux/Organizar WebAssembly.md",
+    "03 - Estudos/Estudos-Linux",
     "01 - Daily/01-03-2025.md",
     "SASS no TOR.md",
-    "01 - Daily/29-06-2025.md",
     "00 - Index/Streamar usando Discord compartilha tela + servidor VPS como hoster.md",
     "04 - Projetos/Sus unificado em hardware.md",
     "01 - Daily/27-06-2025.md",
@@ -261,7 +263,6 @@
     "01 - Daily/20-06-2025.md",
     "01 - Daily/19-06-2025.md",
     "01 - Daily/17-06-2025.md",
-    "__data__/Templates/daily.md",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250518223831.png",
     "Sem título",
@@ -277,7 +278,6 @@
     "__data__/Media/Pasted image 20250602161831.png",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
     "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-02.pdf",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/ENGENHARIADESOFTWARE-2.pdf",
     "__data__/Media/Pasted image 20250531151153.jpg",
     "__data__/Media/Pasted image 20250519021318.png"
   ]

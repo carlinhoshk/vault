@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Tom's Theme",
-  "theme": "obsidian"
+  "cssTheme": "",
+  "theme": "obsidian",
+  "baseFontSize": 19
 }
