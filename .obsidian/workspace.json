@@ -35,12 +35,24 @@
             "id": "0fe0f44277a0d5cd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf"
+                "file": "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "hacking_artofexploitation_2ndedition"
+              "icon": "lucide-file",
+              "title": "Review do c++ 26"
             }
           },
           {
@@ -294,9 +306,10 @@
   },
   "active": "0fe0f44277a0d5cd",
   "lastOpenFiles": [
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
+    "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "Pasted image 20250630164151.png",
-    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "03 - Estudos/Estudos-Index/Estudos OS linux.md",
     "03 - Estudos/Estudos-Index/Estudos C-sharp.md",
     "Revisao-FundamentosC++.md",
@@ -321,7 +334,6 @@
     "00 - Index/Streamar usando Discord compartilha tela + servidor VPS como hoster.md",
     "04 - Projetos/Sus unificado em hardware.md",
     "00 - Index/Hello-World-C-ASM.md",
-    "03 - Estudos/Material de Estudos/Atividade Discursiva Analise OO.md",
     "Pasted image 20250622020315.png",
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250518223831.png",
