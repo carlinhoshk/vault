@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "01 - Daily/29-06-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "29-06-2025"
+            }
+          },
+          {
+            "id": "22272c1a2fe24d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01 - Daily/01-07-2025.md",
                 "mode": "source",
                 "source": false,
@@ -127,7 +151,8 @@
               "title": "29-06-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "33f78a1e9baeb225",
@@ -333,14 +358,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f05d8bfdf953bd30",
+  "active": "22272c1a2fe24d2f",
   "lastOpenFiles": [
-    "03 - Estudos/Estudos-Web/WebAssembly.md",
-    "01 - Daily/01-07-2025.md",
-    "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
-    "01 - Daily/29-06-2025.md",
-    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
+    "01 - Daily/29-06-2025.md",
+    "01 - Daily/01-07-2025.md",
+    "03 - Estudos/Estudos-Web/WebAssembly.md",
+    "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "__data__/Templates/daily.md",
     "01 - Daily/30-06-2025.md",
     "03 - Estudos/Estudos-Web",
