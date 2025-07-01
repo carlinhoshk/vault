@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3da34a0c5ac7624b",
+        "id": "9cf320b77ac11e3e",
         "type": "tabs",
         "children": [
           {
-            "id": "f05d8bfdf953bd30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/29-06-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "29-06-2025"
-            }
-          },
-          {
-            "id": "22272c1a2fe24d2f",
+            "id": "b16acffc96e0f8d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,79 +32,7 @@
             }
           },
           {
-            "id": "f0fa51a0f8a249ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Estudos/Estudos-Web/WebAssembly.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "WebAssembly"
-            }
-          },
-          {
-            "id": "f9838577ed55c374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Projeto-OpenSource-KDE_Connect"
-            }
-          },
-          {
-            "id": "c3300e1908966178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Capitulo-0x200"
-            }
-          },
-          {
-            "id": "7f7bea96e7814161",
+            "id": "cd8e76b8f7b99c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,22 +54,15 @@
               "icon": "lucide-file",
               "title": "29-06-2025"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "33f78a1e9baeb225",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "142b26274b49cfff",
+            "id": "01f247b03cbd7210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Estudos-Web/WebAssembly.md",
-                "mode": "source",
+                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -179,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WebAssembly"
+              "title": "Projeto-OpenSource-KDE_Connect"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -358,12 +257,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22272c1a2fe24d2f",
+  "active": "01f247b03cbd7210",
   "lastOpenFiles": [
-    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "01 - Daily/29-06-2025.md",
     "01 - Daily/01-07-2025.md",
     "03 - Estudos/Estudos-Web/WebAssembly.md",
+    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "__data__/Templates/daily.md",
