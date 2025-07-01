@@ -164,7 +164,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/30-06-2025.md",
+                "file": "01 - Daily/01-07-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "30-06-2025"
+              "title": "01-07-2025"
             }
           }
         ]
@@ -360,8 +360,8 @@
   },
   "active": "142b26274b49cfff",
   "lastOpenFiles": [
-    "__data__/Templates/daily.md",
     "01 - Daily/30-06-2025.md",
+    "__data__/Templates/daily.md",
     "__data__/Templates/daily-note-template.md",
     "01 - Daily/01-07-2025.md",
     "01 - Daily/29-06-2025.md",
