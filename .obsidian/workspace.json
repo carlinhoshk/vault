@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/30-06-2025.md",
+                "file": "01 - Daily/01-07-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "30-06-2025"
+              "title": "01-07-2025"
             }
           },
           {
@@ -306,6 +306,8 @@
   },
   "active": "0fe0f44277a0d5cd",
   "lastOpenFiles": [
+    "01 - Daily/30-06-2025.md",
+    "01 - Daily/01-07-2025.md",
     "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
@@ -315,7 +317,6 @@
     "Revisao-FundamentosC++.md",
     "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "01 - Daily/29-06-2025.md",
-    "01 - Daily/30-06-2025.md",
     "06 - Organização Linux/Organizar WebAssembly.md",
     "vida-publica/links-receita.md",
     "iniciar env kde plugin.md",
