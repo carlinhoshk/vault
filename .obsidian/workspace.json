@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "02-07-2025"
             }
+          },
+          {
+            "id": "2329ded0cca31ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Review do c++ 26"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,14 +281,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01f247b03cbd7210",
+  "active": "cd8e76b8f7b99c63",
   "lastOpenFiles": [
-    "01 - Daily/01-07-2025.md",
     "01 - Daily/02-07-2025.md",
+    "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
+    "01 - Daily/01-07-2025.md",
     "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "01 - Daily/29-06-2025.md",
     "03 - Estudos/Estudos-Web/WebAssembly.md",
-    "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "__data__/Templates/daily.md",
     "01 - Daily/30-06-2025.md",
