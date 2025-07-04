@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
-                "mode": "preview",
+                "file": "01 - Daily/03-07-2025.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projeto-OpenSource-KDE_Connect"
+              "title": "03-07-2025"
             }
           },
           {
@@ -284,12 +284,12 @@
   },
   "active": "cd8e76b8f7b99c63",
   "lastOpenFiles": [
+    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "01 - Daily/03-07-2025.md",
     "01 - Daily/29-06-2025.md",
     "01 - Daily/02-07-2025.md",
     "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
     "01 - Daily/01-07-2025.md",
-    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "03 - Estudos/Estudos-Web/WebAssembly.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "__data__/Templates/daily.md",
