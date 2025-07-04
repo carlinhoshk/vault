@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/03-07-2025.md",
-                "mode": "source",
+                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03-07-2025"
+              "title": "Projeto-OpenSource-KDE_Connect"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kde openso",
+                "query": "kde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,11 +157,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -282,8 +284,8 @@
   },
   "active": "cd8e76b8f7b99c63",
   "lastOpenFiles": [
-    "01 - Daily/29-06-2025.md",
     "01 - Daily/03-07-2025.md",
+    "01 - Daily/29-06-2025.md",
     "01 - Daily/02-07-2025.md",
     "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
     "01 - Daily/01-07-2025.md",
