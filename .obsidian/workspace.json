@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/08-07-2025.md",
+                "file": "01 - Daily/09-07-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "08-07-2025"
+              "title": "09-07-2025"
             }
           },
           {
@@ -280,10 +280,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0017a84ecfb56c15",
+  "active": "cd8e76b8f7b99c63",
   "lastOpenFiles": [
-    "01 - Daily/04-07-2025.md",
     "01 - Daily/08-07-2025.md",
+    "01 - Daily/09-07-2025.md",
+    "01 - Daily/04-07-2025.md",
     "01 - Daily/03-07-2025.md",
     "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "01 - Daily/29-06-2025.md",
@@ -310,7 +311,6 @@
     "01 - Daily/20-06-2025.md",
     "01 - Daily/21-06-2025.md",
     "01 - Daily/23-06-2025.md",
-    "01 - Daily/22-06-2025.md",
     "03 - Estudos/Estudos-Linux",
     "Pasted image 20250622020315.png",
     "__data__/Media/__data__Media17-03-2025.png",
