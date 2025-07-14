@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Organização Linux/keybind plugin workana.md",
+                "file": "04 - Projetos/Rinha Backend em C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "keybind plugin workana"
+              "title": "Rinha Backend em C"
             }
           },
           {
@@ -282,9 +282,9 @@
   },
   "active": "cd8e76b8f7b99c63",
   "lastOpenFiles": [
+    "06 - Organização Linux/keybind plugin workana.md",
     "Pasted image 20250714003809.png",
     "04 - Projetos/Rinha Backend em C.md",
-    "06 - Organização Linux/keybind plugin workana.md",
     "04 - Projetos/INSTRUCOES.md",
     "04 - Projetos/projeto_rinha_backend_c_roadmap.md",
     "01 - Daily/13-07-2025.md",
@@ -326,7 +326,6 @@
     "03 - Estudos/Leitura-Livros",
     "__data__/Media/Pasted image 20250603235134.png",
     "__data__/Media/Pasted image 20250602161831.png",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf",
-    "__data__/Media/Pasted image 20250531151153.jpg"
+    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf"
   ]
 }
