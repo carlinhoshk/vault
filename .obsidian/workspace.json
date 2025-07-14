@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/13-07-2025.md",
+                "file": "04 - Projetos/Rinha Backend em C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "13-07-2025"
+              "title": "Rinha Backend em C"
             }
           },
           {
@@ -280,10 +280,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd8e76b8f7b99c63",
+  "active": "0017a84ecfb56c15",
   "lastOpenFiles": [
-    "01 - Daily/12-07-2025.md",
+    "04 - Projetos/INSTRUCOES.md",
+    "04 - Projetos/projeto_rinha_backend_c_roadmap.md",
     "01 - Daily/13-07-2025.md",
+    "04 - Projetos/Rinha Backend em C.md",
+    "01 - Daily/12-07-2025.md",
     "01 - Daily/10-07-2025.md",
     "01 - Daily/09-07-2025.md",
     "01 - Daily/08-07-2025.md",
@@ -308,9 +311,6 @@
     "06 - Organização Linux/Organizar WebAssembly.md",
     "vida-publica/links-receita.md",
     "iniciar env kde plugin.md",
-    "01 - Daily/27-06-2025.md",
-    "01 - Daily/17-06-2025.md",
-    "01 - Daily/19-06-2025.md",
     "03 - Estudos/Estudos-Linux",
     "Pasted image 20250622020315.png",
     "__data__/Media/__data__Media17-03-2025.png",
