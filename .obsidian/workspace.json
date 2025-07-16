@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Rinha Backend em C.md",
+                "file": "01 - Daily/16-07-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rinha Backend em C"
+              "title": "16-07-2025"
             }
           },
           {
@@ -157,7 +157,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -282,9 +283,10 @@
   },
   "active": "cd8e76b8f7b99c63",
   "lastOpenFiles": [
+    "04 - Projetos/Rinha Backend em C.md",
+    "01 - Daily/16-07-2025.md",
     "06 - Organização Linux/keybind plugin workana.md",
     "Pasted image 20250714003809.png",
-    "04 - Projetos/Rinha Backend em C.md",
     "04 - Projetos/INSTRUCOES.md",
     "04 - Projetos/projeto_rinha_backend_c_roadmap.md",
     "01 - Daily/13-07-2025.md",
