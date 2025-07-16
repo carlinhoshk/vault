@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -207,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0017a84ecfb56c15",
+  "active": "e13cc71dcddc389d",
   "lastOpenFiles": [
     "02-Tasks",
     "01 - Daily/13-07-2025.md",
