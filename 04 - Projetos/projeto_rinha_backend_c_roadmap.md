@@ -1,5 +1,70 @@
 ## 🗒️ Tarefas Detalhadas: Rinha de Backend em C
-Abaixo, cada fase foi desmembrada em tarefas atômicas para facilitar o acompanhamento e evitar se perder.
+
+TODOLIST
+
+Segue um **TODO List** completo para o desenvolvimento do seu projeto da Rinha de Backend em C, usando libevent, Redis, ZeroMQ e Nginx, incluindo tudo que é necessário para rodar, testar e entregar conforme o desafio.
+
+---
+
+## TODO List — Rinha de Backend em C
+
+### 1. **Infraestrutura e Dependências**
+- [x] Criar estrutura de pastas e arquivos do projeto
+- [x] Criar Dockerfile para build do backend em C
+- [x] Criar docker-compose.yml com:
+  - [x] Nginx (load balancer)
+  - [x] Redis (persistência)
+  - [x] Duas instâncias do backend (app1, app2)
+- [x] Adicionar ZeroMQ (biblioteca, não precisa rodar serviço externo)
+- [x] Configurar Makefile e scripts de build
+
+### 2. **Servidor HTTP (libevent)**
+- [x] Implementar esqueleto do servidor HTTP (porta 8080)
+- [x] Criar handler para POST /payments
+- [x] Criar handler para GET /payments-summary
+
+### 3. **Persistência e Mensageria**
+- [x] Implementar integração com Redis (hiredis)
+- [x] Implementar integração com ZeroMQ (fila interna)
+- [ ] Implementar worker para processar pagamentos da fila (ZeroMQ) e salvar no Redis
+
+### 4. **Lógica de Negócio**
+- [ ] Fazer parsing do JSON recebido no POST /payments (usar cJSON ou similar)
+- [ ] Gerar timestamp atual para requestedAt
+- [ ] Implementar chamada HTTP para Payment Processor Default e Fallback
+- [ ] Implementar health-check dos Payment Processors (com rate limit)
+- [ ] Decidir dinamicamente entre default e fallback (menor taxa e disponibilidade)
+- [ ] Implementar retry/fallback em caso de falha no processamento
+- [ ] Salvar pagamento processado no Redis (default ou fallback)
+- [ ] Implementar GET /payments-summary com suporte a parâmetros from/to
+
+### 5. **Performance e Consistência**
+- [ ] Otimizar acesso ao Redis para grandes volumes (ex: usar Sorted Sets se necessário)
+- [ ] Implementar cache local para health-check
+- [ ] Garantir atomicidade e consistência dos dados no Redis
+
+### 6. **Testes e Validação**
+- [ ] Testar endpoints com curl ou scripts HTTP
+- [ ] Testar concorrência e performance (ex: usando k6 ou rinha-test)
+- [ ] Validar consistência dos dados com os Payment Processors
+
+### 7. **Documentação e Entrega**
+- [x] Escrever README.md explicando a stack e como rodar
+- [ ] Documentar endpoints e exemplos de uso
+- [ ] Gerar info.json conforme instruções da Rinha
+- [ ] Garantir que o projeto roda apenas com `docker-compose up --build`
+- [ ] Conferir restrições de CPU/memória no docker-compose.yml
+
+---
+
+## **Preciso subir outras aplicações?**
+Sim, para rodar e testar seu backend, você precisa subir:
+- **Redis** (já incluído no docker-compose)
+- **Nginx** (load balancer, já incluído)
+- **Duas instâncias do seu backend** (já incluídas)
+- **Payment Processors** (para integração real, use o docker-compose fornecido em `payment-processor/` do repositório da Rinha)
+
+**ZeroMQ** é só biblioteca, não precisa rodar serviço externo.
 
 ---
 

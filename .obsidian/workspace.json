@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/16-07-2025.md",
+                "file": "04 - Projetos/projeto_rinha_backend_c_roadmap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "16-07-2025"
+              "title": "projeto_rinha_backend_c_roadmap"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kde",
+                "query": "Rinha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -210,14 +210,14 @@
   },
   "active": "e13cc71dcddc389d",
   "lastOpenFiles": [
+    "04 - Projetos/INSTRUCOES.md",
+    "01 - Daily/16-07-2025.md",
     "02-Tasks",
     "01 - Daily/13-07-2025.md",
-    "01 - Daily/16-07-2025.md",
     "01 - Daily/29-06-2025.md",
     "04 - Projetos/Rinha Backend em C.md",
     "06 - Organização Linux/keybind plugin workana.md",
     "Pasted image 20250714003809.png",
-    "04 - Projetos/INSTRUCOES.md",
     "04 - Projetos/projeto_rinha_backend_c_roadmap.md",
     "01 - Daily/12-07-2025.md",
     "01 - Daily/10-07-2025.md",
@@ -254,7 +254,6 @@
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation",
     "03 - Estudos/Leitura-Livros",
     "__data__/Media/Pasted image 20250603235134.png",
-    "__data__/Media/Pasted image 20250602161831.png",
-    "03 - Estudos/Material da Faculdade/ENGENHARIA DE SOFTWARE/engenharia-software01-05.pdf"
+    "__data__/Media/Pasted image 20250602161831.png"
   ]
 }
