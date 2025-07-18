@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/17-07-2025.md",
-                "mode": "source",
+                "file": "04 - Projetos/Rinha2025/modularizacao.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "17-07-2025"
+              "title": "modularizacao"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,14 +209,17 @@
   },
   "active": "e13cc71dcddc389d",
   "lastOpenFiles": [
-    "04 - Projetos/projeto_rinha_backend_c_roadmap.md",
+    "04 - Projetos/Rinha2025/Rinha Backend em C.md",
+    "04 - Projetos/Rinha2025/modularizacao.md",
+    "04 - Projetos/Rinha2025/diagrama_classes.md",
+    "04 - Projetos/Rinha2025/projeto_rinha_backend_c_roadmap.md",
+    "04 - Projetos/Rinha2025",
     "01 - Daily/17-07-2025.md",
     "04 - Projetos/INSTRUCOES.md",
     "01 - Daily/16-07-2025.md",
     "02-Tasks",
     "01 - Daily/13-07-2025.md",
     "01 - Daily/29-06-2025.md",
-    "04 - Projetos/Rinha Backend em C.md",
     "06 - Organização Linux/keybind plugin workana.md",
     "Pasted image 20250714003809.png",
     "01 - Daily/12-07-2025.md",
@@ -239,8 +241,6 @@
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "Pasted image 20250630164151.png",
     "03 - Estudos/Estudos-Index/Estudos OS linux.md",
-    "03 - Estudos/Estudos-Index/Estudos C-sharp.md",
-    "Revisao-FundamentosC++.md",
     "03 - Estudos/Estudos-Linux",
     "Pasted image 20250622020315.png",
     "__data__/Media/__data__Media17-03-2025.png",
@@ -253,7 +253,6 @@
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf.crdownload",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation",
-    "03 - Estudos/Leitura-Livros",
     "__data__/Media/Pasted image 20250603235134.png",
     "__data__/Media/Pasted image 20250602161831.png"
   ]
