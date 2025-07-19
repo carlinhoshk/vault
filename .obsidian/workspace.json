@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a103ac9fc154d4de",
+        "id": "9369572a72d9f524",
         "type": "tabs",
         "children": [
           {
-            "id": "e13cc71dcddc389d",
+            "id": "0eaeecb571fae691",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf"
+                "file": "01 - Daily/19-07-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "hacking_artofexploitation_2ndedition"
+              "icon": "lucide-file",
+              "title": "19-07-2025"
             }
           }
         ]
@@ -195,10 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e13cc71dcddc389d",
+  "active": "0eaeecb571fae691",
   "lastOpenFiles": [
-    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
+    "01 - Daily/19-07-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "04 - Projetos/Rinha2025/modularizacao.md",
     "04 - Projetos/Rinha2025/diagrama_classes.md",
     "04 - Projetos/Rinha2025/Rinha Backend em C.md",
