@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/19-07-2025.md",
+                "file": "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "19-07-2025"
+              "title": "resumos-ideias-livro"
             }
           }
         ]
@@ -210,6 +210,7 @@
   "active": "0eaeecb571fae691",
   "lastOpenFiles": [
     "01 - Daily/19-07-2025.md",
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "04 - Projetos/Rinha2025/modularizacao.md",
@@ -239,7 +240,6 @@
     "__data__/Templates/daily.md",
     "01 - Daily/30-06-2025.md",
     "03 - Estudos/Estudos-Web",
-    "__data__/Templates/daily-note-template.md",
     "Pasted image 20250630164151.png",
     "03 - Estudos/Estudos-Linux",
     "Pasted image 20250622020315.png",
