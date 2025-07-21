@@ -1,7 +1,7 @@
 {
   "cssTheme": "Typewriter",
   "theme": "obsidian",
-  "baseFontSize": 30,
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "nativeMenus": true
 }

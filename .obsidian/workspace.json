@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9369572a72d9f524",
+        "id": "cc784edb690fd507",
         "type": "tabs",
         "children": [
           {
-            "id": "0eaeecb571fae691",
+            "id": "80e4034714186abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -123,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Daily/29-06-2025.md",
+                "file": "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 29-06-2025"
+              "title": "Outgoing links from resumos-ideias-livro"
             }
           },
           {
@@ -152,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
+                "file": "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projeto-OpenSource-KDE_Connect"
+              "title": "Outline of resumos-ideias-livro"
             }
           },
           {
@@ -186,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eaeecb571fae691",
+  "active": "80e4034714186abb",
   "lastOpenFiles": [
-    "01 - Daily/19-07-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
+    "01 - Daily/19-07-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
     "04 - Projetos/Rinha2025/modularizacao.md",

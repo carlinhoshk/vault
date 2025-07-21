@@ -24,16 +24,9 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
-    },
-    {
-      "modifiers": [
         "Mod"
       ],
-      "key": "B"
+      "key": "A"
     }
   ],
   "app:toggle-right-sidebar": [
@@ -53,14 +46,6 @@
       "key": "A"
     }
   ],
-  "editing-toolbar:right": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "B"
-    }
-  ],
   "editor:toggle-bold": [
     {
       "modifiers": [
@@ -68,6 +53,15 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "editing-toolbar:right": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "X"
     }
   ]
 }
