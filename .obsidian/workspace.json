@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/21-07-2025.md",
+                "file": "01 - Daily/22-07-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "21-07-2025"
+              "title": "22-07-2025"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "80e4034714186abb",
   "lastOpenFiles": [
-    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
     "01 - Daily/21-07-2025.md",
+    "01 - Daily/22-07-2025.md",
+    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
     "01 - Daily/19-07-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200.md",
@@ -239,7 +240,6 @@
     "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
     "01 - Daily/01-07-2025.md",
     "03 - Estudos/Estudos-Web/WebAssembly.md",
-    "__data__/Templates/daily.md",
     "03 - Estudos/Estudos-Web",
     "Pasted image 20250630164151.png",
     "03 - Estudos/Estudos-Linux",
