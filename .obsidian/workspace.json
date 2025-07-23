@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6213e7df206d9dd9",
+            "id": "176983ed2d1a8849",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "23-07-2025"
-            }
-          },
-          {
-            "id": "176983ed2d1a8849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pontos-de-interesse-por-GPS"
             }
           },
           {
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/23-07-2025.md",
+                "file": "__data__/Templates/daily-v3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "23-07-2025"
+              "title": "daily-v3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,27 +228,28 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "f0cdcbe586301c25",
+  "active": "176983ed2d1a8849",
   "lastOpenFiles": [
+    "01 - Daily/22-07-2025.md",
+    "01 - Daily/23-07-2025.md",
+    "01 - Daily/21-07-2025.md",
+    "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
+    "__data__/Templates/daily 1.md",
+    "__data__/Templates/daily.md",
     "__data__/Templates/daily-v3.md",
     "__data__/Scripts/rollover_daily_todos.js",
     "__data__/Scripts",
-    "__data__/Templates/daily.md",
     "__data__/Templates/INSTRUCOES.md",
-    "__data__/Templates/daily 1.md",
     "__data__/Templates/daily-note-template.md",
     "__data__/Templates/daily-note-template 1.md",
     "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
-    "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
-    "01 - Daily/23-07-2025.md",
     "04 - Projetos/Teste-backend-GPS",
-    "01 - Daily/22-07-2025.md",
     "Definir a arquitetura.md",
     "00-index",
-    "01 - Daily/21-07-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
     "01 - Daily/19-07-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
