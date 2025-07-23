@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "954a944dfdd4bdc1",
+            "id": "f6f629487187cb29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "23-07-2025"
-            }
-          },
-          {
-            "id": "f6f629487187cb29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pontos-de-interesse-por-GPS"
             }
           }
         ]
@@ -228,15 +204,14 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "954a944dfdd4bdc1",
+  "active": "f6f629487187cb29",
   "lastOpenFiles": [
-    "01 - Daily/22-07-2025.md",
-    "01 - Daily/23-07-2025.md",
     "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
+    "01 - Daily/23-07-2025.md",
+    "01 - Daily/22-07-2025.md",
     "00-index/Pontos-de-interesse-por-GPS.md",
     "__data__/Templates/daily-v3.md",
     "00-index",
