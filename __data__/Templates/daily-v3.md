@@ -39,7 +39,7 @@ tags:
 ---
 
 ## 🧘‍♂️ Bem-estar
-- 💧 Água: 
+- 💧 Água: 👍
 - 🏋️‍♂️ Exercício: 
 - 😴 Sono: 
 - 🧠 Estado mental: 
