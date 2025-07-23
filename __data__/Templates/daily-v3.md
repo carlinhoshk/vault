@@ -6,19 +6,12 @@ tags:
   - "#Log/RegistroDiario"
 ---
 
-# 🗓️ <% tp.date.now("dddd, D [de] MMMM [de] YYYY") %>
+# 🗓️ <% tp.date.now("D [de] MMMM [de] YYYY") %>
 
 ---
 
 ## 🔄 Tarefas em Aberto
-<%* 
-  try {
-    tR += await tp.user.rollover_daily_todos(tp);
-  } catch (e) {
-    console.error("Error in rollover_daily_todos:", e);
-    tR += "⚠️ Erro ao carregar tarefas pendentes. Verifique o console para mais detalhes.";
-  }
-%>
+
 
 ---
 
