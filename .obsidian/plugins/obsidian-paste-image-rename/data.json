@@ -1,10 +1,10 @@
 {
-  "imageNamePattern": "_data_/Media/{{fileName}}",
+  "imageNamePattern": "_data_/Media/{{DATE:DDMMYYYY}}-{{imageNameKey}}",
   "dupNumberAtStart": true,
   "dupNumberDelimiter": "-",
   "dupNumberAlways": false,
   "autoRename": true,
-  "handleAllAttachments": false,
+  "handleAllAttachments": true,
   "excludeExtensionPattern": "",
   "disableRenameNotice": true
 }
