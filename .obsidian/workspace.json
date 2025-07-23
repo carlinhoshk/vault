@@ -11,75 +11,52 @@
             "id": "abe312bbf6b534cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 - Daily/23-07-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Pasted image 20250723060557.png"
               },
-              "icon": "lucide-file",
-              "title": "23-07-2025"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250723060557"
+            }
+          },
+          {
+            "id": "1a91d7fc2095581a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250723055915.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250723055915"
             }
           },
           {
             "id": "f0fa193d791a0581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "__data__/Media/Pasted Image 20250322002201_550.png"
               },
-              "icon": "lucide-file",
-              "title": "Pontos-de-interesse-por-GPS"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250322002201_550"
             }
           },
           {
             "id": "1ac9a8c61db6f592",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 - Daily/23-07-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "__data__/Media/__data__Media17-03-2025.png"
               },
-              "icon": "lucide-file",
-              "title": "23-07-2025"
+              "icon": "lucide-image",
+              "title": "__data__Media17-03-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -252,19 +229,26 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "abe312bbf6b534cd",
+  "active": "f0fa193d791a0581",
   "lastOpenFiles": [
-    "Pasted image 20250723055748.png",
-    "Pasted image 20250723055656.png",
-    "Pasted image 20250723055644.png",
-    "Pasted image 20250723055504.png",
-    "Pasted image 20250723055241.png",
+    "__data__/Media/Pasted Image 20250322002034_801.png",
+    "__data__/Media/__data__Media17-03-2025.png",
+    "__data__/Media/Pasted image 20250603235134.png",
+    "__data__/Media/Pasted image 20250602161831.png",
+    "__data__/Media/Pasted image 20250615212829.png",
     "01 - Daily/23-07-2025.md",
-    "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
+    "Pasted image 20250723061311.png",
+    "Pasted image 20250723061228.png",
+    "Pasted image 20250723061154.png",
+    "__data__/Media/-23072025.png",
+    "__data__/Media/23072025.png",
+    "__data__/Media/23-07-2025.png",
     "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
+    "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
     "01 - Daily/22-07-2025.md",
     "__data__/Templates/daily-v3.md",
     "__data__/Templates/daily 1.md",
@@ -294,14 +278,8 @@
     "01 - Daily/16-07-2025.md",
     "02-Tasks",
     "01 - Daily/13-07-2025.md",
-    "Pasted image 20250714003809.png",
     "03 - Estudos/Estudos-Web",
-    "Pasted image 20250630164151.png",
     "03 - Estudos/Estudos-Linux",
-    "Pasted image 20250622020315.png",
-    "__data__/Media/__data__Media17-03-2025.png",
-    "__data__/Media/Pasted image 20250518223831.png",
-    "Sem título",
-    "Pasted image 20250616025400.png"
+    "Sem título"
   ]
 }

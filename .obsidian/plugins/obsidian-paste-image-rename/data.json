@@ -1,6 +1,6 @@
 {
-  "imageNamePattern": "_data_/Media/{{DATE:DDMMYYYY}}-{{imageNameKey}}",
-  "dupNumberAtStart": true,
+  "imageNamePattern": "__data__/Media/{{imageNameKey}}",
+  "dupNumberAtStart": false,
   "dupNumberDelimiter": "-",
   "dupNumberAlways": false,
   "autoRename": true,
