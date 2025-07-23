@@ -2,51 +2,63 @@ module.exports = async (tp) => {
   try {
     const { moment } = require('obsidian');
     
-    // Get the daily notes folder from Periodic Notes settings
-    const periodicNotes = app.plugins.plugins['periodic-notes'];
-    if (!periodicNotes) {
-      console.error('Periodic Notes plugin not found');
-      return "⚠️ Erro: Plugin Periodic Notes não encontrado.";
-    }
+    // Configurações fixas baseadas nas suas configurações do Periodic Notes
+    const dailyFolder = "01 - Daily";
+    const dateFormat = "DD-MM-YYYY";
     
-    // Get daily notes folder from settings
-    const dailyFolder = periodicNotes.settings.daily.folder || 'Diário';
-    
-    // Get yesterday's date in the correct format
-    const dateFormat = periodicNotes.settings.daily.format || 'YYYY-MM-DD';
+    // Obter a data de ontem no formato correto
     const yesterday = moment().subtract(1, 'day').format(dateFormat);
-    
-    // Construct the file path
     const filePath = `${dailyFolder}/${yesterday}.md`;
     
-    // Get the file
+    // Obter o arquivo
     const file = app.vault.getAbstractFileByPath(filePath);
     if (!file) {
-      console.log(`No file found at ${filePath}`);
+      console.log(`Arquivo não encontrado: ${filePath}`);
       return "✅ Nenhuma tarefa pendente de ontem.";
     }
 
-    // Read file content
+    // Ler o conteúdo do arquivo
     const content = await app.vault.read(file);
     const lines = content.split("\n");
 
-    // Find all incomplete tasks (tasks with [ ], [>] (scheduled), or [/] (in progress)
-    const tasks = lines.filter(line => {
+    // Encontrar tarefas não concluídas
+    const tasks = [];
+    let inTasksSection = false;
+
+    for (const line of lines) {
       const trimmed = line.trim();
-      return trimmed.match(/^[-*]\s\[( |\/|>)]\s/) && 
-             !trimmed.includes('✅') && // Skip completed tasks
-             !trimmed.includes('---'); // Skip frontmatter
-    });
+      
+      // Verificar se estamos na seção de tarefas
+      if (trimmed.startsWith('## ') && (trimmed.includes('Tarefas') || trimmed.includes('Tasks'))) {
+        inTasksSection = true;
+        continue;
+      }
+      
+      // Se encontrar outra seção de nível 2, para de procurar tarefas
+      if (trimmed.startsWith('## ') && inTasksSection) {
+        break;
+      }
+      
+      // Verificar se é uma tarefa não concluída
+      if (inTasksSection && 
+          (trimmed.match(/^[-*]\s*\[[^\]]*\].*/) ||  // - [ ] ou - [x] ou - [>], etc
+           trimmed.match(/^\d+\.\s*\[[^\]]*\].*/)) &&  // 1. [ ] ou 1. [x], etc
+          !trimmed.includes('[x]') &&  // Ignorar tarefas concluídas
+          !trimmed.includes('---')) {  // Ignorar frontmatter
+        
+        // Adiciona a tarefa à lista, garantindo que comece com - [ ]
+        tasks.push(`- [ ] ${trimmed.replace(/^[-*]\s*\[[^\]]*\]\s*/, '').replace(/^\d+\.\s*\[[^\]]*\]\s*/, '')}`);
+      }
+    }
 
     if (tasks.length === 0) {
       return "✅ Nenhuma tarefa pendente de ontem.";
     }
 
-    // Add a header and return the tasks
-    return `## 📋 Tarefas de ${yesterday}\n` + 
-           tasks.map(t => `- [ ] ${t.replace(/^- \[.\]\s*/, '')}`).join("\n");
+    // Adicionar cabeçalho e retornar as tarefas
+    return `## 📋 Tarefas de ${yesterday}\n` + tasks.join("\n");
   } catch (error) {
-    console.error('Error in rollover_daily_todos:', error);
-    return "⚠️ Ocorreu um erro ao buscar tarefas pendentes.";
+    console.error('Erro em rollover_daily_todos:', error);
+    return `⚠️ Ocorreu um erro ao buscar tarefas pendentes: ${error.message}`;
   }
 };
