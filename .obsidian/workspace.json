@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__data__/Templates/daily-v3.md",
+                "file": "01 - Daily/23-07-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily-v3"
+              "title": "23-07-2025"
             }
           }
         ],
@@ -253,17 +253,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f0cdcbe586301c25",
   "lastOpenFiles": [
+    "__data__/Templates/daily-v3.md",
     "__data__/Scripts/rollover_daily_todos.js",
     "__data__/Scripts",
     "__data__/Templates/daily.md",
     "__data__/Templates/INSTRUCOES.md",
-    "__data__/Templates/daily-v3.md",
     "__data__/Templates/daily 1.md",
     "__data__/Templates/daily-note-template.md",
     "__data__/Templates/daily-note-template 1.md",
@@ -299,7 +298,6 @@
     "__data__/Media/__data__Media17-03-2025.png",
     "__data__/Media/Pasted image 20250518223831.png",
     "Sem título",
-    "vida-publica",
     "Pasted image 20250616025400.png",
     "Pasted image 20250616025220.png",
     "__data__/Media/Pasted image 20250615212829.png",

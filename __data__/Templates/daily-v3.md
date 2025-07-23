@@ -1,14 +1,24 @@
 ---
-tags: ["#Log/RegistroDiario"]
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+aliases: ["<% tp.date.now('YYYY/MM/YYYY-MM-DD') %>"]
+tags: 
+  - daily
+  - "#Log/RegistroDiario"
 ---
 
-# 🗓️ Registro Diário - <% tp.date.now("DD/MM/YYYY") %>
+# 🗓️ <% tp.date.now("dddd, D [de] MMMM [de] YYYY") %>
 
 ---
 
-## ✅ Tarefas em aberto de dias anteriores
-<%* tR += await tp.user.rollover_daily_todos(tp) %>
+## 🔄 Tarefas em Aberto
+<%* 
+  try {
+    tR += await tp.user.rollover_daily_todos(tp);
+  } catch (e) {
+    console.error("Error in rollover_daily_todos:", e);
+    tR += "⚠️ Erro ao carregar tarefas pendentes. Verifique o console para mais detalhes.";
+  }
+%>
 
 ---
 
@@ -17,22 +27,50 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 
 ---
 
-## 📓 Notas Rápidas
+## 📝 Notas do Dia
+
+### 📓 Rápidas
+- 
+
+### 📚 Aprendizados
+- 
+
+### 💡 Ideias
 - 
 
 ---
 
-## 🎯 Foco Principal do Dia
+## 🎯 Foco Principal
 - 
 
 ---
 
-## 🧠 Reflexões
-- Como estou me sentindo:
-- O que quero melhorar hoje:
+## 🧘‍♂️ Bem-estar
+- 💧 Água: 
+- 🏋️‍♂️ Exercício: 
+- 😴 Sono: 
+- 🧠 Estado mental: 
 
 ---
 
 ## 🌙 Encerramento
-- O que aprendi hoje:
-- O que ficou pendente:
+### ✅ Conquistas de Hoje
+- 
+
+### 🔄 Melhorias para Amanhã
+- 
+
+### 📝 Notas Finais
+- 
+---
+
+## 🔗 Links Relacionados
+- 
+---
+
+## 📎 Anexos
+
+---
+
+## 🏷️ Tags Adicionais
+#
