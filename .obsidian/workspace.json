@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-index/Pontos-de-interesse-por-GPS.md",
+                "file": "00-index/Pontos-ade-interesse-por-GPS.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pontos-de-interesse-por-GPS"
+              "title": "Pontos-ade-interesse-por-GPS"
             }
           }
         ],
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -235,7 +234,7 @@
   },
   "active": "e3b15c44ac9fdd9b",
   "lastOpenFiles": [
-    "00-index/Pontos-de-interesse-por-GPS.md",
+    "00-index/Pontos-ade-interesse-por-GPS.md",
     "00-index",
     "01 - Daily/22-07-2025.md",
     "01 - Daily/21-07-2025.md",
