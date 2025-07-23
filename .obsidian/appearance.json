@@ -1,8 +1,8 @@
 {
   "cssTheme": "Terminal",
   "theme": "obsidian",
-  "baseFontSize": 18,
-  "baseFontSizeAction": true,
+  "baseFontSize": 30,
+  "baseFontSizeAction": false,
   "nativeMenus": true,
-  "textFontFamily": "Bodoni 72"
+  "textFontFamily": "Bodoni 72,Arial"
 }
