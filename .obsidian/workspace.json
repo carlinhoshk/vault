@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
+                "file": "__data__/Templates/daily-note-template 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Task-Implementação backend spring boot"
+              "title": "daily-note-template 1"
             }
           }
         ],
@@ -258,8 +258,10 @@
   },
   "active": "f0cdcbe586301c25",
   "lastOpenFiles": [
-    "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
+    "__data__/Templates/daily-note-template.md",
+    "__data__/Templates/daily-note-template 1.md",
     "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
+    "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
     "01 - Daily/23-07-2025.md",
     "04 - Projetos/Teste-backend-GPS",
     "01 - Daily/22-07-2025.md",
@@ -288,8 +290,6 @@
     "01 - Daily/09-07-2025.md",
     "01 - Daily/08-07-2025.md",
     "01 - Daily/04-07-2025.md",
-    "01 - Daily/03-07-2025.md",
-    "04 - Projetos/Projeto-OpenSource-KDE_Connect.md",
     "03 - Estudos/Estudos-Web",
     "Pasted image 20250630164151.png",
     "03 - Estudos/Estudos-Linux",
