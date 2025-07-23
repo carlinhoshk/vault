@@ -4,5 +4,7 @@
   "baseFontSize": 30,
   "baseFontSizeAction": false,
   "nativeMenus": true,
-  "textFontFamily": "Bodoni 72,Arial"
+  "textFontFamily": "Arial Black",
+  "accentColor": "#00ff00",
+  "interfaceFontFamily": "Arial Black"
 }
