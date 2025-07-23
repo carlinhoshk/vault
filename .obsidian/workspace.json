@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "22-07-2025"
             }
+          },
+          {
+            "id": "e3b15c44ac9fdd9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-index/Pontos-de-interesse-por-GPS.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pontos-de-interesse-por-GPS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +233,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80e4034714186abb",
+  "active": "e3b15c44ac9fdd9b",
   "lastOpenFiles": [
-    "01 - Daily/21-07-2025.md",
+    "00-index/Pontos-de-interesse-por-GPS.md",
+    "00-index",
     "01 - Daily/22-07-2025.md",
+    "01 - Daily/21-07-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
     "01 - Daily/19-07-2025.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
@@ -239,7 +266,6 @@
     "01 - Daily/02-07-2025.md",
     "03 - Estudos/Estudos-Linux/Review do c++ 26.md",
     "01 - Daily/01-07-2025.md",
-    "03 - Estudos/Estudos-Web/WebAssembly.md",
     "03 - Estudos/Estudos-Web",
     "Pasted image 20250630164151.png",
     "03 - Estudos/Estudos-Linux",
@@ -253,7 +279,6 @@
     "__data__/Media/Pasted image 20250615212829.png",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf.crdownload",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/Capitulo-0x200",
-    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation",
     "__data__/Media/Pasted image 20250603235134.png",
     "__data__/Media/Pasted image 20250602161831.png"
   ]
