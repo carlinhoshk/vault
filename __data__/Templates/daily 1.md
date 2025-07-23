@@ -3,7 +3,7 @@ creation date: date.time
 tipo: Log/Daily
 ---
 
-# 📅 Registro Diário  23-07-2025
+# 📅 Registro Diário {{date: DD-MM-YYYY}}
 
 ## 🎯 Objetivos do Dia
 - [ ]
