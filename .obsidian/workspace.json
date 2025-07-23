@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "__data__/Templates/daily-v3.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -253,10 +253,11 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0017a84ecfb56c15",
+  "active": "f0cdcbe586301c25",
   "lastOpenFiles": [
     "__data__/Scripts/rollover_daily_todos.js",
     "__data__/Scripts",
