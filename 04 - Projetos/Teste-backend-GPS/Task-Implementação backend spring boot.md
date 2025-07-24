@@ -17,9 +17,9 @@ Na criação do POI precisamos baseado na solicitação coordenadas int não neg
 Primeiro adicionamos a dependence de validação do spring boot starter validation 
 ~~~xml
 <dependency>  
-    <groupId>org.hibernate.validator</groupId> 
+<groupId>org.hibernate.validator</groupId> 
 	    <artifactId>hibernate-validator</artifactId>  
 </dependency>
 ~~~
-Importamos a validação em nossa entity
-
+Importamos a validação em nossa entity com o método PositiveOrZero
+![[Pasted image 20250724124119.png]]
