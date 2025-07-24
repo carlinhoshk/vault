@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
+                "file": "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pontos-de-interesse-por-GPS"
+              "title": "Task-Implementação backend spring boot"
             }
           },
           {
@@ -259,8 +259,8 @@
   },
   "active": "7bcb7a8a230aba4f",
   "lastOpenFiles": [
-    "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
     "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
+    "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
     "SOLUTIONS.md",
     "Pasted image 20250724183455.png",
     "Pasted image 20250724183324.png",
