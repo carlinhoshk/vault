@@ -12,13 +12,12 @@ POIs = Points Of Interest /  Pontos de Interesses
 - [x] Criar conexão com banco H2
 - [x] Criar primeiro controller para cadastrar ROI
 - [x] Criar primeiro ROI com sucesso e salvar em banco
-- [ ] 
 ---
 ## Requisitos
 - [x] Cadastrar pontos de interesse, com 03 atributos: nome do POI, coordenada X (inteiro não negativo) e coordenada Y (inteiro não negativo).
 - [x] Os POIs devem ser armazenados em uma base de dados.
 - [x] Listar todos os POIs cadastrados.
-- [ ] Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
+- [x] Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
 ---
 Na criação do POI precisamos baseado na solicitação coordenadas int não negativos, assim entramos em validação de data da entidade.
 
@@ -48,8 +47,10 @@ Minha solução para o problema foi:
 ![[Pasted image 20250724174935.png]]
 Recebe RX e RY + DMAX
 puxa coord_x e coord_y do banco e subtrai com RX e RY e se em ambas forem menor ou igual a DMAX retorna na lista todas coordenadas.
-![[Pasted image 20250724175332.png]]
-Mas depois de pesquisa percebi que não era algo tão simples era necessário usar a
+![[Pasted image 20250724183324.png]]
+
+Mas depois percebi que ele não funcionava quando a subtração dava um numero negativo e retornava Churrascaria que não era esperado.
+Assim era necessário usar a
  **distância euclidiana** entre dois pontos
   $(x1, y1) e (x2, y2):$
  $distância = √((x2 - x1)² + (y2 - y1)²)$
@@ -68,3 +69,5 @@ Mas depois de pesquisa percebi que não era algo tão simples era necessário us
 }
 
  ~~~~
+ Assim finalmente retornando a lista certa sem a Churrascaria.
+ ![[Pasted image 20250724183455.png]]
