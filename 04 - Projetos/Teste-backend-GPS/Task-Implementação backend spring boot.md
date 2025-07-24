@@ -17,7 +17,7 @@ POIs = Points Of Interest /  Pontos de Interesses
 ## Requisitos
 - [x] Cadastrar pontos de interesse, com 03 atributos: nome do POI, coordenada X (inteiro não negativo) e coordenada Y (inteiro não negativo).
 - [x] Os POIs devem ser armazenados em uma base de dados.
-- [ ] Listar todos os POIs cadastrados.
+- [x] Listar todos os POIs cadastrados.
 - [ ] Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
 ---
 Na criação do POI precisamos baseado na solicitação coordenadas int não negativos, assim entramos em validação de data da entidade.
@@ -33,3 +33,11 @@ Importamos a validação em nossa entity com o método PositiveOrZero
 ![[Pasted image 20250724124119.png]]
 E no controller colocamos a anotação @Valid no momento em que criamos um POI
 ![[Pasted image 20250724125724.png]]
+- [x] Cadastrar pontos de interesse, com 03 atributos: nome do POI, coordenada X (inteiro não negativo) e coordenada Y (inteiro não negativo).
+![[Pasted image 20250724152747.png]]
+- [x] Os POIs devem ser armazenados em uma base de dados.
+![[Pasted image 20250724153010.png]]
+- [x] Listar todos os POIs cadastrados.
+![[Pasted image 20250724153112.png]]
+- [ ] Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
+

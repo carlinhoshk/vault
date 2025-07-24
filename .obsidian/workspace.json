@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "e95552550a9d2173",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-07-24 15.34.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-24 15.34.51.excalidraw"
+            }
+          },
+          {
             "id": "81ce10c1ad0b49d5",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,10 +271,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7bcb7a8a230aba4f",
+  "active": "e95552550a9d2173",
   "lastOpenFiles": [
-    "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
     "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-07-24 15.34.51.excalidraw.md",
+    "Pasted image 20250724153112.png",
+    "Pasted image 20250724153010.png",
+    "Pasted image 20250724152747.png",
+    "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
     "Pasted image 20250724125724.png",
     "Pasted image 20250724124119.png",
     "01 - Daily/24-07-2025.md",
@@ -271,9 +288,6 @@
     "01 - Daily/23-07-2025.md",
     "__data__/Media/Pasted image 20250603235134.png",
     "__data__/Media/Pasted image 20250615212829.png",
-    "__data__/Media/__data__Media17-03-2025.png",
-    "__data__/Media/Pasted image 20250518224030.png",
-    "__data__/Media/Pasted image 20250518224221.png",
     "01 - Daily/22-07-2025.md",
     "__data__/Templates/daily-v3.md",
     "__data__/Templates/daily 1.md",
