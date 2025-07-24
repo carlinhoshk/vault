@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,10 +271,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e95552550a9d2173",
+  "active": "81ce10c1ad0b49d5",
   "lastOpenFiles": [
-    "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-07-24 15.34.51.excalidraw.md",
+    "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
     "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
     "Pasted image 20250724153112.png",
     "Pasted image 20250724153010.png",
