@@ -6,8 +6,8 @@ POIs = Points Of Interest /  Pontos de Interesses
 - [x] Configurar github na IDE 
 - [x] Criar um repo com os arquivos do init-spring
 - [x] Criar modelagem MVC
-- [ ] Criar model do POI ( com 03 atributos: nome do POI, coordenada X (inteiro não negativo))
-- [ ] Criar repositório para o POI
+- [x] Criar model do POI ( com 03 atributos: nome do POI, coordenada X (inteiro não negativo))
+- [x] Criar repositório para o POI
 - [ ] Criar conexão com banco H2
 - [ ] Criar primeiro controller para cadastrar ROI
 ---
