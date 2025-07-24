@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7697adcc0db57d3b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250723061228.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250723061228"
-            }
-          },
-          {
             "id": "25e80d4507072c75",
             "type": "leaf",
             "state": {
@@ -149,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -269,12 +258,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "25e80d4507072c75",
+  "active": "7bcb7a8a230aba4f",
   "lastOpenFiles": [
+    "01 - Daily/24-07-2025.md",
     "Pasted image 20250723061228.png",
     "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
     "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
-    "01 - Daily/24-07-2025.md",
     "01 - Daily/23-07-2025.md",
     "__data__/Media/Pasted image 20250603235134.png",
     "__data__/Media/Pasted image 20250615212829.png",
