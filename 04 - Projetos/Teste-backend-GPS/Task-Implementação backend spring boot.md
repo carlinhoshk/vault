@@ -23,3 +23,5 @@ Primeiro adicionamos a dependence de validação do spring boot starter validati
 ~~~
 Importamos a validação em nossa entity
 ![[Pasted image 20250724093857.png]]
+e o uso da anotação @PositiveOrZero
+
