@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,13 +258,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "81ce10c1ad0b49d5",
+  "active": "7bcb7a8a230aba4f",
   "lastOpenFiles": [
-    "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
+    "01 - Daily/24-07-2025.md",
     "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
+    "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
     "Pasted image 20250724093857.png",
     "Pasted image 20250724093849.png",
-    "01 - Daily/24-07-2025.md",
     "Pasted image 20250723061228.png",
     "01 - Daily/23-07-2025.md",
     "__data__/Media/Pasted image 20250603235134.png",
