@@ -40,4 +40,7 @@ E no controller colocamos a anotação @Valid no momento em que criamos um POI
 - [x] Listar todos os POIs cadastrados.
 ![[Pasted image 20250724153112.png]]
 - [ ] Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
-
+![[Pasted image 20250724174935.png]]
+Recebe RX e RY + DMAX
+puxa coord_x e coord_y do banco e subtrai com RX e RY e se em ambas forem menor ou igual a DMAX retorna na lista todas coordenadas.
+![[Pasted image 20250724175332.png]]
