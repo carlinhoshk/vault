@@ -13,3 +13,13 @@ POIs = Points Of Interest /  Pontos de Interesses
 ---
 
 Na criação do POI precisamos baseado na solicição coodernadas int não negativos, assim entramos em validação de data da entidade.
+
+Primeiro adicionamos a dependecia de validação do spring boot starter validation 
+~~~xml
+<dependency>
+<groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-validation</artifactId>
+</dependency>
+~~~
+Importamos a validação em nossa entity
+![[Pasted image 20250724093857.png]]
