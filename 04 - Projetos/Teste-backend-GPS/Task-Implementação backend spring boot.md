@@ -7,14 +7,14 @@ POIs = Points Of Interest /  Pontos de Interesses
 - [x] Criar um repo com os arquivos do init-spring
 - [x] Criar modelagem MVC
 - [ ] Criar model do POI ( com 03 atributos: nome do POI, coordenada X (inteiro não negativo))
-- [ ] Criar repositorio para o POI
-- [ ] Criar conexao com banco H2
+- [ ] Criar repositório para o POI
+- [ ] Criar conexão com banco H2
 - [ ] Criar primeiro controller para cadastrar ROI
 ---
 
-Na criação do POI precisamos baseado na solicição coodernadas int não negativos, assim entramos em validação de data da entidade.
+Na criação do POI precisamos baseado na solicitação coordenadas int não negativos, assim entramos em validação de data da entidade.
 
-Primeiro adicionamos a dependecia de validação do spring boot starter validation 
+Primeiro adicionamos a dependence de validação do spring boot starter validation 
 ~~~xml
 <dependency>
 <groupId>org.springframework.boot</groupId>
