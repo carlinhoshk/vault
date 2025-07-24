@@ -14,13 +14,11 @@ POIs = Points Of Interest /  Pontos de Interesses
 
 Na criação do POI precisamos baseado na solicitação coordenadas int não negativos, assim entramos em validação de data da entidade.
 
-Primeiro adicionamos a dependecia de validação do spring boot starter validation 
+Primeiro adicionamos a dependence de validação do spring boot starter validation 
 ~~~xml
-<dependency>
- <groupId>org.hibernate.validator</groupId>
-
-
-<artifactId>hibernatevalidator</artifactId>
+<dependency>  
+    <groupId>org.hibernate.validator</groupId> 
+	    <artifactId>hibernate-validator</artifactId>  
 </dependency>
 ~~~
 Importamos a validação em nossa entity
