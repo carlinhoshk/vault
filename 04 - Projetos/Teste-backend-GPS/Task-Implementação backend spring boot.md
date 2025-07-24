@@ -34,13 +34,37 @@ Importamos a validação em nossa entity com o método PositiveOrZero
 E no controller colocamos a anotação @Valid no momento em que criamos um POI
 ![[Pasted image 20250724125724.png]]
 - [x] Cadastrar pontos de interesse, com 03 atributos: nome do POI, coordenada X (inteiro não negativo) e coordenada Y (inteiro não negativo).
+
 ![[Pasted image 20250724152747.png]]
 - [x] Os POIs devem ser armazenados em uma base de dados.
+
 ![[Pasted image 20250724153010.png]]
 - [x] Listar todos os POIs cadastrados.
+
 ![[Pasted image 20250724153112.png]]
-- [ ] Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
+- [x] Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
+
+Minha solução para o problema foi:
 ![[Pasted image 20250724174935.png]]
 Recebe RX e RY + DMAX
 puxa coord_x e coord_y do banco e subtrai com RX e RY e se em ambas forem menor ou igual a DMAX retorna na lista todas coordenadas.
 ![[Pasted image 20250724175332.png]]
+Mas depois de pesquisa percebi que não era algo tão simples era necessário usar a
+ **distância euclidiana** entre dois pontos
+  $(x1, y1) e (x2, y2):$
+ $distância = √((x2 - x1)² + (y2 - y1)²)$
+ E não teve como depois o chatgpt cuspiu o método pronto
+ ~~~java
+ public List<Poi> getPoisByDistance(int refX, int refY, int dmax) {
+    return poiRepository.findAll().stream()
+            .filter(p -> {
+                double distancia = Math.sqrt(
+                        Math.pow(p.getCoord_x() - refX, 2) +
+                        Math.pow(p.getCoord_y() - refY, 2)
+                );
+                return distancia <= dmax;
+            })
+            .collect(Collectors.toList());
+}
+
+ ~~~~
