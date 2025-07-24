@@ -1,6 +1,5 @@
 repo-official [link](https://github.com/backend-br/desafios/blob/master/points-of-interest/PROBLEM.md)
 
-
 # Pontos de Interesse por GPS
 
 Seu desafio será implementar um serviço para a empresa XY Inc., especializada na produção de excelentes receptores
