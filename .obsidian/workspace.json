@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/25-07-2025.md",
+                "file": "01 - Daily/26-07-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "25-07-2025"
+              "title": "26-07-2025"
             }
           },
           {
@@ -233,8 +233,9 @@
   },
   "active": "25e80d4507072c75",
   "lastOpenFiles": [
-    "01 - Daily/24-07-2025.md",
     "01 - Daily/25-07-2025.md",
+    "01 - Daily/26-07-2025.md",
+    "01 - Daily/24-07-2025.md",
     "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
     "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
     "SOLUTIONS.md",
@@ -274,7 +275,6 @@
     "04 - Projetos/Rinha2025/Rinha Backend em C.md",
     "04 - Projetos/Rinha2025/projeto_rinha_backend_c_roadmap.md",
     "04 - Projetos/Rinha2025",
-    "01 - Daily/17-07-2025.md",
     "02-Tasks",
     "03 - Estudos/Estudos-Web",
     "03 - Estudos/Estudos-Linux",
