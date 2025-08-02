@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/01-08-2025.md",
+                "file": "04 - Projetos/Rinha2025-java/Requizitos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01-08-2025"
+              "title": "Requizitos"
             }
           }
         ]
@@ -204,13 +204,16 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "25e80d4507072c75",
   "lastOpenFiles": [
-    "01 - Daily/31-07-2025.md",
     "01 - Daily/01-08-2025.md",
+    "04 - Projetos/Rinha2025-java/Requizitos.md",
+    "04 - Projetos/Rinha2025-java",
+    "01 - Daily/31-07-2025.md",
     "01 - Daily/30-07-2025.md",
     "01 - Daily/28-07-2025.md",
     "04 - Projetos/Rinha2025/Rinha Backend em C.md",
@@ -248,12 +251,10 @@
     "__data__/Templates/daily-note-template.md",
     "04 - Projetos/Teste-backend-GPS",
     "Definir a arquitetura.md",
-    "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/resumos-ideias-livro.md",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "04 - Projetos/Rinha2025",
     "02-Tasks",
     "03 - Estudos/Estudos-Web",
-    "03 - Estudos/Estudos-Linux",
-    "Sem título"
+    "03 - Estudos/Estudos-Linux"
   ]
 }
