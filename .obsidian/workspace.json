@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Rinha2025-java/Requizitos.md",
+                "file": "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Requizitos"
+              "title": "rinha-spring-webflux"
             }
           }
         ]
@@ -210,8 +210,11 @@
   },
   "active": "25e80d4507072c75",
   "lastOpenFiles": [
+    "Pasted image 20250802233229.png",
+    "04 - Projetos/Rinha2025-java/backlog.md",
+    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
+    "Pasted image 20250802232840.png",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-08-01 22.20.24.excalidraw.md",
-    "04 - Projetos/Rinha2025-java/Requizitos.md",
     "01 - Daily/01-08-2025.md",
     "04 - Projetos/Rinha2025-java",
     "01 - Daily/31-07-2025.md",
@@ -235,7 +238,6 @@
     "Pasted image 20250724153010.png",
     "Pasted image 20250724152747.png",
     "Pasted image 20250724125724.png",
-    "Pasted image 20250724124119.png",
     "01 - Daily/23-07-2025.md",
     "01 - Daily/22-07-2025.md",
     "__data__/Templates/daily-v3.md",
@@ -248,8 +250,6 @@
     "01 - Daily/21-07-2025.md",
     "__data__/Scripts/rollover_daily_todos.js",
     "__data__/Scripts",
-    "__data__/Templates/INSTRUCOES.md",
-    "__data__/Templates/daily-note-template.md",
     "04 - Projetos/Teste-backend-GPS",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "04 - Projetos/Rinha2025",
