@@ -1,5 +1,5 @@
 {
-  "imageNamePattern": "__data__/Media/{{imageNameKey}}{{DATE:DDMMYYYY}}",
+  "imageNamePattern": "__data__/Media/",
   "dupNumberAtStart": false,
   "dupNumberDelimiter": "-",
   "dupNumberAlways": false,

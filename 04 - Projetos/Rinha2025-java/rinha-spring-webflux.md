@@ -22,8 +22,8 @@ O Spring Webflux é um módulo que foi inserido no Spring Framework 5 e possibil
 programação reativa ? 
 Spring Web x [[00-index/Spring-WebFlux]]
 Assim como o [Reactor](https://github.com/carlinhoshk/reactor-core), ele possui dois tipos: **Flux** e **Mono**. Lembrando que na <u>programação reativa</u> trabalha-se com fluxos e não com dados. Sendo assim, o tipo Flux consiste em um fluxo (stream) de 0 a N elementos e o tipo Mono consiste em um fluxo (stream) de 0 ou 1 elemento apenas.
-![[Pasted image 20250803201445.png]]
-Exemplo comparado com MVC que já conheço![[03082025.png]]
+
+Exemplo comparado com MVC que já conheço
 
 ![[Pasted image 20250803201053.png]]
 
