@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
+                "file": "01 - Daily/04-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rinha-spring-webflux"
+              "title": "04-08-2025"
             }
           }
         ],
@@ -259,13 +259,14 @@
   },
   "active": "6543d5b8992b7a53",
   "lastOpenFiles": [
+    "__data__/Templates/dailyv4.md",
+    "01 - Daily/04-08-2025.md",
+    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "00-index/Spring-WebFlux.md",
     "__data__/Media/03-08-2025.png",
     "01 - Daily/03-08-2025.md",
-    "01 - Daily/04-08-2025.md",
     "03 - Estudos/Estudos-Index/ddd_payment_structure.md",
     "03 - Estudos/Estudos-Index/Unconfirmed 934882.crdownload",
-    "__data__/Templates/dailyv4.md",
     "__data__/Templates/daily-v3.md",
     "__data__/Templates/dailyV4md copy",
     "__data__/Templates/dailyV4md",
@@ -274,7 +275,6 @@
     "__data__/Templates/INSTRUCOES.md",
     "__data__/Templates/meeting.md",
     "__data__/Templates/nota-diaria.md",
-    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "Pasted image 20250803201445.png",
     "__data__/Media/03082025.png",
     "Pasted image 20250803201319.png",
