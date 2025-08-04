@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
+                "file": "01 - Daily/03-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rinha-spring-webflux"
+              "title": "03-08-2025"
             }
           },
           {
@@ -241,17 +241,17 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "93ab8171479a69f9",
   "lastOpenFiles": [
+    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
+    "01 - Daily/03-08-2025.md",
     "Pasted image 20250803201445.png",
     "__data__/Media/03082025.png",
     "Pasted image 20250803201319.png",
     "Pasted image 20250803201246.png",
-    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "__data__/Media/03-08-2025.png",
     "Pasted image 20250803201053.png",
     "00-index/Spring-WebFlux.md",
@@ -275,7 +275,6 @@
     "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
     "SOLUTIONS.md",
     "Pasted image 20250724183455.png",
-    "Pasted image 20250724183324.png",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-07-24 15.34.51.excalidraw.md",
     "01 - Daily/23-07-2025.md",
     "01 - Daily/22-07-2025.md",
