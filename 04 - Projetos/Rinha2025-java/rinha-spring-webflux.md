@@ -23,7 +23,7 @@ programação reativa ?
 Spring Web x [[00-index/Spring-WebFlux]]
 Assim como o [Reactor](https://github.com/carlinhoshk/reactor-core), ele possui dois tipos: **Flux** e **Mono**. Lembrando que na <u>programação reativa</u> trabalha-se com fluxos e não com dados. Sendo assim, o tipo Flux consiste em um fluxo (stream) de 0 a N elementos e o tipo Mono consiste em um fluxo (stream) de 0 ou 1 elemento apenas.
 
-Exemplo comparado com MVC que já conheço
+Exemplo comparado com spring-MVC que já conheço
 
 ![[Pasted image 20250803201053.png]]
 
