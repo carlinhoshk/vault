@@ -13,32 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__data__/Templates/INSTRUCOES.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "INSTRUCOES"
-            }
-          },
-          {
-            "id": "93ab8171479a69f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "01 - Daily/04-08-2025.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "04-08-2025"
+            }
+          },
+          {
+            "id": "93ab8171479a69f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Daily/03-08-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "03-08-2025"
             }
           },
           {
@@ -264,21 +264,26 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "f150893cb42a85b2",
   "lastOpenFiles": [
-    "__data__/Templates/daily-note-template.md",
-    "__data__/Templates/meeting.md",
-    "__data__/Templates/nota-diaria.md",
-    "__data__/Templates/Teste.md",
-    "00-index/Spring-WebFlux.md",
-    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
-    "__data__/Media/03-08-2025.png",
+    "__data__/Templates/dailyv4.md",
     "01 - Daily/04-08-2025.md",
     "01 - Daily/03-08-2025.md",
+    "__data__/Media/03-08-2025.png",
+    "__data__/Templates/daily-v3.md",
+    "__data__/Templates/dailyV4md copy",
+    "__data__/Templates/dailyV4md",
+    "__data__/Templates/Teste.md",
+    "__data__/Templates/daily-note-template.md",
+    "__data__/Templates/INSTRUCOES.md",
+    "__data__/Templates/meeting.md",
+    "__data__/Templates/nota-diaria.md",
+    "00-index/Spring-WebFlux.md",
+    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "Pasted image 20250803201445.png",
     "__data__/Media/03082025.png",
     "Pasted image 20250803201319.png",
@@ -302,19 +307,13 @@
     "01 - Daily/24-07-2025.md",
     "04 - Projetos/Teste-backend-GPS/Task-Implementação backend spring boot.md",
     "04 - Projetos/Teste-backend-GPS/Pontos-de-interesse-por-GPS.md",
-    "SOLUTIONS.md",
     "Pasted image 20250724183455.png",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-07-24 15.34.51.excalidraw.md",
-    "01 - Daily/23-07-2025.md",
-    "01 - Daily/22-07-2025.md",
     "00-index",
     "__data__/Scripts/rollover_daily_todos.js",
     "__data__/Scripts",
     "04 - Projetos/Teste-backend-GPS",
     "03 - Estudos/Leitura-Livros/Hacking - The Art of Exploitation/hacking_artofexploitation_2ndedition.pdf",
     "04 - Projetos/Rinha2025",
-    "02-Tasks",
-    "03 - Estudos/Estudos-Web",
-    "03 - Estudos/Estudos-Linux"
+    "02-Tasks"
   ]
 }
