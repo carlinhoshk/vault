@@ -67,8 +67,7 @@
               "title": "03-08-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,21 +240,22 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "93ab8171479a69f9",
+  "active": "f150893cb42a85b2",
   "lastOpenFiles": [
-    "01 - Daily/03-08-2025.md",
+    "__data__/Media/03-08-2025.png",
     "01 - Daily/04-08-2025.md",
+    "00-index/Spring-WebFlux.md",
+    "01 - Daily/03-08-2025.md",
     "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "Pasted image 20250803201445.png",
     "__data__/Media/03082025.png",
     "Pasted image 20250803201319.png",
     "Pasted image 20250803201246.png",
-    "__data__/Media/03-08-2025.png",
     "Pasted image 20250803201053.png",
-    "00-index/Spring-WebFlux.md",
     "01 - Daily/16-07-2025.md",
     "Pasted image 20250803193337.png",
     "Pasted image 20250802233229.png",
@@ -282,7 +282,6 @@
     "__data__/Templates/daily-v3.md",
     "__data__/Templates/daily 1.md",
     "__data__/Templates/daily-note-template 1.md",
-    "__data__/Templates/daily.md",
     "00-index",
     "__data__/Scripts/rollover_daily_todos.js",
     "__data__/Scripts",
