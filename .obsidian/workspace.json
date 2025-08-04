@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/03-08-2025.md",
+                "file": "01 - Daily/04-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03-08-2025"
+              "title": "04-08-2025"
             }
           },
           {
@@ -246,8 +246,9 @@
   },
   "active": "93ab8171479a69f9",
   "lastOpenFiles": [
-    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "01 - Daily/03-08-2025.md",
+    "01 - Daily/04-08-2025.md",
+    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "Pasted image 20250803201445.png",
     "__data__/Media/03082025.png",
     "Pasted image 20250803201319.png",
@@ -282,7 +283,6 @@
     "__data__/Templates/daily 1.md",
     "__data__/Templates/daily-note-template 1.md",
     "__data__/Templates/daily.md",
-    "__data__/Templates/nota-diaria.md",
     "00-index",
     "__data__/Scripts/rollover_daily_todos.js",
     "__data__/Scripts",
