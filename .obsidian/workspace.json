@@ -79,7 +79,8 @@
               "title": "05-08-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,10 +257,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4ff90ce0478041c7",
+  "active": "6543d5b8992b7a53",
   "lastOpenFiles": [
-    "01 - Daily/05-08-2025.md",
     "01 - Daily/04-08-2025.md",
+    "01 - Daily/05-08-2025.md",
     "__data__/Templates/dailyv4.md",
     "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "00-index/Spring-WebFlux.md",
