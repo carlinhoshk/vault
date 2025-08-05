@@ -79,8 +79,7 @@
               "title": "05-08-2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,13 +252,14 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "daily-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "6543d5b8992b7a53",
+  "active": "4ff90ce0478041c7",
   "lastOpenFiles": [
-    "01 - Daily/04-08-2025.md",
     "01 - Daily/05-08-2025.md",
+    "01 - Daily/04-08-2025.md",
     "__data__/Templates/dailyv4.md",
     "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "00-index/Spring-WebFlux.md",
