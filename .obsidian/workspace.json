@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/07-08-2025.md",
+                "file": "01 - Daily/08-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07-08-2025"
+              "title": "08-08-2025"
             }
           }
         ],
@@ -258,8 +258,9 @@
   },
   "active": "6543d5b8992b7a53",
   "lastOpenFiles": [
-    "01 - Daily/06-08-2025.md",
     "01 - Daily/07-08-2025.md",
+    "01 - Daily/08-08-2025.md",
+    "01 - Daily/06-08-2025.md",
     "01 - Daily/05-08-2025.md",
     "01 - Daily/04-08-2025.md",
     "__data__/Templates/dailyv4.md",
@@ -296,7 +297,6 @@
     "04 - Projetos/Rinha2025/Rinha Backend em C.md",
     "01 - Daily/27-07-2025.md",
     "01 - Daily/26-07-2025.md",
-    "01 - Daily/25-07-2025.md",
     "Pasted image 20250724183455.png",
     "00-index",
     "__data__/Scripts/rollover_daily_todos.js",
