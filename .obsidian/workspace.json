@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
+                "file": "01 - Daily/14-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rinha-spring-webflux"
+              "title": "14-08-2025"
             }
           }
         ],
@@ -277,12 +277,13 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "daily-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "5534464c752abe7b",
   "lastOpenFiles": [
+    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
+    "01 - Daily/14-08-2025.md",
     "01 - Daily/12-08-2025.md",
     "01 - Daily/10-08-2025.md",
     "01 - Daily/11-08-2025.md",
@@ -294,7 +295,6 @@
     "01 - Daily/05-08-2025.md",
     "01 - Daily/04-08-2025.md",
     "__data__/Templates/dailyv4.md",
-    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "00-index/Spring-WebFlux.md",
     "__data__/Media/03-08-2025.png",
     "01 - Daily/03-08-2025.md",
@@ -321,7 +321,6 @@
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-08-01 22.20.24.excalidraw.md",
     "01 - Daily/01-08-2025.md",
     "04 - Projetos/Rinha2025-java",
-    "01 - Daily/31-07-2025.md",
     "Pasted image 20250724183455.png",
     "00-index",
     "__data__/Scripts/rollover_daily_todos.js",
