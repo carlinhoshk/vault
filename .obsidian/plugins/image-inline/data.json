@@ -1,6 +1,6 @@
 {
   "convertOnPaste": true,
-  "convertOnDrop": true,
+  "convertOnDrop": false,
   "autoEscapeLink": true,
   "enableResizing": false,
   "resizeStrategy": "smaller",
