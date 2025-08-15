@@ -1,7 +1,7 @@
 {
-  "convertOnPaste": true,
+  "convertOnPaste": false,
   "convertOnDrop": false,
-  "autoEscapeLink": true,
+  "autoEscapeLink": false,
   "enableResizing": false,
   "resizeStrategy": "smaller",
   "smallerThreshold": 1000,

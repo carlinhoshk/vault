@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
+                "file": "00-index/Spring-WebFlux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rinha-spring-webflux"
+              "title": "Spring-WebFlux"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"00-index/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +210,9 @@
   },
   "active": "0017a84ecfb56c15",
   "lastOpenFiles": [
-    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
+    "00-index/Pontos-de-interesse-por-GPS.md",
     "00-index/Spring-WebFlux.md",
+    "04 - Projetos/Rinha2025-java/rinha-spring-webflux.md",
     "01 - Daily/15-08-2025.md",
     "04 - Projetos/Rinha2025-java/backlog.md",
     "01 - Daily/14-08-2025.md",
@@ -247,7 +248,6 @@
     "Pasted image 20250803193337.png",
     "Pasted image 20250802233229.png",
     "Pasted image 20250802232840.png",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-08-01 22.20.24.excalidraw.md",
     "04 - Projetos/Rinha2025-java",
     "Pasted image 20250724183455.png",
     "00-index",
