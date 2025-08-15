@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-index/Spring-WebFlux.md",
+                "file": "01 - Daily/15-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Spring-WebFlux"
+              "title": "15-08-2025"
+            }
+          },
+          {
+            "id": "2afcc553a6145dbf",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,14 +216,15 @@
       "obsidian-git:Open Git source control": false,
       "daily-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "b7dbc225e08c9b67",
+  "active": "2afcc553a6145dbf",
   "lastOpenFiles": [
+    "00-index/Spring-WebFlux.md",
     "__data__/Media/2025-08-15_18-49-27.png",
     "__data__/Media/2025-08-15_18-48-53.png",
-    "00-index/Spring-WebFlux.md",
     "{{fileName}2025-08-15_18-47-23.png",
     "{fileName}2025-08-15_18-46-54.png",
     "Pasted image 20250815184458.png",
@@ -248,7 +260,6 @@
     "__data__/Media/03082025.png",
     "Pasted image 20250803201319.png",
     "Pasted image 20250803201246.png",
-    "Pasted image 20250803201053.png",
     "04 - Projetos/Rinha2025-java",
     "00-index",
     "__data__/Scripts/rollover_daily_todos.js",
