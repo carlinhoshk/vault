@@ -37,8 +37,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-index/Spring-WebFlux.md",
+                "file": "01 - Daily/16-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Spring-WebFlux"
+              "title": "16-08-2025"
+            }
+          },
+          {
+            "id": "bfe7240812d476a2",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ],
@@ -246,8 +256,9 @@
   },
   "active": "2b2a4406a9b9d575",
   "lastOpenFiles": [
-    "01 - Daily/15-08-2025.md",
     "00-index/Spring-WebFlux.md",
+    "01 - Daily/16-08-2025.md",
+    "01 - Daily/15-08-2025.md",
     "__data__/Media/2025-08-15_18-49-27.png",
     "__data__/Media/2025-08-15_18-48-53.png",
     "{{fileName}2025-08-15_18-47-23.png",
