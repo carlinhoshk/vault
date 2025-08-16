@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,7 +254,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "2b2a4406a9b9d575",
+  "active": "bfe7240812d476a2",
   "lastOpenFiles": [
     "00-index/Spring-WebFlux.md",
     "01 - Daily/16-08-2025.md",
