@@ -117,6 +117,54 @@
             "id": "f2f0c4879d23fa66",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Daily/21-08-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "21-08-2025"
+            }
+          },
+          {
+            "id": "aaf6c7a89ac8168c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Daily/22-08-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "22-08-2025"
+            }
+          },
+          {
+            "id": "08543f0ca5a813d9",
+            "type": "leaf",
+            "state": {
               "type": "notes-explorer",
               "state": {},
               "icon": "book-copy",
@@ -124,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -303,8 +351,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f2f0c4879d23fa66",
+  "active": "08543f0ca5a813d9",
   "lastOpenFiles": [
+    "01 - Daily/22-08-2025.md",
     "01 - Daily/21-08-2025.md",
     "01 - Daily/17-08-2025.md",
     "00-index/Spring-WebFlux.md",
@@ -339,7 +388,6 @@
     "__data__/Templates/dailyV4md",
     "__data__/Templates/Teste.md",
     "__data__/Templates/daily-note-template.md",
-    "__data__/Templates/INSTRUCOES.md",
     "Pasted image 20250803201445.png",
     "__data__/Media/03082025.png",
     "Pasted image 20250803201319.png",
