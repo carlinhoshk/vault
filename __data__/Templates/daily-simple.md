@@ -1,12 +1,18 @@
-# 🗓️ <% tp.date.now("D [de] MMMM [de] YYYY") %>
+# <% tp.date.now("DD-MM-YYYY") %>
 
 ---
-creation date: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
-tipo: Log/Daily
 tags: daily
+created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
----
+## 📋 Tarefas de Hoje
+
+```tasks
+not done
+due <% tp.date.now("YYYY-MM-DD") %>
+path includes "01 - Daily"
+sort by due
+```
 
 ## 🔄 Tarefas Pendentes
 
@@ -17,56 +23,10 @@ path includes "01 - Daily"
 sort by due
 ```
 
----
-
-## 📌 Tarefas de Hoje
-
-```tasks
-not done
-due <% tp.date.now("YYYY-MM-DD") %>
-path includes "01 - Daily"
-sort by due
-```
-
----
-
-## 🎯 Novas Tarefas
-
-### 🔥 Urgente
+## 🆕 Novas Tarefas
 - [ ] 
 
-### 📋 Importante
-- [ ] 
-
-### 💡 Quando der tempo
-- [ ] 
-
----
-
-## 📝 Notas do Dia
-
-### 📚 Aprendizados
+## 📝 Notas
 - 
 
-### 💭 Reflexões
-- 
-
-### 🌟 Conquistas
-- 
-
----
-
-## 📅 Eventos/Reuniões
-- 
-
----
-
-## 🔗 Links Úteis
-- 
-
----
-
-## 📊 Resumo
-**Energia:** ⭐⭐⭐⭐⭐  
-**Produtividade:** ⭐⭐⭐⭐⭐  
-**Humor:** ⭐⭐⭐⭐⭐
+<% tp.file.include("[[__data__/Scripts/auto-load-daily]]") %>

@@ -152,13 +152,23 @@
             }
           },
           {
-            "id": "a8ee2407a8efa617",
+            "id": "fd36a9d73428ec7b",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
               "state": {},
               "icon": "book-copy",
               "title": "Notes explorer"
+            }
+          },
+          {
+            "id": "a8ee2407a8efa617",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           }
         ],
@@ -341,7 +351,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "a8ee2407a8efa617",
+  "active": "fd36a9d73428ec7b",
   "lastOpenFiles": [
     "01 - Daily/25-08-2025.md",
     "01 - Daily/24-08-2025.md",
