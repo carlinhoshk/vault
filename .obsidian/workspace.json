@@ -4,107 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ac4bd7c1856e8a8",
+        "id": "5d776ea690a098cd",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b16e37952d31ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/22-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "22-08-2025"
-            }
-          },
-          {
-            "id": "596e174f8446891d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/23-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "23-08-2025"
-            }
-          },
-          {
-            "id": "a9c90ee1a364907c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/23-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "23-08-2025"
-            }
-          },
-          {
-            "id": "d631aa90eee903fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/23-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "23-08-2025"
-            }
-          },
-          {
-            "id": "bd18f86e368c7617",
+            "id": "8c1f356ef964bb94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,149 +32,16 @@
             }
           },
           {
-            "id": "faf60c36b481576c",
+            "id": "6ee70f7779b269a5",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "9d5b2cb47bd99a10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/25-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "25-08-2025"
-            }
-          },
-          {
-            "id": "1ba98ec27ce43c07",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "5d3950e8692d95c6",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "fd36a9d73428ec7b",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "a8ee2407a8efa617",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "e87b07266c2c26f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/25-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "25-08-2025"
-            }
-          },
-          {
-            "id": "bb5843511c353025",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "670a81c07e7fafb3",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "ddf0dec5d0067085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__data__/Templates/daily-simple.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "daily-simple"
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -449,8 +220,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "ddf0dec5d0067085",
+  "active": "8c1f356ef964bb94",
   "lastOpenFiles": [
+    "__data__/Templates/daily-simple.md",
     "00-index/Home.md",
     "01 - Daily/25-08-2025.md",
     "01 - Daily/<% tp.date.now(\"DD-MM-YYYY\") %>.md",
@@ -486,7 +258,6 @@
     "01 - Daily/12-08-2025.md",
     "01 - Daily/10-08-2025.md",
     "01 - Daily/11-08-2025.md",
-    "01 - Daily/09-08-2025.md",
     "__data__/Media/03-08-2025.png",
     "03 - Estudos/Estudos-Index/Unconfirmed 934882.crdownload",
     "__data__/Templates/dailyV4md copy",
