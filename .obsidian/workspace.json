@@ -80,6 +80,16 @@
             }
           },
           {
+            "id": "9585aad42820e008",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
+          },
+          {
             "id": "6ee70f7779b269a5",
             "type": "leaf",
             "state": {
@@ -90,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,10 +274,12 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "971a9222b6fb7bbd",
+  "active": "9585aad42820e008",
   "lastOpenFiles": [
     "__data__/Media/2025-08-25_19-09-04.png",
     "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
