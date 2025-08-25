@@ -14,13 +14,12 @@ path includes "01 - Daily"
 sort by due
 ```
 
-## 🔄 Tarefas Pendentes
+## ⏪ Tarefas de Ontem
 
 ```tasks
 not done
-due before <% tp.date.now("YYYY-MM-DD") %>
-path includes "01 - Daily"
-sort by due
+path includes "01 - Daily/<% tp.date.now("DD-MM-YYYY", -1) %>"
+sort by description
 ```
 
 ## 🆕 Novas Tarefas
@@ -29,4 +28,18 @@ sort by due
 ## 📝 Notas
 - 
 
-<% tp.file.include("[[__data__/Scripts/auto-load-daily]]") %>
+## 🗒️ Notas criadas hoje
+```dataview
+LIST
+FROM ""
+WHERE file.cday = date("<% tp.date.now("YYYY-MM-DD") %>")
+SORT file.mtime desc
+```
+
+## 🗒️ Notas criadas ontem
+```dataview
+LIST
+FROM ""
+WHERE file.cday = date("<% tp.date.now("YYYY-MM-DD", -1) %>")
+SORT file.mtime desc
+```
