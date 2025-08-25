@@ -59,12 +59,24 @@
             "id": "971a9222b6fb7bbd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "__data__/Media/2025-08-25_19-09-04.png"
+                "file": "01 - Daily/25-08-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "2025-08-25_19-09-04"
+              "icon": "lucide-file",
+              "title": "25-08-2025"
             }
           },
           {
@@ -73,8 +85,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           }
         ],
@@ -252,15 +264,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
-      "notes-explorer:Notes explorer": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "971a9222b6fb7bbd",
   "lastOpenFiles": [
-    "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
     "__data__/Media/2025-08-25_19-09-04.png",
+    "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
     "03 - Estudos/Estudos-JavaScript",
     "01 - Daily/25-08-2025.md",
     "03.md",
