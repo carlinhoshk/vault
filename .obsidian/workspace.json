@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "971a9222b6fb7bbd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "__data__/Media/2025-08-25_19-09-04.png"
+              },
+              "icon": "lucide-image",
+              "title": "2025-08-25_19-09-04"
+            }
+          },
+          {
             "id": "6ee70f7779b269a5",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,11 +257,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "73415d0b0f8695ef",
+  "active": "971a9222b6fb7bbd",
   "lastOpenFiles": [
+    "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
     "__data__/Media/2025-08-25_19-09-04.png",
     "03 - Estudos/Estudos-JavaScript",
-    "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
     "01 - Daily/25-08-2025.md",
     "03.md",
     "__data__/Media/2025-08-25_19-07-00.png",
@@ -291,7 +303,6 @@
     "__data__/Templates/dailyV4md",
     "Pasted image 20250803201445.png",
     "__data__/Media/03082025.png",
-    "Pasted image 20250803201319.png",
     "04 - Projetos/Rinha2025-java"
   ]
 }
