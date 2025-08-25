@@ -5,8 +5,9 @@
   "daily": {
     "format": "DD-MM-YYYY",
     "folder": "01 - Daily",
-    "template": "__data__/Templates/dailyv4.md",
-    "enabled": true
+    "template": "__data__/Templates/daily-simple.md",
+    "enabled": true,
+    "openOnStartup": true
   },
   "weekly": {
     "format": "",

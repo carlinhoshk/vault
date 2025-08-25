@@ -63,5 +63,13 @@
       ],
       "key": "X"
     }
+  ],
+  "periodic-notes:open-today": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }

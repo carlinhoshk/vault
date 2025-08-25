@@ -8,7 +8,7 @@ tags: daily
 
 ---
 
-## 🔄 Tarefas Pendentes de Ontem
+## 🔄 Tarefas Pendentes
 
 ```tasks
 not done
@@ -30,22 +30,20 @@ sort by due
 
 ---
 
-## 🎯 Novas Tarefas de Hoje
+## 🎯 Novas Tarefas
 
-### 🔥 Prioridade Alta
+### 🔥 Urgente
 - [ ] 
 
-### 📋 Prioridade Média  
+### 📋 Importante
 - [ ] 
 
-### 💡 Ideias/Futuro
+### 💡 Quando der tempo
 - [ ] 
 
 ---
 
-## 📝 Notas criadas no dia
-
-- 
+## 📝 Notas do Dia
 
 ### 📚 Aprendizados
 - 
@@ -53,23 +51,22 @@ sort by due
 ### 💭 Reflexões
 - 
 
----
-
-## 🌟 Conquistas do Dia
+### 🌟 Conquistas
 - 
 
 ---
 
-## 📅 Reuniões/Eventos
+## 📅 Eventos/Reuniões
 - 
 
 ---
 
-## 🔗 Links Importantes
+## 🔗 Links Úteis
 - 
 
 ---
 
-- 
-
-### 📚 Aprendizados
+## 📊 Resumo
+**Energia:** ⭐⭐⭐⭐⭐  
+**Produtividade:** ⭐⭐⭐⭐⭐  
+**Humor:** ⭐⭐⭐⭐⭐
