@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "137e87e00f51af2e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "__data__/Media/2025-08-25_19-09-04.png"
+              },
+              "icon": "lucide-image",
+              "title": "2025-08-25_19-09-04"
+            }
+          },
+          {
             "id": "971a9222b6fb7bbd",
             "type": "leaf",
             "state": {
@@ -77,26 +89,6 @@
               },
               "icon": "lucide-file",
               "title": "25-08-2025"
-            }
-          },
-          {
-            "id": "9585aad42820e008",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
-            }
-          },
-          {
-            "id": "6ee70f7779b269a5",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
             }
           },
           {
@@ -124,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -303,13 +295,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "0f8ffbcd1ad234ca",
+  "active": "971a9222b6fb7bbd",
   "lastOpenFiles": [
-    "__data__/Media/2025-08-25_20-45-15.png",
-    "01 - Daily/25-08-2025.md",
-    "00-index/Vaga-Java-25-08.md",
     "__data__/Media/2025-08-25_19-09-04.png",
     "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
+    "00-index/Vaga-Java-25-08.md",
+    "__data__/Media/2025-08-25_20-45-15.png",
+    "01 - Daily/25-08-2025.md",
     "03 - Estudos/Estudos-JavaScript",
     "03.md",
     "__data__/Media/2025-08-25_19-07-00.png",
@@ -349,7 +341,6 @@
     "__data__/Templates/dailyV4md copy",
     "__data__/Templates/dailyV4md",
     "Pasted image 20250803201445.png",
-    "__data__/Media/03082025.png",
     "04 - Projetos/Rinha2025-java"
   ]
 }
