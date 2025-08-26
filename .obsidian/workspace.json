@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/25-08-2025.md",
+                "file": "01 - Daily/26-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "25-08-2025"
+              "title": "26-08-2025"
+            }
+          },
+          {
+            "id": "ebac59bae9f0b624",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           },
           {
@@ -297,11 +307,12 @@
   },
   "active": "971a9222b6fb7bbd",
   "lastOpenFiles": [
-    "__data__/Media/2025-08-25_19-09-04.png",
     "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
+    "01 - Daily/26-08-2025.md",
+    "01 - Daily/25-08-2025.md",
+    "__data__/Media/2025-08-25_19-09-04.png",
     "00-index/Vaga-Java-25-08.md",
     "__data__/Media/2025-08-25_20-45-15.png",
-    "01 - Daily/25-08-2025.md",
     "03 - Estudos/Estudos-JavaScript",
     "03.md",
     "__data__/Media/2025-08-25_19-07-00.png",
