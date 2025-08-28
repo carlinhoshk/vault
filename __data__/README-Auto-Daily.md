@@ -1,4 +1,3 @@
-# 🚀 Configuração de Daily Note Automática
 
 ## ✅ **O que foi configurado:**
 
