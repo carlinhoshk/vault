@@ -7,7 +7,7 @@ criado: <% tp.date.now("YYYY-MM-DD") %>
 # 📅 Registro Diário  <% tp.date.now("DD-MM-YYYY") %>
 
 ## 💭 Frase do Dia
-> "<% tp.file.include("[[__data__/Scripts/frase-motivacional]]") %>"
+> "A persistência é o caminho do êxito." - Charles Chaplin
 
 ---
 
@@ -24,8 +24,9 @@ sort by due
 
 ```tasks
 not done
-path includes "01-daily/<% tp.date.now("DD-MM-YYYY", -1) %>"
-sort by description
+due before today
+path includes "01-daily"
+sort by due
 ```
 
 ## 🆕 Novas Tarefas
@@ -38,7 +39,7 @@ sort by description
 ```dataview
 LIST
 FROM ""
-WHERE file.cday = date("<% tp.date.now("YYYY-MM-DD") %>")
+WHERE file.cday = date(today)
 SORT file.mtime desc
 ```
 
@@ -46,6 +47,15 @@ SORT file.mtime desc
 ```dataview
 LIST
 FROM ""
-WHERE file.cday = date("<% tp.date.now("YYYY-MM-DD", -1) %>")
+WHERE file.cday = date(today) - dur(1 day)
 SORT file.mtime desc
+```
+
+## 🗂️ Notas gerais (mais recentes)
+```dataview
+LIST
+FROM ""
+WHERE !contains(file.path, "01-daily/")
+SORT file.mtime desc
+LIMIT 20
 ```
