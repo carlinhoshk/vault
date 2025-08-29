@@ -64,9 +64,33 @@
               "icon": "book-copy",
               "title": "Notes explorer"
             }
+          },
+          {
+            "id": "bf8f200134714df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NestJS e NextJS"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -245,8 +269,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "9d05cb20c04302fd",
+  "active": "bf8f200134714df2",
   "lastOpenFiles": [
+    "00-index/Vaga-Java-25-08.md",
+    "00-index/Spring-WebFlux.md",
+    "00-index/SASS no TOR.md",
     "01 - Daily/29-08-2025.md",
     "01 - Daily/28-08-2025.md",
     "__data__/Media/2025-08-25_19-09-04.png",
@@ -257,7 +284,6 @@
     "__data__/README-Auto-Daily.md",
     "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
     "01 - Daily/25-08-2025.md",
-    "00-index/Vaga-Java-25-08.md",
     "__data__/Media/2025-08-25_20-45-15.png",
     "03 - Estudos/Estudos-JavaScript",
     "03.md",
@@ -280,8 +306,6 @@
     "03 - Estudos/Estudos-Java",
     "01 - Daily/21-08-2025.md",
     "01 - Daily/17-08-2025.md",
-    "00-index/Spring-WebFlux.md",
-    "01 - Daily/16-08-2025.md",
     "__data__/Media/2025-08-15_18-49-27.png",
     "__data__/Media/2025-08-15_18-48-53.png",
     "{{fileName}2025-08-15_18-47-23.png",
