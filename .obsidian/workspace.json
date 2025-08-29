@@ -66,6 +66,18 @@
             }
           },
           {
+            "id": "1eb513d7b3d359cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-08-29 13.34.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-29 13.34.30.excalidraw"
+            }
+          },
+          {
             "id": "bf8f200134714df2",
             "type": "leaf",
             "state": {
@@ -269,12 +281,15 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bf8f200134714df2",
+  "active": "1eb513d7b3d359cb",
   "lastOpenFiles": [
+    "01 - Daily/29-08-2025.md",
+    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-08-29 13.34.30.excalidraw.md",
+    "_data_/Quadros/Quadros-Excalidraw",
+    "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
     "00-index/Vaga-Java-25-08.md",
     "00-index/Spring-WebFlux.md",
     "00-index/SASS no TOR.md",
-    "01 - Daily/29-08-2025.md",
     "01 - Daily/28-08-2025.md",
     "__data__/Media/2025-08-25_19-09-04.png",
     "__data__/Templates/daily-simple.md",
@@ -282,7 +297,6 @@
     "__data__/Templates/nota-diaria.md",
     "01 - Daily/26-08-2025.md",
     "__data__/README-Auto-Daily.md",
-    "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
     "01 - Daily/25-08-2025.md",
     "__data__/Media/2025-08-25_20-45-15.png",
     "03 - Estudos/Estudos-JavaScript",
@@ -305,7 +319,6 @@
     "03 - Estudos/Material da Faculdade 4 Semestre",
     "03 - Estudos/Estudos-Java",
     "01 - Daily/21-08-2025.md",
-    "01 - Daily/17-08-2025.md",
     "__data__/Media/2025-08-15_18-49-27.png",
     "__data__/Media/2025-08-15_18-48-53.png",
     "{{fileName}2025-08-15_18-47-23.png",
@@ -315,7 +328,6 @@
     "03 - Estudos/Estudos-Index/Unconfirmed 934882.crdownload",
     "__data__/Templates/dailyV4md copy",
     "__data__/Templates/dailyV4md",
-    "Pasted image 20250803201445.png",
-    "04 - Projetos/Rinha2025-java"
+    "Pasted image 20250803201445.png"
   ]
 }

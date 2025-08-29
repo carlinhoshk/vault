@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSettings",
       "📅",
       "🗂"
     ],
@@ -32,5 +33,6 @@
     "useInternalPlugins": false
   },
   "01 - Daily": "📅",
-  "00 - Index_old": "🗂"
+  "00-index": "🗂",
+  "__data__": "LiSettings"
 }
