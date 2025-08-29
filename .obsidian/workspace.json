@@ -59,22 +59,34 @@
             "id": "9d05cb20c04302fd",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-daily/29-08-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "29-08-2025"
+            }
+          },
+          {
+            "id": "cc777220fd6de36e",
+            "type": "leaf",
+            "state": {
               "type": "notes-explorer",
               "state": {},
               "icon": "book-copy",
               "title": "Notes explorer"
-            }
-          },
-          {
-            "id": "1eb513d7b3d359cb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-08-29 13.34.30.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-29 13.34.30.excalidraw"
             }
           },
           {
@@ -100,9 +112,33 @@
               "icon": "lucide-file",
               "title": "NestJS e NextJS"
             }
+          },
+          {
+            "id": "7a9774cef8b5f3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-index/Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -281,13 +317,19 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "1eb513d7b3d359cb",
+  "active": "7a9774cef8b5f3dd",
   "lastOpenFiles": [
+    "00-index/Vaga-Java-25-08.md",
+    "README.md",
+    "03.md",
+    "01-daily/29-08-2025.md",
+    "__data__/README-Home-Dashboard.md",
+    "__data__/Scripts/frase-motivacional.js",
+    "00-index/Home.md",
     "01 - Daily/29-08-2025.md",
     "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-08-29 13.34.30.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw",
     "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
-    "00-index/Vaga-Java-25-08.md",
     "00-index/Spring-WebFlux.md",
     "00-index/SASS no TOR.md",
     "01 - Daily/28-08-2025.md",
@@ -300,9 +342,7 @@
     "01 - Daily/25-08-2025.md",
     "__data__/Media/2025-08-25_20-45-15.png",
     "03 - Estudos/Estudos-JavaScript",
-    "03.md",
     "__data__/Media/2025-08-25_19-07-00.png",
-    "00-index/Home.md",
     "01 - Daily/<% tp.date.now(\"DD-MM-YYYY\") %>.md",
     "__data__/Scripts/api-keys.md",
     "01 - Daily/24-07-2025.md",
@@ -311,14 +351,11 @@
     "01 - Daily/23-08-2025.md",
     "01 - Daily/24-08-2025.md",
     "__data__/Scripts/templater-config.md",
-    "__data__/README-How-to-Use.md",
     "__data__/Scripts/simple-daily-setup.js",
-    "03 - Estudos/Material da Faculdade 4 Semestre/Linguagem Orientada a Objetos/Preparar ambiente UN1.md",
     "03 - Estudos/Material da Faculdade 4 Semestre/Linguagem Orientada a Objetos/01_oo_conceitos.pdf",
     "03 - Estudos/Material da Faculdade 4 Semestre/Linguagem Orientada a Objetos",
     "03 - Estudos/Material da Faculdade 4 Semestre",
     "03 - Estudos/Estudos-Java",
-    "01 - Daily/21-08-2025.md",
     "__data__/Media/2025-08-15_18-49-27.png",
     "__data__/Media/2025-08-15_18-48-53.png",
     "{{fileName}2025-08-15_18-47-23.png",
@@ -327,7 +364,6 @@
     "__data__/Media/03-08-2025.png",
     "03 - Estudos/Estudos-Index/Unconfirmed 934882.crdownload",
     "__data__/Templates/dailyV4md copy",
-    "__data__/Templates/dailyV4md",
     "Pasted image 20250803201445.png"
   ]
 }

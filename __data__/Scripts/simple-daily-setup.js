@@ -10,7 +10,7 @@ async function setupDaily(tp) {
     const yesterdayStr = formatDate(yesterday);
     
     // Verifica se existe daily note de ontem
-    const yesterdayFile = `01 - Daily/${yesterdayStr}.md`;
+    const yesterdayFile = `01-daily/${yesterdayStr}.md`;
     const yesterdayNote = app.vault.getAbstractFileByPath(yesterdayFile);
     
     if (yesterdayNote) {
