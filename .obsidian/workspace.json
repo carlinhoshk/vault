@@ -177,8 +177,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-daily/29-08-2025.md",
+                "file": "01-daily/31-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -202,11 +202,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "29-08-2025"
+              "title": "31-08-2025"
+            }
+          },
+          {
+            "id": "fe46beae578eb10b",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -385,14 +395,15 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "185d7e481ee12272",
+  "active": "fe46beae578eb10b",
   "lastOpenFiles": [
+    "01-daily/29-08-2025.md",
+    "01-daily/31-08-2025.md",
     "__data__/README-News-System.md",
     "__data__/Templates/daily-with-real-news.md",
     "__data__/Scripts/api-news-fetcher.js",
     "__data__/Scripts/real-news-fetcher.js",
     "00-index/Home.md",
-    "01-daily/29-08-2025.md",
     "__data__/README-Home-Best-Practices.md",
     "__data__/Templates/home-dashboard.md",
     "__data__/Templates/daily-extended.md",
@@ -421,7 +432,6 @@
     "__data__/Media/2025-08-25_19-07-00.png",
     "01 - Daily/<% tp.date.now(\"DD-MM-YYYY\") %>.md",
     "__data__/Scripts/api-keys.md",
-    "01 - Daily/24-07-2025.md",
     "__data__/Scripts/simple-daily-setup.js",
     "03 - Estudos/Material da Faculdade 4 Semestre/Linguagem Orientada a Objetos/01_oo_conceitos.pdf",
     "03 - Estudos/Material da Faculdade 4 Semestre/Linguagem Orientada a Objetos",
