@@ -57,8 +57,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -67,8 +67,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-daily/31-08-2025.md",
+                "file": "__data__/Templates/daily-with-real-news.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,11 +112,65 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "31-08-2025"
+              "title": "daily-with-real-news"
+            }
+          },
+          {
+            "id": "5f30a283ec4ae26e",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
+            }
+          },
+          {
+            "id": "ce138875de588e77",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
+            }
+          },
+          {
+            "id": "643f9244fe8e5209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__data__/Templates/daily-with-real-news 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "daily-with-real-news 1"
+            }
+          },
+          {
+            "id": "7028db15a88d3e2a",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -295,13 +349,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "49e9ae732f340a3e",
+  "active": "7028db15a88d3e2a",
   "lastOpenFiles": [
-    "__data__/Templates/daily-with-real-news.md",
-    "01-daily/31-08-2025.md",
     "__data__/Scripts/api-news-fetcher.md",
-    "__data__/Scripts/templater-config.md",
+    "01-daily/31-08-2025.md",
+    "__data__/Templates/daily-with-real-news.md",
     "__data__/Templates/daily-with-real-news 1.md",
+    "__data__/Scripts/templater-config.md",
     "__data__/Scripts/tech-news-fetcher.js~",
     "__data__/Scripts/tech-news-fetcher.js",
     "__data__/Templates/daily-fixed.md",

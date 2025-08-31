@@ -1,5 +1,5 @@
 {
-  "autorun": true,
+  "autorun": false,
   "folder": "01-daily",
   "template": "__data__/Templates/daily-working",
   "format": "DD-MM-YYYY"
