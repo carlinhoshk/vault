@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "889c762caf045cc4",
+        "id": "96727842a8e637b3",
         "type": "tabs",
         "children": [
           {
-            "id": "d59f01775057a703",
+            "id": "876ccffa27550cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Daily/28-08-2025.md",
+                "file": "__data__/Templates/daily-simple.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,185 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "28-08-2025"
+              "title": "daily-simple"
             }
           },
           {
-            "id": "b6b39667facd7ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Daily/29-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "29-08-2025"
-            }
-          },
-          {
-            "id": "9d05cb20c04302fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-daily/29-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "29-08-2025"
-            }
-          },
-          {
-            "id": "cc777220fd6de36e",
+            "id": "9f0e3fa7d6194838",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
+              "icon": "book-copy",
+              "title": "Notes explorer"
             }
           },
           {
-            "id": "bf8f200134714df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NestJS e NextJS"
-            }
-          },
-          {
-            "id": "7a9774cef8b5f3dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-index/Home.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "2095935fd166e2a3",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "f7aa1cd1153d457c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-daily/29-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "29-08-2025"
-            }
-          },
-          {
-            "id": "7b0d517ad812f531",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "185d7e481ee12272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-daily/31-08-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "31-08-2025"
-            }
-          },
-          {
-            "id": "fe46beae578eb10b",
+            "id": "2ab136ad290b3980",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -215,8 +51,7 @@
               "title": "Notes explorer"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 439.5
   },
   "right": {
     "id": "0ac8371dcf7dd8e2",
@@ -395,47 +230,47 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "fe46beae578eb10b",
+  "active": "876ccffa27550cdd",
   "lastOpenFiles": [
-    "01-daily/29-08-2025.md",
-    "01-daily/31-08-2025.md",
-    "__data__/README-News-System.md",
+    "__data__/Scripts/templater-config.md",
+    "__data__/Scripts/api-news-fetcher.md",
     "__data__/Templates/daily-with-real-news.md",
+    "__data__/Templates/daily-simple.md",
+    "__data__/Templates/daily-fixed.md",
+    "__data__/Templates/daily-working.md",
+    "01-daily/31-08-2025.md",
+    "00-index/Revisao-FundamentosC++.md",
+    "__data__/Templates/daily-final.md",
+    "00-index/Vaga-Java-25-08.md",
+    "__data__/Scripts/simple-news.js",
+    "04-projetos/Coxinha-Air-Portatil.md",
+    "00-index/Home.md",
+    "01-daily/228-02-2025.md",
+    "01-daily/21-03-2025.md",
+    "01-daily/14-06-2025.md",
+    "01-daily/07-08-2025.md",
+    "01-daily/08-08-2025.md",
+    "01-daily/09-07-2025.md",
+    "01-daily/10-04-2025.md",
+    "01-daily/10-05-2025.md",
+    "01-daily/10-06-2025.md",
+    "01-daily/10-07-2025.md",
+    "01-daily/29-08-2025.md",
+    "01-daily/<% tp.date.now(\"DD-MM-YYYY\") %>.md",
+    "__data__/README-News-System.md",
     "__data__/Scripts/api-news-fetcher.js",
     "__data__/Scripts/real-news-fetcher.js",
-    "00-index/Home.md",
     "__data__/README-Home-Best-Practices.md",
-    "__data__/Templates/home-dashboard.md",
-    "__data__/Templates/daily-extended.md",
     "__data__/Scripts/news-fetcher.js",
-    "00-index/Vaga-Java-25-08.md",
-    "README.md",
-    "03.md",
-    "__data__/README-Home-Dashboard.md",
     "__data__/Scripts/frase-motivacional.js",
-    "01 - Daily/29-08-2025.md",
-    "_data_/Quadros/Quadros-Excalidraw/Drawing 2025-08-29 13.34.30.excalidraw.md",
     "_data_/Quadros/Quadros-Excalidraw",
-    "03 - Estudos/Estudos-JavaScript/NestJS e NextJS.md",
-    "00-index/Spring-WebFlux.md",
-    "00-index/SASS no TOR.md",
-    "01 - Daily/28-08-2025.md",
     "__data__/Media/2025-08-25_19-09-04.png",
-    "__data__/Templates/daily-simple.md",
-    "__data__/Templates/daily-note-template.md",
-    "__data__/Templates/nota-diaria.md",
-    "01 - Daily/26-08-2025.md",
-    "__data__/README-Auto-Daily.md",
-    "01 - Daily/25-08-2025.md",
     "__data__/Media/2025-08-25_20-45-15.png",
     "03 - Estudos/Estudos-JavaScript",
     "__data__/Media/2025-08-25_19-07-00.png",
-    "01 - Daily/<% tp.date.now(\"DD-MM-YYYY\") %>.md",
-    "__data__/Scripts/api-keys.md",
     "__data__/Scripts/simple-daily-setup.js",
     "03 - Estudos/Material da Faculdade 4 Semestre/Linguagem Orientada a Objetos/01_oo_conceitos.pdf",
     "03 - Estudos/Material da Faculdade 4 Semestre/Linguagem Orientada a Objetos",
-    "03 - Estudos/Material da Faculdade 4 Semestre",
     "__data__/Media/2025-08-15_18-49-27.png",
     "__data__/Media/2025-08-15_18-48-53.png",
     "{{fileName}2025-08-15_18-47-23.png",

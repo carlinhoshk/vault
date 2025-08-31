@@ -161,6 +161,13 @@ class ApiNewsFetcher {
                     '1963 - Linha vermelha do telefone entre EUA e URSS',
                     '1991 - Azerbaijão declara independência da URSS',
                     '2007 - Apple lança o primeiro iPhone no Brasil'
+                ],
+                '8-31': [
+                    '1888 - Jack, o Estripador, comete seu primeiro assassinato',
+                    '1939 - Alemanha invade a Polônia, iniciando a Segunda Guerra Mundial',
+                    '1957 - Malásia declara independência do Reino Unido',
+                    '1991 - Quirguistão declara independência da URSS',
+                    '1997 - Princesa Diana morre em acidente de carro em Paris'
                 ]
             };
             
@@ -236,6 +243,15 @@ async function getAllApiNews(tp) {
     return `${news.hackerNews}\n\n${news.redditTech}\n\n${news.redditBrazil}\n\n${news.redditWorld}\n\n${news.historicalFacts}`;
 }
 
+// Função de exportação padrão para o Templater
+async function default(tp) {
+    const fetcher = new ApiNewsFetcher();
+    const today = new Date();
+    const news = await fetcher.generateAllNews(today);
+    
+    return `${news.hackerNews}\n\n${news.redditTech}\n\n${news.redditBrazil}\n\n${news.redditWorld}\n\n${news.historicalFacts}`;
+}
+
 module.exports = { 
     ApiNewsFetcher, 
     getHackerNews, 
@@ -243,5 +259,6 @@ module.exports = {
     getRedditBrazil, 
     getRedditWorldNews,
     getHistoricalFacts,
-    getAllApiNews 
+    getAllApiNews,
+    default
 };
