@@ -1,7 +1,9 @@
 ---
-tags: daily, real-news
+tags:
+  - daily
+  - Log/RegistroDiario
 tipo: Log/Daily
-criado: <% tp.date.now("YYYY-MM-DD") %>
+criado: <%tp.date.now("YYYY-MM-DD")%>
 ---
 
 # 📅 Registro Diário com Notícias Reais - <% tp.date.now("DD-MM-YYYY") %>

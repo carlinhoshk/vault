@@ -12,14 +12,14 @@
   "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "__data__/Scripts",
-  "enable_folder_templates": false,
+  "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
+      "folder": "__data__/Templates",
       "template": ""
     }
   ],
-  "enable_file_templates": true,
+  "enable_file_templates": false,
   "file_templates": [
     {
       "regex": ".*",

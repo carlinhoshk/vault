@@ -5,7 +5,7 @@
   "daily": {
     "format": "DD-MM-YYYY",
     "folder": "01-daily",
-    "template": "__data__/Templates/daily-working.md",
+    "template": "__data__/Templates/daily-simple.md",
     "enabled": true,
     "openOnStartup": true
   },
