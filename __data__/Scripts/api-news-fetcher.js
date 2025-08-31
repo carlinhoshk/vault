@@ -1,8 +1,8 @@
 
-const { request } = require("obsidian");
 
 module.exports = async (tp) => {
   try {
+    const { request } = app.plugins.plugins["obsidian-request"];
     // RSS da Agência Brasil
     const url = "https://agenciabrasil.ebc.com.br/rss/geral.xml";
 

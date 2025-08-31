@@ -1,8 +1,6 @@
-
-const { request } = require("obsidian");
-
 module.exports = async (tp) => {
   try {
+    const { request } = app.plugins.plugins["obsidian-request"];
     // RSS do Hacker News
     const url = "https://hnrss.org/frontpage";
 
