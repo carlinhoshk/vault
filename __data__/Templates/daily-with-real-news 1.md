@@ -28,14 +28,24 @@ sort by due
 
 ## 🆕 Novas Tarefas
 - [ ] 
+## 📰 Notícias do Dia
+
+### 🔥 Hacker News
+<% tp.file.include("[[__data__/Scripts/api-news-fetcher]]") %>
+
+### 💻 Reddit Technology
+<% tp.file.include("[[__data__/Scripts/api-news-fetcher]]") %>
+
+### 🇧🇷 Reddit Brasil
+<% tp.file.include("[[__data__/Scripts/api-news-fetcher]]") %>
+
+### 🌍 Reddit World News
+<% tp.file.include("[[__data__/Scripts/api-news-fetcher]]") %>
+
 ---
-## 📰 Noticias do Dia
 
-### 🇧🇷 Brasil
-<% tp.user"api-news-fetcher" %>
-
-### 💻 Tech
-<% tp.user"tech-news-fetcher" %>
+## 📚 Fatos Históricos do Dia
+<% tp.file.include("[[__data__/Scripts/api-news-fetcher]]") %>
 
 ---
 
