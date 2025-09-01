@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96727842a8e637b3",
+        "id": "4b1e1ef8a660a141",
         "type": "tabs",
         "children": [
           {
-            "id": "876ccffa27550cdd",
+            "id": "271cdfe4d51638f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__data__/Templates/daily-simple.md",
+                "file": "01-daily/31-08-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,169 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily-simple"
+              "title": "31-08-2025"
             }
           },
           {
-            "id": "c763a234f6573517",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "9f0e3fa7d6194838",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "2ab136ad290b3980",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "b9ee1582c04e7efb",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "e87aaf0015a1d527",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "f29778d6025e4e92",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "49e9ae732f340a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__data__/Templates/daily-with-real-news.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "daily-with-real-news"
-            }
-          },
-          {
-            "id": "5f30a283ec4ae26e",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "ce138875de588e77",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "7028db15a88d3e2a",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "681a0bd0a490c2b5",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "670aa84b9336cc3a",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "72c046958ffd08e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__data__/Templates/daily-with-real-news.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "daily-with-real-news"
-            }
-          },
-          {
-            "id": "be143b173705b7cf",
+            "id": "c50ffffe5e517461",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -198,33 +40,9 @@
               "icon": "book-copy",
               "title": "Notes explorer"
             }
-          },
-          {
-            "id": "f65533e8cc090703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__data__/Templates/daily-with-real-news.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "daily-with-real-news"
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -402,13 +220,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "0017a84ecfb56c15",
+  "active": "c50ffffe5e517461",
   "lastOpenFiles": [
+    "01-daily/31-08-2025.md",
+    "__data__/Templates/daily-with-real-news.md",
     "__data__/Templates/daily_template.md~",
     "__data__/Templates/daily_template.md",
     "__data__/Scripts/news_fetcher_script.js",
-    "01-daily/31-08-2025.md",
-    "__data__/Templates/daily-with-real-news.md",
     "__data__/old/templater-config.md",
     "__data__/old/tech-news-fetcher.js",
     "__data__/old/simple-news.js",
@@ -418,7 +236,6 @@
     "__data__/old/real-news-fetcher.js",
     "__data__/old/news-fetcher.js",
     "__data__/old/migrate_pending_tasks.js",
-    "__data__/old/frase-motivacional.js",
     "__data__/Scripts/old/templater-config.md",
     "__data__/Templates/daily-with-real-news 1.md",
     "__data__/Scripts/api-news-fetcher.md",
