@@ -32,10 +32,10 @@ sort by due
 ## 📰 Noticias do Dia
 
 ### 🇧🇷 Brasil
-<% tp.user"api-news-fetcher" %>
 
+<% tp.user.api-news-fetcher %>
 ### 💻 Tech
-<% tp.user"tech-news-fetcher" %>
+<% tp.user.api-tech-news-fetcher %>
 
 ---
 

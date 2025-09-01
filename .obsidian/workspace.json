@@ -146,12 +146,32 @@
             }
           },
           {
-            "id": "880e0ce2600a7708",
+            "id": "681a0bd0a490c2b5",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
+            }
+          },
+          {
+            "id": "670aa84b9336cc3a",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
+            }
+          },
+          {
+            "id": "72c046958ffd08e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-daily/31-08-2025.md",
+                "file": "__data__/Templates/daily-with-real-news.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -166,11 +186,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "31-08-2025"
+              "title": "daily-with-real-news"
             }
           },
           {
-            "id": "681a0bd0a490c2b5",
+            "id": "be143b173705b7cf",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -178,19 +198,9 @@
               "icon": "book-copy",
               "title": "Notes explorer"
             }
-          },
-          {
-            "id": "670aa84b9336cc3a",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -360,7 +370,6 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -369,28 +378,33 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "681a0bd0a490c2b5",
+  "active": "0017a84ecfb56c15",
   "lastOpenFiles": [
-    "__data__/Scripts/old",
+    "__data__/old/templater-config.md",
+    "__data__/old/tech-news-fetcher.js",
+    "__data__/old/simple-news.js",
+    "__data__/old/simple-migrate.js",
+    "__data__/old/simple-daily-setup.js",
+    "__data__/old/rollover_daily_todos.js",
+    "__data__/old/real-news-fetcher.js",
+    "__data__/old/news-fetcher.js",
+    "__data__/old/migrate_pending_tasks.js",
+    "__data__/old/frase-motivacional.js",
+    "__data__/old/cleanup-daily-notes.js",
+    "__data__/Scripts/old/templater-config.md",
+    "__data__/Templates/daily-with-real-news.md",
     "01-daily/31-08-2025.md",
-    "__data__/Scripts/tech-news-fetcher.js~",
     "__data__/Templates/daily-with-real-news 1.md",
     "__data__/Scripts/api-news-fetcher.md",
-    "__data__/Templates/daily-with-real-news.md",
     "__data__/Scripts/templater-config.md",
-    "__data__/Scripts/tech-news-fetcher.js",
     "__data__/Templates/daily-fixed.md",
     "__data__/Templates/daily-simple.md",
     "__data__/Templates/home-dashboard.md",
     "__data__/Templates/daily-extended.md",
-    "__data__/Scripts/api-news-fetcher.js~",
-    "__data__/Scripts/api-news-fetcher.js",
-    "__data__/Scripts/api-news-fetcher.js.bak",
     "__data__/Templates/daily-working.md",
     "00-index/Revisao-FundamentosC++.md",
     "__data__/Templates/daily-final.md",
     "00-index/Vaga-Java-25-08.md",
-    "__data__/Scripts/simple-news.js",
     "04-projetos/Coxinha-Air-Portatil.md",
     "00-index/Home.md",
     "01-daily/228-02-2025.md",
@@ -402,11 +416,6 @@
     "01-daily/10-04-2025.md",
     "01-daily/10-05-2025.md",
     "01-daily/10-06-2025.md",
-    "01-daily/10-07-2025.md",
-    "__data__/Scripts/real-news-fetcher.js",
-    "__data__/Scripts/news-fetcher.js",
-    "__data__/Scripts/frase-motivacional.js",
-    "_data_/Quadros/Quadros-Excalidraw",
     "__data__/Media/2025-08-25_19-09-04.png",
     "__data__/Media/2025-08-25_20-45-15.png",
     "__data__/Media/2025-08-25_19-07-00.png",

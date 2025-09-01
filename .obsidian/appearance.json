@@ -6,5 +6,6 @@
   "nativeMenus": true,
   "textFontFamily": "Arial Black",
   "accentColor": "#00ff00",
-  "interfaceFontFamily": "Arial Black"
+  "interfaceFontFamily": "Arial Black",
+  "showViewHeader": true
 }
