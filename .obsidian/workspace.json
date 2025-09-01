@@ -170,7 +170,7 @@
             }
           },
           {
-            "id": "670aa84b9336cc3a",
+            "id": "681a0bd0a490c2b5",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -178,9 +178,19 @@
               "icon": "book-copy",
               "title": "Notes explorer"
             }
+          },
+          {
+            "id": "670aa84b9336cc3a",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -359,7 +369,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "880e0ce2600a7708",
+  "active": "681a0bd0a490c2b5",
   "lastOpenFiles": [
     "__data__/Scripts/old",
     "01-daily/31-08-2025.md",
