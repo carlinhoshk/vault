@@ -32,13 +32,23 @@
             }
           },
           {
-            "id": "c50ffffe5e517461",
+            "id": "2d2df1a2435f650a",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
               "state": {},
               "icon": "book-copy",
               "title": "Notes explorer"
+            }
+          },
+          {
+            "id": "c50ffffe5e517461",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           }
         ],
@@ -220,7 +230,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "c50ffffe5e517461",
+  "active": "2d2df1a2435f650a",
   "lastOpenFiles": [
     "01-daily/31-08-2025.md",
     "__data__/Templates/daily-with-real-news.md",
