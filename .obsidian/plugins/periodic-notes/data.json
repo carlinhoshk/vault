@@ -5,7 +5,7 @@
   "daily": {
     "format": "DD-MM-YYYY",
     "folder": "01-daily",
-    "template": "__data__/Templates/daily-with-real-news.md",
+    "template": "__data__/Templates/daily_template.md",
     "enabled": true,
     "openOnStartup": true
   },

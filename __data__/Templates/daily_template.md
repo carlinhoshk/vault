@@ -1,0 +1,102 @@
+---
+tags:
+  - daily
+  - Log/RegistroDiario
+tipo: Log/Daily
+criado: <% tp.date.now("DD-MM-YYYY") %>
+---
+
+# 📅 Registro Diário — <% tp.date.now("DD-MM-YYYY") %>
+
+---
+
+## 📋 Tarefas de Hoje
+
+```tasks
+not done
+(due today) OR (scheduled today)
+path includes "01-daily"
+sort by due
+```
+
+## ⏪ Tarefas Pendentes
+
+```tasks
+not done
+due before today
+path includes "01-daily"
+sort by due
+```
+
+## 🆕 Novas Tarefas
+- [ ] 
+
+---
+
+## 📰 Notícias do Dia
+
+### 🇧🇷 Brasil 
+<% tp.user["api-news-fetcher"]() %>
+
+---
+
+## 📝 Notas do Dia
+- 
+
+---
+
+## 📊 Visão Geral das Notas
+
+### 🗒️ Notas criadas hoje
+```dataview
+LIST
+FROM ""
+WHERE file.cday = date(today)
+AND !contains(file.path, "01-daily/")
+SORT file.mtime desc
+```
+
+### 🗒️ Notas criadas ontem
+```dataview
+LIST
+FROM ""
+WHERE file.cday = date(today) - dur(1 day)
+AND !contains(file.path, "01-daily/")
+SORT file.mtime desc
+```
+
+### 🗂️ Notas recentes (geral)
+```dataview
+LIST
+FROM ""
+WHERE !contains(file.path, "01-daily/")
+SORT file.mtime desc
+LIMIT 15
+```
+
+---
+
+## 🌟 Reflexões do Dia
+
+### 💡 O que aprendi hoje?
+- 
+
+### 🎯 O que posso melhorar?
+- 
+
+### 🏆 Conquistas de hoje
+- 
+
+### 📋 Para amanhã
+- [ ] 
+
+---
+
+## 🔗 Links Úteis
+- [[Projetos Ativos]]
+- [[Objetivos do Mês]]
+- [[Hábitos]]
+
+---
+
+*Template criado em: <% tp.date.now("DD-MM-YYYY HH:mm") %>*

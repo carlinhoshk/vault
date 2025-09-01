@@ -198,9 +198,33 @@
               "icon": "book-copy",
               "title": "Notes explorer"
             }
+          },
+          {
+            "id": "f65533e8cc090703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__data__/Templates/daily-with-real-news.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "daily-with-real-news"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -380,6 +404,11 @@
   },
   "active": "0017a84ecfb56c15",
   "lastOpenFiles": [
+    "__data__/Templates/daily_template.md~",
+    "__data__/Templates/daily_template.md",
+    "__data__/Scripts/news_fetcher_script.js",
+    "01-daily/31-08-2025.md",
+    "__data__/Templates/daily-with-real-news.md",
     "__data__/old/templater-config.md",
     "__data__/old/tech-news-fetcher.js",
     "__data__/old/simple-news.js",
@@ -390,10 +419,7 @@
     "__data__/old/news-fetcher.js",
     "__data__/old/migrate_pending_tasks.js",
     "__data__/old/frase-motivacional.js",
-    "__data__/old/cleanup-daily-notes.js",
     "__data__/Scripts/old/templater-config.md",
-    "__data__/Templates/daily-with-real-news.md",
-    "01-daily/31-08-2025.md",
     "__data__/Templates/daily-with-real-news 1.md",
     "__data__/Scripts/api-news-fetcher.md",
     "__data__/Scripts/templater-config.md",
@@ -414,8 +440,6 @@
     "01-daily/08-08-2025.md",
     "01-daily/09-07-2025.md",
     "01-daily/10-04-2025.md",
-    "01-daily/10-05-2025.md",
-    "01-daily/10-06-2025.md",
     "__data__/Media/2025-08-25_19-09-04.png",
     "__data__/Media/2025-08-25_20-45-15.png",
     "__data__/Media/2025-08-25_19-07-00.png",
