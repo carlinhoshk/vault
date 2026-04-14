@@ -37,8 +37,8 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
-              "icon": "book-copy",
-              "title": "Notes explorer"
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
             }
           },
           {
@@ -74,9 +74,19 @@
               "icon": "lucide-file",
               "title": "convencao de codigo 09 Oracle-Sun"
             }
+          },
+          {
+            "id": "a8e1afe534c65642",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
+              "icon": "book-copy",
+              "title": "Notes explorer"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -254,7 +264,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "38e99ecfc9c4b582",
+  "active": "a8e1afe534c65642",
   "lastOpenFiles": [
     "__data__/Media/2025-09-01_20-36-14.png",
     "01-daily/31-08-2025.md",
