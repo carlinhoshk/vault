@@ -40,9 +40,33 @@
               "icon": "book-copy",
               "title": "Notes explorer"
             }
+          },
+          {
+            "id": "357eb084fe5744be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-index/IA-Aider.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IA-Aider"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,8 +244,9 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "1ffe456a67d6b7e9",
+  "active": "357eb084fe5744be",
   "lastOpenFiles": [
+    "00-index/IA-Aider.md",
     "Objetivos do Mês.md",
     "01-daily/13-04-2026.md",
     "__data__/Scripts/tech_news.js",
@@ -258,7 +283,6 @@
     "01-daily/21-03-2025.md",
     "01-daily/14-06-2025.md",
     "01-daily/07-08-2025.md",
-    "01-daily/08-08-2025.md",
     "__data__/Media/2025-08-25_19-09-04.png",
     "__data__/Media/2025-08-25_20-45-15.png",
     "__data__/Media/2025-08-25_19-07-00.png",
