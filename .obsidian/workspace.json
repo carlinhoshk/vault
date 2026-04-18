@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b1e1ef8a660a141",
+        "id": "d918b052c76b135c",
         "type": "tabs",
         "children": [
           {
-            "id": "271cdfe4d51638f7",
+            "id": "bf43a9f95bd73486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-daily/31-08-2025.md",
+                "file": "01-daily/13-04-2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "31-08-2025"
+              "title": "13-04-2026"
             }
           },
           {
-            "id": "2d2df1a2435f650a",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "c50ffffe5e517461",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "38e99ecfc9c4b582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-index/convencao de codigo 09 Oracle-Sun.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "convencao de codigo 09 Oracle-Sun"
-            }
-          },
-          {
-            "id": "a8e1afe534c65642",
+            "id": "1ffe456a67d6b7e9",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -86,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,11 +220,14 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "a8e1afe534c65642",
+  "active": "1ffe456a67d6b7e9",
   "lastOpenFiles": [
-    "__data__/Media/2025-09-01_20-36-14.png",
+    "Objetivos do Mês.md",
+    "01-daily/13-04-2026.md",
+    "__data__/Scripts/tech_news.js",
     "01-daily/31-08-2025.md",
     "00-index/convencao de codigo 09 Oracle-Sun.md",
+    "__data__/Media/2025-09-01_20-36-14.png",
     "__data__/Templates/daily-with-real-news.md",
     "__data__/Templates/daily_template.md~",
     "__data__/Templates/daily_template.md",
@@ -281,7 +240,6 @@
     "__data__/old/rollover_daily_todos.js",
     "__data__/old/real-news-fetcher.js",
     "__data__/old/news-fetcher.js",
-    "__data__/old/migrate_pending_tasks.js",
     "__data__/Scripts/old/templater-config.md",
     "__data__/Templates/daily-with-real-news 1.md",
     "__data__/Scripts/api-news-fetcher.md",
@@ -301,7 +259,6 @@
     "01-daily/14-06-2025.md",
     "01-daily/07-08-2025.md",
     "01-daily/08-08-2025.md",
-    "01-daily/09-07-2025.md",
     "__data__/Media/2025-08-25_19-09-04.png",
     "__data__/Media/2025-08-25_20-45-15.png",
     "__data__/Media/2025-08-25_19-07-00.png",
@@ -310,7 +267,6 @@
     "{{fileName}2025-08-15_18-47-23.png",
     "{fileName}2025-08-15_18-46-54.png",
     "Pasted image 20250815184458.png",
-    "__data__/Media/03-08-2025.png",
-    "Pasted image 20250803201445.png"
+    "__data__/Media/03-08-2025.png"
   ]
 }

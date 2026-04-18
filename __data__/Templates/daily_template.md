@@ -3,15 +3,29 @@ tags:
   - daily
   - Log/RegistroDiario
 tipo: Log/Daily
-criado: <% tp.date.now("DD-MM-YYYY") %>
+criado: <% tp.date.now("YYYY-MM-DD") %>
+data: <% tp.date.now("DD-MM-YYYY") %>
 ---
 
-# 📅 Registro Diário — <% tp.date.now("DD-MM-YYYY") %>
+# 📅 Daily — <% tp.date.now("DD-MM-YYYY") %>
 
 ---
 
-## 📋 Tarefas de Hoje
+## 🎯 Foco do Dia
 
+**Prioridade absoluta:**
+> 
+
+**3 MITs:**
+1. 
+2. 
+3. 
+
+---
+
+## 📋 Tarefas
+
+### 🔥 Hoje
 ```tasks
 not done
 (due today) OR (scheduled today)
@@ -19,8 +33,7 @@ path includes "01-daily"
 sort by due
 ```
 
-## ⏪ Tarefas Pendentes
-
+### ⏪ Atrasadas
 ```tasks
 not done
 due before today
@@ -28,75 +41,52 @@ path includes "01-daily"
 sort by due
 ```
 
-## 🆕 Novas Tarefas
+### 🆕 Nova
 - [ ] 
 
 ---
 
-## 📰 Notícias do Dia
+## 💻 Notícias Tech
 
-### 🇧🇷 Brasil 
-<% tp.user["api-news-fetcher"]() %>
-
----
-
-## 📝 Notas do Dia
-- 
+<% await tp.user["tech_news"]() %>
 
 ---
 
-## 📊 Visão Geral das Notas
+## 🚀 Projetos & Deadlines
 
-### 🗒️ Notas criadas hoje
+### Projetos Ativos
 ```dataview
-LIST
-FROM ""
-WHERE file.cday = date(today)
-AND !contains(file.path, "01-daily/")
+LIST 
+FROM "04-projetos"
+WHERE !contains(file.path, "Templates")
 SORT file.mtime desc
+LIMIT 5
 ```
 
-### 🗒️ Notas criadas ontem
-```dataview
-LIST
-FROM ""
-WHERE file.cday = date(today) - dur(1 day)
-AND !contains(file.path, "01-daily/")
-SORT file.mtime desc
-```
-
-### 🗂️ Notas recentes (geral)
-```dataview
-LIST
-FROM ""
-WHERE !contains(file.path, "01-daily/")
-SORT file.mtime desc
-LIMIT 15
+### ⚠️ Próximos 7 dias
+```tasks
+not done
+(due within 7 days)
+NOT (due before today)
+sort by due
 ```
 
 ---
 
-## 🌟 Reflexões do Dia
-
-### 💡 O que aprendi hoje?
+## 🛡️ Blockers
 - 
 
-### 🎯 O que posso melhorar?
-- 
+---
 
-### 🏆 Conquistas de hoje
-- 
+## 📊 Review
 
-### 📋 Para amanhã
+**Feito:**
+- [x] 
+- [x] 
+
+**Pendências para amanhã:**
 - [ ] 
 
 ---
 
-## 🔗 Links Úteis
-- [[Projetos Ativos]]
-- [[Objetivos do Mês]]
-- [[Hábitos]]
-
----
-
-*Template criado em: <% tp.date.now("DD-MM-YYYY HH:mm") %>*
+*<% tp.date.now("DD-MM-YYYY HH:mm") %>*
