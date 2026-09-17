@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d918b052c76b135c",
+        "id": "4b1a9045560043bc",
         "type": "tabs",
         "children": [
           {
-            "id": "bf43a9f95bd73486",
+            "id": "033ca83f20795118",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-daily/13-04-2026.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,45 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "13-04-2026"
+              "title": "README"
             }
           },
           {
-            "id": "1ffe456a67d6b7e9",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "357eb084fe5744be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-index/IA-Aider.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IA-Aider"
-            }
-          },
-          {
-            "id": "a358c47e587c41c3",
+            "id": "e5f87a546f087840",
             "type": "leaf",
             "state": {
               "type": "notes-explorer",
@@ -76,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +62,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -254,11 +222,16 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "a358c47e587c41c3",
+  "active": "e5f87a546f087840",
   "lastOpenFiles": [
-    "00-index/IA-Aider.md",
     "Objetivos do Mês.md",
+    "vida-publica/links-receita.md",
+    "03-estudos/Estudos-Index/Estudos OS linux.md",
+    "03-estudos/Estudos-Index/Estudos C-sharp.md",
+    "03-estudos/Estudos-Index/Divisão Euclidiana.md",
+    "01-daily/24-04-2025.md",
     "01-daily/13-04-2026.md",
+    "00-index/IA-Aider.md",
     "__data__/Scripts/tech_news.js",
     "01-daily/31-08-2025.md",
     "00-index/convencao de codigo 09 Oracle-Sun.md",
@@ -288,11 +261,6 @@
     "__data__/Templates/daily-final.md",
     "00-index/Vaga-Java-25-08.md",
     "04-projetos/Coxinha-Air-Portatil.md",
-    "00-index/Home.md",
-    "01-daily/228-02-2025.md",
-    "01-daily/21-03-2025.md",
-    "01-daily/14-06-2025.md",
-    "01-daily/07-08-2025.md",
     "__data__/Media/2025-08-25_19-09-04.png",
     "__data__/Media/2025-08-25_20-45-15.png",
     "__data__/Media/2025-08-25_19-07-00.png",
