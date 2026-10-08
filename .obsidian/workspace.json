@@ -37,12 +37,46 @@
             "state": {
               "type": "notes-explorer",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "notes-explorer"
+            }
+          },
+          {
+            "id": "17b89036fc38bf81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-daily/09-07-2025.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "09-07-2025"
+            }
+          },
+          {
+            "id": "8f1a55c2108c21c5",
+            "type": "leaf",
+            "state": {
+              "type": "notes-explorer",
+              "state": {},
               "icon": "book-copy",
               "title": "Notes explorer"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,10 +256,16 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "e5f87a546f087840",
+  "active": "8f1a55c2108c21c5",
   "lastOpenFiles": [
-    "Objetivos do Mês.md",
+    "01-daily/23-07-2025.md",
+    "01-daily/30-04-2025.md",
+    "06-organizacao-linux/Configurar Keyboard Bluetooth.md",
+    "99-index-old/Prototipo em Python.md",
+    "99-index-old/ProcessosXMenssageria.md",
     "vida-publica/links-receita.md",
+    "Objetivos do Mês.md",
+    "README.md",
     "03-estudos/Estudos-Index/Estudos OS linux.md",
     "03-estudos/Estudos-Index/Estudos C-sharp.md",
     "03-estudos/Estudos-Index/Divisão Euclidiana.md",
@@ -255,12 +295,6 @@
     "__data__/Templates/daily-fixed.md",
     "__data__/Templates/daily-simple.md",
     "__data__/Templates/home-dashboard.md",
-    "__data__/Templates/daily-extended.md",
-    "__data__/Templates/daily-working.md",
-    "00-index/Revisao-FundamentosC++.md",
-    "__data__/Templates/daily-final.md",
-    "00-index/Vaga-Java-25-08.md",
-    "04-projetos/Coxinha-Air-Portatil.md",
     "__data__/Media/2025-08-25_19-09-04.png",
     "__data__/Media/2025-08-25_20-45-15.png",
     "__data__/Media/2025-08-25_19-07-00.png",
